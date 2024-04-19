@@ -1,5 +1,5 @@
 local links = {
-  BuildABoat = "https://raw.githubusercontent.com/KrypDeveloper/RobloxScripts/main/Build%20A%20Boat%20ogeidxforst",
+  --BuildABoat = "https://raw.githubusercontent.com/KrypDeveloper/RobloxScripts/main/Build%20A%20Boat%20ogeidxforst",
   omnix = "https://raw.githubusercontent.com/KrypDeveloper/Quasar/main/src/Scripts/Quasar%20Hub%20OMNI%20X.lua",
   Residence = "https://raw.githubusercontent.com/KrypDeveloper/Quasar/main/src/Scripts/Quasar%20Hub%20Residence%20Massacre.lua",
   area51 = "https://raw.githubusercontent.com/KrypDeveloper/Quasar/main/src/Scripts/Quasar%20Hub%20Survive%20and%20kill%20the%20Killers.lua",
@@ -10,7 +10,7 @@ local links = {
 }
 
 local utility = {
-  [537413528] = links.BuildABoat,
+  --[537413528] = links.BuildABoat,
   [16365412402] = links.omnix,
   [16091658541] = links.omnix,
   [16129091908] = links.omnix,
