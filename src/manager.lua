@@ -1,16 +1,12 @@
 local links = {
-  --BuildABoat = "https://raw.githubusercontent.com/KrypDeveloper/RobloxScripts/main/Build%20A%20Boat%20ogeidxforst",
   omnix = "https://raw.githubusercontent.com/KrypDeveloper/Quasar/main/src/Scripts/Quasar%20Hub%20OMNI%20X.lua",
   Residence = "https://raw.githubusercontent.com/KrypDeveloper/Quasar/main/src/Scripts/Quasar%20Hub%20Residence%20Massacre.lua",
   area51 = "https://raw.githubusercontent.com/KrypDeveloper/Quasar/main/src/Scripts/Quasar%20Hub%20Survive%20and%20kill%20the%20Killers.lua",
   bear = "https://raw.githubusercontent.com/KrypDeveloper/Quasar/main/src/Scripts/Quasar%20Hub%20BEAR%20ALPHA.lua",
   HomeAlone = "https://raw.githubusercontent.com/KrypDeveloper/Quasar/main/src/Scripts/Quasar%20Hub%20Home%20Alone.lua"
-  --BoxDown = "https://raw.githubusercontent.com/KrypDeveloper/RobloxScripts/main/FrostXOgeid%20BoxDown",
-  --stairs = "https://raw.githubusercontent.com/KrypDeveloper/RobloxScripts/main/FrostXOgeid%202000%20stairs"
 }
 
 local utility = {
-  --[537413528] = links.BuildABoat,
   [16365412402] = links.omnix,
   [16091658541] = links.omnix,
   [16129091908] = links.omnix,
@@ -20,7 +16,6 @@ local utility = {
   [16091658541] = links.omnix,
   [16129091908] = links.omnix,
   [5210095481] = links.omnix,
-  --[189707] = "https://raw.githubusercontent.com/KrypDeveloper/RobloxScripts/main/Frost%20Hub%20%7C%20Natural%20Disaster.lua",
   [14437001043] = links.Residence,
   [16667550979] = links.Residence,
   [14896802601] = links.Residence,
@@ -36,14 +31,17 @@ local utility = {
   [13477040473] = links.bear,
   [15985826131] = links.HomeAlone,
   [15988754129] = links.HomeAlone
-  --[6999691637] = links.BoxDown,
-  --[10129750406] = links.stairs
 }
-
-for id, script in pairs(utility) do
-  if game.PlaceId == id then
-    loadstring(game:HttpGet(script))()
-    break
+local function verify()
+  for id, script in pairs(utility) do
+    if game.PlaceId == id then
+      return true
+    end
   end
 end
 
+if verify() then
+  loadstring(game:HttpGet(utility[game.PlaceId]))()
+else
+    game.Players.LocalPlayer:kick("Unsupported Game")
+end
