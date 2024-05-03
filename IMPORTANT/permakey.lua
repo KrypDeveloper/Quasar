@@ -5,12 +5,17 @@ module = {
   }
 }
 
-function module:validateperma()
-  if module.permahwids[gethwid()] then
+function module:validateperma(jsonlink)
+  local http = cloneref(game:GetService("HttpService"))
+  local link = jsonlink
+  local succ, result = pcall(function()
+	    return http:JSONDecode(game:HttpGet(link))
+  end)
+
+  if succ and result[gethwid()] then
     return true
-  else
-    return false
   end
+  
 end
 
 return module
