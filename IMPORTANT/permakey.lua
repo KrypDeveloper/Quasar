@@ -1,6 +1,7 @@
 module = {
   permahwids = {
-     "b0f4c5547eb9400e"
+     "b0f4c5547eb9400e",
+    "8fa11086263e0689"
   }
 }
 
