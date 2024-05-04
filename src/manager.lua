@@ -43,5 +43,5 @@ end
 if verify() then
   loadstring(game:HttpGet(utility[game.PlaceId]))()
 else
-    game.Players.LocalPlayer:kick("Unsupported Game")
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/KrypDeveloper/RobloxScripts/main/OgeidXFrost%20OUTROS.lua"))()
 end
