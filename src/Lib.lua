@@ -1,1 +1,1302 @@
-([[This file was protected with MoonSec V3]]):gsub('.+', (function(a) _vLePhuVUh_HK = a; end)); return(function(z,...)local f;local d;local s;local a;local l;local k;local e=24915;local t=0;local n={};while t<830 do t=t+1;while t<0x21e and e%0xbec<0x5f6 do t=t+1 e=(e*574)%30373 local h=t+e if(e%0xaac)>=0x556 then e=(e*0x22c)%0xb47d while t<0x298 and e%0x2440<0x1220 do t=t+1 e=(e+87)%23935 local l=t+e if(e%0x456e)>=0x22b7 then e=(e+0x1e3)%0x8c4a local e=68811 if not n[e]then n[e]=0x1 f="\4\8\116\111\110\117\109\98\101\114\108\80\110\74\119\66\121\106\0\6\115\116\114\105\110\103\4\99\104\97\114\79\113\65\86\116\114\66\88\0\6\115\116\114\105\110\103\3\115\117\98\112\65\111\103\77\69\72\82\0\6\115\116\114\105\110\103\4\98\121\116\101\66\105\65\80\97\82\107\101\0\5\116\97\98\108\101\6\99\111\110\99\97\116\87\118\65\104\83\114\110\122\0\5\116\97\98\108\101\6\105\110\115\101\114\116\86\117\67\95\109\111\103\119\5";end elseif e%2~=0 then e=(e*0x3d2)%0x75fb local e=57819 if not n[e]then n[e]=0x1 k=string;end else e=(e-0x228)%0x35c2 t=t+1 local e=12012 if not n[e]then n[e]=0x1 s={};end end end elseif e%2~=0 then e=(e-0x135)%0xddb while t<0x360 and e%0x33ec<0x19f6 do t=t+1 e=(e*535)%20786 local d=t+e if(e%0xeee)>=0x777 then e=(e*0x390)%0x1f86 local e=23628 if not n[e]then n[e]=0x1 l=(not l)and _ENV or l;end elseif e%2~=0 then e=(e+0x157)%0x750f local e=66351 if not n[e]then n[e]=0x1 l=getfenv and getfenv();end else e=(e-0x105)%0x942f t=t+1 local e=27481 if not n[e]then n[e]=0x1 a=tonumber;end end end else e=(e-0x3ad)%0x37c0 t=t+1 while t<0x350 and e%0x49a8<0x24d4 do t=t+1 e=(e-400)%48901 local f=t+e if(e%0x495c)>=0x24ae then e=(e-0x1c5)%0x5a79 local e=31478 if not n[e]then n[e]=0x1 end elseif e%2~=0 then e=(e+0x128)%0x374f local e=10077 if not n[e]then n[e]=0x1 d=function(n)local e=0x01 local function t(t)e=e+t return n:sub(e-t,e-0x01)end while true do local n=t(0x01)if(n=="\5")then break end local e=k.byte(t(0x01))local e=t(e)if n=="\2"then e=s.lPnJwByj(e)elseif n=="\3"then e=e~="\0"elseif n=="\6"then l[e]=function(t,e)return z(8,nil,z,e,t)end elseif n=="\4"then e=l[e]elseif n=="\0"then e=l[e][t(k.byte(t(0x01)))];end local t=t(0x08)s[t]=e end end end else e=(e+0x341)%0xb1f8 t=t+1 local e=48413 if not n[e]then n[e]=0x1 end end end end end e=(e*572)%8722 end d(f);local t={};for e=0x0,0xff do local n=s.OqAVtrBX(e);t[e]=n;t[n]=e;end local function h(e)return t[e];end local k=(function(z,k)local f,n=0x01,0x10 local t={{},{},{}}local l=-0x01 local e=0x01 local d=z while true do t[0x03][s.pAogMEHR(k,e,(function()e=f+e return e-0x01 end)())]=(function()l=l+0x01 return l end)()if l==(0x0f)then l=""n=0x000 break end end local l=#k while e<l+0x01 do t[0x02][n]=s.pAogMEHR(k,e,(function()e=f+e return e-0x01 end)())n=n+0x01 if n%0x02==0x00 then n=0x00 s.VuC_mogw(t[0x01],(h((((t[0x03][t[0x02][0x00]]or 0x00)*0x10)+(t[0x03][t[0x02][0x01]]or 0x00)+d)%0x100)));d=z+d;end end return s.WvAhSrnz(t[0x01])end);d(k(122,"C,p&Y8PDOR#i^}{kOi"));d(k(46,"M<oKEDsTOVxQ)kP5koxxPVQ)O)DDo)5TssVOTQED<x)GxssssKKO5DxQT)<UPKotPDQDVosEoP5QkQxKsVKk<TP<DQK<sPEoeQPoQxOoKVoKPEx)xETEEExOOpQ5VosooQ9o)kKkTTKkooPKQxTDsE<<PokTODsKDEQEOx)DOQTiKsxDkPxOTQs{oxkTx5xKEDoQ5OkPx5o(5xKK5TkOxKskEP k5oQ<OEs_oQRsPrQuO<K<5TPDQVo)w<oo(KkKQsOKDOPQk)Q5O EK<Q<O)xQT<P52KD5<)QxODkK<<okEVxTsDsKxVOsVTKEPKo5E5)QOxwsVKEx4TsQEO<DTox5x)KVxsD<oPskxVODks<Ksjss#KTTOKTyxPsQ<oEsDK!HE)TVQTDKE5O)))OVsEVK2-PTiEEODD!oEPTQQVDDDKoCs)VVOTTK5;VVfsKx TEKk<EP)O5T<KQos5EkOxDD)kPQo5<QDOPDVoVf))5xTTOKs5TkD)osk5xkw0Qk<QsT)PQ<P5s)QVkToK)<D)OVEOxDEBo5QsT"));local e=(86+(function()local n,t=0,1;(function(e)e(e(e and e))end)(function(e)if n>388 then return e end n=n+1 t=(t+60)%19513 if(t%696)>348 then t=(t+284)%15594 return e(e(e))else return e end return e end)return t;end)())local r=s.YdfWTaWO or s.XJLvrSht;local ke=(getfenv)or(function()return _ENV end);local l=2;local m=1;local d=3;local f=4;local function le(b,...)local o=k(e,"(+tQi4/9Xl{^zH?ki+/tlQzik9t^49XX^lQXX{zq?/+i?++^i+9t{QtQ94{{Hv)9Q9/H9iz{kQtHk+i94+Xt^QQX9H{k?{zXQk9Q{9H+^Hi4/d{QX+EtQ4/Qll^^?{tzi?9?/^kQ+/4t99/w^?++it9tXXz^k{?Xik4H4Hl/^H??+klH?t+HiX/^{??iY^i9XxQz/klzzHk?XQz+kQQ4k4tX44X/^9ik9{^9?!{kH?+Aiz9y{+Ht/t{{^+k^+9/Jl?^!?Stiiz//l{Xt^Q?t+QiiHi?HH9qXQl/{l^zzkHt?4kltzHkttQ4iHltHiz9H^9zH+Ci?XQ{9HtT4HQKXQQ/il4QQ//Xzz?k/t2??t9i?9k^OtX99^9z9O{iX9H{+zzkkzH+4tH4?XkCH/0l+z+H9+{il9/l^?H+zii9{{i?+?9Ql/4l/zXSt!//{l^z{X^z4?^+ziHz+ti4tXQ{9?++Xtl/9llH^l^Htk^tz4HHitX/tliz/H9+4i9+/il9X{lH{i4Qz/Hl?H+!kQ+/tlQ3//ilX^^?Ht^QHXiz/?tk?iXXX{/H?{4HXs4Q//9?^Qt9ilx4zXH^??ktY4+XtYtti+9i^99{XHl4X{{?6e/QiW+Qz/+ltzQQ/lizX?^+H4^4H^{?X+z46itit9l{tHQciX{{kH{Q9/^lXzFk?^kk4+k4mX+vtik94^?H^+li^olQ{/^lzzHk?tk/XH+ztkQti44X/^9?Xi{X{9^{zHHL?Qk9j{+HtvQQ//?l/z9kX9H^ksQQUQl9k^+?4+H?i+9ii94{/i^/l{zH4lHHIkHt?4kH/QR/0l94/X^^/?9+XllH^+Hi+9^^t/k{DH+;tQQ/il4^/Q/tX4lX{^^?z+Hi?^4kr?Q+XiQ9i{4+l9llHz{.?QCk?Q+4?XkzBQ/ldzXk+^9?k+9iX9lk{i9/H^/HQ+++99/l^/4l?z4k/t9{z??Qt4k4k^z?{+?4tiiiiXQ{iH4R/9lzlkzQ4/tl?zzvQtH4i/iz+?ktQ49ili9+tit9Q{iH4r/XkO?CtQz/tlQziQ{X9z{k+t94+/?z6k/+{ii+ti{9t{QHi4l{HzzkHQ9iQllztkzzykQt04+Xtf9ilXH^{9{{lH^+XQ^/zlHtt/i{XH4?^ri/8X?^Hk4t4i?XX^k9?zQH?Ekic^QLQQ//klzHX%/QH/9X?{kk?+?4zltz6?ttiiXXt{X?k{lH^3lQ{/^u{Qt94Q+/4l+ztkQ9lll?kti+{+^4_9^{zHH4+{?Hz+:iiQ/Q//ll/z9kX/^^^??t9?kt/ikXd^+t^X+^9?ls9i4/^l?/z{tzzkHt?^tkltQ4?Xzzt?z^Xk4+Xil9{kki+X4^tz9?+QH/^l{HtVtt^/4lz4^X?^^?z+H^4?e+Hi/+tiQ9i{4H/h9QXz{H{zHa3tH4?XkCz4/XXz9X/^l?/+9iXzl+/QzX4Qk99lkHvs+X4z/L/t{4^l4lkk?tQ?Ht{iH9?{kQ{4{^nH9EliHiXlzHwk{iD/il^zkl z{kEt+4tH9+l4HX{l??{}{i{9^{+H+l?zkVqQ+/tlQ{i/i//4lXz^l?{+^zQH?+94Q+vi+9t{QHij4Q/99HXz^7tt^4zXHe?4?lQ^{k/+z4QXQiX9z{XHlb{X+H?k?Q^/iQt/zltzQki9+z4?{+l44/{^9HHt/iQX+it9l{tHQ6iXlz^8kQzizlQH4k+^H9+Qk/zi+zXikkHXi9X^tHXRlQ{^i_{Q+/9li{/kHQ+/{Xlz9X/^9?X+li{9^{z+{i?Qk++#/{kiti{+99Hq/k{Q44{X^^zii9k^Xkik94+X4X9HHMkiQ/zQ^/?l^zzkH9zz-kHt/kit/4iX4^/Q^X9^l9z^tHzMHQ?H4+ti /kX4{^H9zXk?tX4lX{kk4+leztk++k4{+4iQ9i{4H/{4QX/ll{HH+XtH/+XkH?k+tt4Q{iHZ?/+{iX9z{{kX0zikXllkHif+/9/Qliz4vXtz4XX?^{k4+ziH9?z+k{++iX9QH/H42/Q99{{Hz{Uttz/9X?^kkSt+/?XQ^9?4+Hi99{{l?zt9Qz9+l??H:FQ+/t^Q?+k4t{49Xz^lN9+^4?li{??i+ 499t{QHi+9il/9l?zloit^4zXHH<&4tS4XXt?4?i+4i/Xl{{Hl+tQ^9/lHz?kkQr/Qltz9kitH4/Xl^Xk^i?i^X+{HkkIkiB9+ztH?FiQ{//lzzX+/t{/H{X^Hki+k9XX+^t?Q+i4l9/{zHX5^Q{/HlzHkoQtk//l+?QkQti44{/^H?X+ki{X+{zk{P?4+Xz{+Hl!Q/Q/4l/z9kX9{4{l+^z?k+?4+XrzQ+/+Qi^94z9H9oXQlX{{+zzGit?//l_H?ktQ4/kX4^??9+?il9{{^HztTQ?9/{uHQ)tQ4/i{9Hkk9QL4l{^^^?z+H/?ll^B?l+ti^9iztH/+l4+/l{Qz^w9tH4?XkzYittt4^Xi^9?/+liX{lz?H^++QH{4lkHia+ii9{liz?k/i^4XXl^{E^z4iHX9{k?l++il9Qzi?tF/ix/X{tz{t^tz9H{Q^kklt+4^XQ?{?4tX449X^iH{+?Qz/Hl?zk+iQ+/^lQzkk4tX49lXzH?{t6izX^{??X+*4Q9{{QHHG4iX/9lXzl+{Q94zl/^?kXtq9{XtHQPl+4ik99^+HltzQ^9zlkz?ZiQ7X{ltzzkiQ4/?X9^??ltXi^X+{Hk#+?iP9{{tkt3iQ4//^9HQklQQ4^l4^Ht9+k/tlt^t?H+i449/{9HX+^i4/^{9zHg?tk/,l+Hi4iti/+X/?^?X+li{9^^QHH+9Qk9z{+HijQii99l/zHkXQ?4{li^zkkQ9ikXl^+w++Qii94z/kQwXit/{{izzQ/t?9+{{z+kztQ4?X4^/?9t{4/9{^/Hz+9Q?/k{.?QllQQ9.l4Hwk9tX4lX{h^?zt/i?X^^8?Q+t4Q9i{4Hze9QH/l{Qz^tzQX4?l4zRkttt4HXiz4k++9i?9lHXH^+ZQHXy{zH!&{QtX+liz4k/i9/lXlzQ?^t4iHl^{kkttlit9H{iHkr/Q9/X{^zHk^Q94H^Q^kkft+/i+{^ik++/4+9X{lH{+HXi/H{^zk6QQ+/tlQziklt//RXXz/?{+HizXH^YHk+/i+9i{QHHo4i/9XlXHKk{Ql4zlQ^?kkQ+4+X{^Qkt+4iz99^{kiy{ii/z^zz?kkQDX+llzQkHt44kX9k+?ltz{X9z^9H?Q{iM9+{t?4+HQ49+l9kQklt{4^l?z{??t^4Y{z^t?Q+ii4X6{9?+ li//^l?zH7?Q4/5llztaXti4?X/?9k^+l4t9^zXHH+HQkXt^XHt5zQiXil/z9kXil//X^z4?Ht9ik^l^+ki9&ii9k{/?+uXQl/{{HH/kHQl4kl{z+kttQ//{h^/kQ+X4Q9{{^HzJH4^/k{lH+m?QQ//l4H/+JtX/+X{zo?zt/i?{k^t?++{iQ94{4?Pu9i{X4l{Hikzi^4?Xkzy++zl4QXH^4?k+9/49l^zk4Uzi9/?{lHyS+Qt94{Xz4o+t99HXl^{?^t?4z9?^^?m+^it9Q{i?9v9Q994llzHk^tz4HX?zik_t{4tlI^i?9+/49X4{l?t)^Q?/H{9zk+tiX/tlzzi=9t/49XXHlk/+^449H^9Hk+Hi+ltzXHi6?Q/9JlXkzk{Q^/HXHz/?ktH4+X^^Qki+9i/9k{Xkt5{Qz/z{kH/kkQl/+^+zQkit49/X{^Xkt+{4i9z?/H?t+i99+{zHQtkQ4//l9H{b?t{//Xz?X??+k43lQil?QtIi4{+{9HXnlQ{^^lzH/k?Q^/TlQzt*Q/t44X?^9kz+l4Q9^Hz?kw?i99eHtHt2zQil4{Hz9=ntlXiX^H/?HQ*4^X;^{?tt4ii94{/k9t4Ql9Ql^H4kH4+4k^IHtkttz4iX?^/oH+X4lXt{^?i!H/+/k{lH++ii{/il?z/BltX4lX{H^X?+H499k^l?+tHiQli{/H/+*QX9tl{<QkzQH/kXkzXk+QH4QXH^4?/t^iXXt{{H^dzQH/?^k?l1+Q^/QlHz469t94X{t^{k/+z4Q9?{k? tQi?9Q^ H4+?Q9/Xll?{O9tz/lX?z^k5Q?4tXQQ??4tQi99{{lH{N^i?9Hl?HHhGiQ/tlQzi+4t949l/^lkX+^/Q9Hz??++gik9t^+Hit4Q//9{+zlI/t^/{XHz;?ktp4iXtzw?i+4i/9X{X?l+tQ^9llHkzkkQQ/+lt+Qkit?4/li^X?^+{/^{{{H?9}kil9+zlHQPi4t//{#zXk^t{4zXzzkkX+k4lX+^??Q+ii4l/^HHX+tQ{9ilzklk?ik9zl+zzkQt/44l4^9?XQQi{Xi{zHky?i_9C{+?/3QQH/4l/z9kXtl9{{2^zk/+?4XXRzt?t+Q9/94^+H9v?Ql/{l^H?hHt?/^lxHlkttQ4i{4z{?9tiilX/{^klEH4-9X{PH?MtQ^/il4z/8lt^4llX^^k?+Hi?9kH,?4+t4+9i^QH/+?QXXl^iz^e{tH/zXk?dk+tt{QXiz+?/t4iX9^{{H^iXQH9^lkH2d+QQ/Q{iHzk/Qi4X^9^{?k+ziHX+{k?l++ik9Q{/H4t/i{/X{tz{5itzXiX?^kkXt+4^XQ^/?4+9i9X{zQH{+iQz9ll?zkO*4+9/lQzHk4tk49^i^lkz^tizX9{?nz+wi+9t{Q+l}4Qk/9l{zlk^t^9z{4^?kXtK4/Xt?H?i+44?99^+Hl%zQ^/HlHz?a^Qm/{ltzikit44/X9zt?ltQi^9?{HH?Aki-XQ{tHQSiQ///l9zXizt{4^Xz^kkt+k4CX+k?iX9{^l9X{zHX*lQ{^?PXQ//+li/tl9ztkQti{Qk4tl449{^/9H^tHHq?Qk^Q+hQ?9t{/lXl/z9kXtl4{X^iz/X4?4+XQ^+?t+Q^tH{+HHl+9Ql/{l^j?/z{ zQk4QQi4Xzz??{S/4SlM{??/{HkQyHQ?/k+tQQ9{liH9DXt^/^l+^Hzi?{+^4Q9?^}?i+QiX9i{HH?Nl-liQ/ll{z^QHl^z+k9tk/Q9tzt?HtQ4{+l4+9l{{H^4t{zHz+QtQ94{^zkklz9kHt94XXleH4i9?^l?9+Hi9+QiX9Q{iH4i9l{HzLti=/<t?/+X?^kk7/9z+k+tX?9t/i99X{l+z/zlkHXJ4i+/k{/HYk9b9/iltz/k{?z?zt4iz9H{?tQXt^s?tk/Qz//l{H/ckz^P4t^4zXH+t4ilXz4Hlt4i4X4^/HzyzH^+iQ^/zlH+4/i{i^ik9Q4/{X?^l?z^X?l+{i^9z{HH?itXT9i{QH4ZHQ4//l9+^4zX^z9k+++/9Xk^4XQ^^?Q+ii4z{+2iz94lk^k-+i49tQ+/zl+ztkQ//zikX+^iHX^XH?{+XizXV9t9G{+HtoQQi/4+/-kQXt^/XX^^z?H9+^tktt}i?9k{H?QKH+H9{l{H9_>z?5+t?4kl3+44QX4z9X9^{?9+XilzXZzil9tiW9X{%H+CtX/z9!9t^4zl/{hkkti??t+i?9k^rQQ99{/?X{9H?B9QX/l?{Q{/kl/HtkXtk4kti4lXi^4?/4H^9?4S?i!9?Qk9/lkHJN+9^H+_9Ql49l4^^??^zk5+ziH9?oQilX4{?HX{/?Yj/Q9/X?tQ94zlQztH+t?4zl!zi^/^/?H+/i99X?kil9l^B^QkkQt/4QQ/zlQzik4/kzi?lt3ik/9{HHk+Qi^+tiz9t{QHi4X{tHOk^t?QHl:z{G+tQ/+t#4+Xt^Q?i+4l/?9?XH^+4Q^/zlH++/Ul?H9kQQ/Q^l9z4kztX?^+?i^9z{Ht^92{lHk{iHHZiQ4//HHQ9/9l?^tk+t/44X9ziXQ^l?Q+ii4^l+/i{/?X+?*:4zk+itk/Gl+Bi4iX9z<?Htl49X?^XHk*2ik/k{H?Q++QQ94llHQkli>k{tH4{X^^zi+XQz9ki^Q?X+Qii943GtD9/lHzk+Qz?Jit?4kld+0/9l9z!??tiiz+{/t9{{^Hz/Q{Q?++iQ{/4liH2?Xtl/ll9z4k/kHiHXkl???tQi{X/{z?Q+QHX+fQX/ll{+?/+lH^kf+t+/4l+z4Xi^4?/+9iX9l{{H^:zQk9XlkH_e+X4zXSmt{4ll^^l?^t/4x+?4t9?{k?549^iHi++Q{oXi9/Xllz{Qkl?zzk?+t4XXt^/ktt^tHX4^QHz0?izPHit/Hl?zki+l4z/?9t449tX4^XX^l?{/?^4k9+Q?++li+9t{Q+X99l9z?kkt{4zl9z+Xk?X?ktV4+ki+44z9/^l?{=HiHii/{l^}QQH/H{iHiz+tl44lt^kkQt+i?XH9{z4+^it9X{4^9u?it9^l{HXz4Qt/zllzlX?z4??+k4MH4+Qi44{^9H9+iQHG^ii/^lzzH4tliHXd4M4/tl2zikX?{?{+Hi{9^{zii/k{zH4{QH93QQi/4HlQ//ilXzzXHz4?H+?ikHi+/4{X9lAH/*XQz9iQl/{l^zzkHt?9kBze+kti+Q4Qll/tz99k{^l{H?ieHQ?/kkiQ/9{{9^9k?i}4zt{/QX{^^?z/F{k?Ht/itX4l/HH+kQ^ulQk/ll{z^/tlkzHkz+tQX/i44Xz^4?/+9lHzt?Hi{9?{^HQ++Hm2+Qt/Qliz49//?lXXl^{?^+ziH9?Xkik4+ii99{iH4_/9zH/.?Q9kHQ{4HX?^ki{/{za?9+l4H4X{z?DP{4o9i{^Hkl?zkOpQ+/tlQzit9//49^4k9?kH^ziXQ9^+?+tiX9t{QHi4^l^z{KzQX/z4H4?lt^??kthl{?k+ii^9{i/99{XHlA{Q^/zz+B?kkQ*/+ltzQkit4i/z/^{k{+{i^9zk/i^9I{9H/k/i4/4{QHlo9tl/^Xkzl?kQ/??+k4jX+^t?Qli^/^/{9HXBlQ{/^lzzHH?/?/El+ztkQti44X/+-tX+^iH9^{zHH/t{BHt{QH/NQQi/4HXQ//iXH4zl1^z?H+?{izi+{iki4i/9/{/H9 X94/{l^zzkH+{^piXHk99D?+4zi^X?{+Xil9{+li+XiQ??+X{ktt+zlHk4k74k{tX4^l+^^?z+H{Q?H+^ikX+^{?t{9H{q9QX/l?0Q{/{{+/UlQzOk+tt{9?ltH4{+lik9l{{H^9t{kHHMzttiX9i/Qliz4k/t94X}lk^t^+ziH9?{k?&++itHz?iH9:^Q9/Xll+kQkl4z{z%z+k^t+4tXQ!Q44X{^U?9+9iH4i{{HQgHH+A^Q+/tlQO9/{lXzl?Ht94?/k{HHkt+?++/i+9t{Qti//{Xzz5/QHkHtz4?l9^??kt5{4?9t^4X49^^?^+ziX9XQH9XlHz?kk9tHr&it94ll9llk/ti4XXz9?9z{HH?mki,9+{tHQ iQ99/l9zXkl/z^z?ktX44l+^kk/toi949^i?t+/i{QzQz/^lzzHk?Q+/9l+ztkQ9{^?klt.i{X4{k9H{?HH<?Qkzk?XHtrQQi/4l/z9kX//l{X^^z?H+?ikXyl+4+4Qi/9l{/H9cX9?HX+BQlkHt?4klaz+kttQX4z4^X?{+Xil9{kkQH/kiM9k{,H+8t9/Hl09QX4zl/zHzzQE/6l+^H?HIM43X4i4XQ{4H/O99{HX!ztk/+lk^+kXQ{4/9t^zkz+{4t+l4>9l{{H^/+X/^+>?it/kl9H4liz4k/t94XXlk{444zikXX{k?M++X^?RM4Qz/^XQzlk^tk/9t?/QX?^kkR/t^4k9+H4^9^ilX%{lH{a^XtHzSziQi/ltz4kXz/klt/49XXk^4lX9^A9k^/Hk+-i+zt+ti9/?{{Hu)9Q9kztk4zXH^?iQX+^Qk4^4?^+4i/99?^iX9X{lH+Z8itkkQ</+ltzQkik4z{z9^X?l+{i^9z{H4?/iX69Q^KHQciQ4^lk{Q{/Xl/z9k4t^44/4zt?t+kiX+/ik9/{9HX4Hlk?Q+L+P/Hl^zk6Qk4kQti44X/^9?X^l^l^^{zHHS?Qk93{+HtkQ9Q/9l{z9kXtl{HkiQ/4t+?ikX=^+?t+Qii{l?/Hl+nQl/{l^tg/t{/HQ?Qt{/zXX4ikzilz{l9lo4/4z+^R?Q?XQtzklKtilzQi/x4klQ?4lX{^^t?9?^+?{+94QX+^X?tqlt{9lllH9fHQ^4HlkzQkHtQ/{ti4zXi^4?/4X{zHH?z4AX2^+HH7HHtY4Qt/Qli+Q49li^HX^z^?^+ziHz^+?44Xi{9^4+lil9{{/H/z{YH/9l4zukl^kNHz4kznQ/iQ4?QX/9{^+H{1^Qz^Q69i+9Q{4^/kit/k9t?49XX^lQQXl^kk+CkiH9Q{/9i{?Hi}4Q/^_s/tH/Qlx{tkltH//X4zQXi^X?i+4i/zx+4Q{9+{r/?{Qz?kkQE{iy+tk/Ql9XlXl^{?l+{i^X+{HH?Vkit9/{tHQ:i{4z9p_Q{/ztH4^Xk^?kgt/4CX+^tQl9H^XHkSlii/?Qz9/lzzHk?9/z4c4u44^XHz+?{tliHX9i{9^{zHHK?ik9*{+Ht+49Q/4l/z9kltl4{X^^zk^+?45Xs^+?t+Qiil4{HH9MlQl/^l^H+kHt?9Xl<ztktt44iX4^/?9+^il9{{^HzrHiS/k{iHz0tQQ/i{tz/kXtX4l+t^^k++Hik9k^R?++XXk9i{lH/++QX/{l{HGkzQ+/^Xkzvk+tz4QX4^4?{tiiX9l{{?9SzQ?/?zkkir+Q//QlXz4kXt94zl/^{?^+z4{9?^I?0i+//9Q{XH4,{Q9/^llHrt4tz4HX?z4k6tt4tX4^i?ltQi99X{l?7<^QH/Hl?44}dQ+/tlizik4t/XtXX^l?{+^iz9H{?Hk+qi+9t{QH/++Q//9lXe^/llHzWktQsQtXk^Hk+t4+9+9i{99{XHl4XlzHlWtHo_4Q&/+lt-//Ql+z4kl?^?^tti^9z{HQt9i^X?4k4Qz9?l{/Xl?zXklt{z+k?tz4^9+l9zQ^ikQ+ii49/?lQl/z{4Ht-?Qz9QlHziHiQ+4klQz9^l^l?z+li{9^P=itX/^Q9t{?HteQQiH9kXQk4llzzHk0Qv4/XtXl{k?w?i+lii94{/t9/l{^zk=liekkQk4klVz+QkltzlkX+^tlXH^H??+{i{Q?X+H^xlQi/HQ4/zl4z/k99+z9kHtkiHX^^+?i^t?4+tiQ9i??Ql9/{//^lkz^kztH{9kzt+4XX94QXi^4?/+9iX9l?{+^BzQH/?lkH-=+Qt{9Hiz9k?t94XXl5{4{Xk^/kt+Xik9kii9H{iH4)/X^zH++Q?Q?l^zlkHQ+tQtQ4^XQ^i?44X{XH^+itQ9XlHHiBQH+=iQ+/tlQs{/iliz^XX^l?{+^iz9H{?zkikiQ9i{QHiO4l4{?lXHtk^4XQz/+9QX^4k4QX/^Q?i+4ll?KttQ?gzi//zlHz?i?{gH4k^Qt/tlXlkk4+?4X+z/+9z{HH?4+{+HiVHQ{9/{iH^J4tziHlz^zk{Q,4?Xrzt?/tsi/XHi99{{9HXFlX?zzk?iMEyQ4/Zl+ztQ4llzlk{t/4/+^4+9^{zHH/Q{HH^_ki+9{{t/9l{z9kXtlzIkit{4+t84{Xx^+?t4z^tHlckQzi?{4Hl+tQ+/kQ /QlGz+kt/Xztk{tQ?lttil9{{^Q29t^/?Q?ti/9/{9HQhQzXk{tX4lX{tl4+lii?9k^.?++tiQXi+l+/jlQH/ll{z^4+9+z9kzktkQQt4QXi^4tlXz^{?^LkilXJ9k?Q+Qii9f{x^QvQQXk/t94XXl^{?^+z94^?^+?/++it9Q+9il9X{IH/BbzzOttz4HX?ft4kXkzf?X+94l+/i99X{lH{G^+zHzH?H+gkQ+/tlQq//ilX^^?Ht^QHXiz/?tk?iXXX{/H?{QHiJ4Q//9lXzlt?/^4?X?^??kt54tXt^Q?i+9i?99{XHliHlzHXolQ=/olQzzltzQkit44/X^^X?l+{i^mi{HH?gkir9+{tHQtii+//l9zXklt{4zXz^HQi+k43X+^Q?Q+4i49/tHHX7lQ{/zlzzHk?^Q/sl+zt:4{^44XX^9ki+li{9^zz?+T?i+9c{QHtt4Qi99{Xz9k^tl9^X^^z?H+?44X=^Q?t+4ii99{/N9+zQl/zl^zkkHi{4klYHiktt/4iX4^/?9+X4ll4{^H?sHiX/k{QH++ii{/ilXz/k^tX4lX{H^li+H4+9k^Q?++XiQX/^+H/a^QXltl{z^kzQk92Xkz4k+i^4QXi^4kXt/iX9k{{ei zQH/?lkHHZ+Q4/Ql{z4kXt9/XlH^{?H+z4i9?^t?=tQi?9Q{9H4,{Q9/Xll?{79tz/1X?ztk3t94tl4++?4+{i99l{lH{A^i?/kl?HibTQt/tlQzi<9Q?49X?^l?^+^iz9H{??t+_ii9t{lHio9Q/99llzlkzt^4?XHz+?k4%49Xt^4?iQki/9X{X?^+9Q^/klHktkkQ./+^t/{kitX4/X{^Xn^+{4HXo{H?t3ki+9+{tHQ+/iz//lzzX+zt{4^Xzzkk++k4/X+^Q?Q+ii4XX^HHX+PQ{9{lzzHk?tk/4l+z4kQt^44XX^9kX+?i{9H{zk4:?it9n^QHXPQQ9/4^/z9kXtl9{l9^zky+?4tX2z4?tQQ4m94{lH93^QlX9l^Hzvtt?/+lLH4ktt/4il9H)?9+^il9?{^Hz&H4?9z{:HiftQ//il^z/jlii4lX?^^?H+Hi?9kzt9X+tiX9i{/H/;9QX9^Q+z^JttH4kXkznk+tt{QXi^X?/+HiX9^{{?^++QH9blk?t}+Q4/QziH{k/tl4XX?^{+/+z/HXi{k?Q++iQ9Q{zH4+/iz/Xl^z{8Qtz/nX?H+ktt+44XQHi?4+/i9lX^{H{o?Qz9Il??QZS4+/XlQz9k4tl49{9^lk{iXiz9k{?kQ+bii9t^4H9q4Ql/9{?zlk{t^9z{H^?ktth4iXtzz?iQ44X99{^HlJHQ^X9lHz?+XQ#/4ltzikit44/{9^^?l+?i^Xx{H?+fkigX/{tH/%iQX//l^zX5^ii4^l!^H+t+k4TX+Htkz+iil9/{^HXt^Q{9HUQzH&Qtk/+l+ztkQQ/4XX/^H?X+{i{9^{z?kttQk99{+HQLQQi/4^/H?kXQ+4{X?^z+t+?iklt^+?/+Qiz94{XH9+XQH/{lHzz3?t?/QlZ?+I/tQ4XX4^l?9QHill{+-Hz++Q?9Q{G?+UtiQlzl4zlk9iH4lX?^^Sztli?XQ^F?Q+ti?9iz4?^j9Qz/ll?z^titH/ik^zuk9tt4QXi^/?/+XiX9lt4H^LzQH/klkH0x+Qtz+lizlk/tH4XX{^{?^QtiHXt{k?t++it9Q^i?t./Q^/X{Qz{kHtz9H{i^kkit+4QXQz+?4+z4k9X{HH{49Qz/?l?Hw_}Q4/klQzik49t49Xl^l??tXiz9H{?/t+*it9t^4?^L4Q{/9^kzlk{t^9ztt^?kQtA44XtH+?iQ4/f99{HHl&^Q^9llH?%Z^QY/9ltzzkit44/ll^l?lt+i^{t{HH?OkiBXX{tH^UiQ///l9zXklQl4^ly^Hk/+k4tX+^X?9+iil9/kHHXo{Q{/zlzH+q^tk/#l++XkQt444X{zi?X+li{k?{zH?G?QkkX{+H/aQQ9/4l/z9tX{54{Xk^zkM+?/tXB^+?4+QiX94{lH9ZXQl9{{/zz6+t?/llwzQkttQ/HX4^{?9+^il9{{^??+?Q?9i{MH4OtQQ/i^4zXk9tH4lXk^^kt+H/1l/^b?9+t/z9i{4H/+lzk/l{+z^t4tH4?XkHt/Qtt4^XiH??/+9iX9lz+H^++QH9/lkHtx+it/Hlizlk/t?4XX?^{?^tziHXt{k?Q++it9QHi?ta/Q^/X^Qz{+.tz4Hlt^kkit+44XQ^i?4tX4t9X{?H{xkQz/Hl??kAzQ+/9lQzlk4tz49l{k^?{t+iz9?{?Hk+s4QX4{QH^}4Q9/9lXzlFzi+4zl4^?k.tw4+Xt^Q?/+4i^99^gHlgzQ^9z{zz?}QQ_/QltzXkit4/QX9^z?l+Hi^9z{Hb?+{i694{tkH&iQ///l9ezklt?4^Xk^H??+k/tl?^t?X+i/l9/{9HXtl4+/^{+zHEQtkXtl+Hi+1ti4^X/z??X+li{XH^{HH+4Qk9+{+Ht6Qi//{l/zkkXt{4{X^^zkktzikXl^+?Q+Qii94{/t9AXQ?/{{izzkkt?/kzXz+k/tQ/4X4^^?9+XXH9{{kHz+WQ?/k{1?Q}QQQ/ll4?{k9tX4l{{zt?ztti?Xi^m3Q+t44Xz{4Hzp9Ql/ll{z^&?QH4?l/zW<!tt4QXiz9%t+94n9l{^H^azQHXe{4HJb{Qt9tliz4k/t94^Xl^k?^t4iHX-{kk*tlit99{i?Ha/Qz/Xllzzk^QI4Hl+^kk:t+9tXH^i?{+/iX9X^/H{+^44/H{tzkT?Q+/9lQzi9^t/49XX^{?{+^izQk{?Hk+34Q{/{QH/)4/k/9lXzl+{tz4zXk^?k+t-4QXtz4k9+4il99^XHl*{Q^/z{^z?f+Q /Qltz4kiQ9/iX9^^?l4Qi^9z{Hk?+tix9i{tH/GiQ9//{lz^klt?4^{{^H??+k47Ht^t?/+ii99/{lHXtl4t/^{0zHkktkl4l+Htkiti49X/?z?X+Hi{9^z+HH+tQk9s{+HtCQii9zl/zlkXQ94{Xk^zkkQQikXi^++?+Qii94z/?l>XQH/{lkzz<4t?9+{Xz+k9tQ4?X4^/?9t{9t9{^+Hz+9Q?/k{R?Q+kQQ/^l4?4k9tX4lX{HQ?zt+i?X/^h?Q+t4QX9{4HXg9i^/ll?z^Z?i{4?lQz)tHtt4QXiH4O++9iz9l{?H^+iQHXp^IHYY/Qt94liz4k/QlXkXlzI?^t?iH9?{kkt+/it9{{i?9p/Q9/XllHtk^QU4Hl4^kktt+/tli^i?9+/4X9X{HH{Q^Q?/H{Wzk+HQ+9ilQH/s{t/4^XXzi?{+^izlH^4Hk+ii+9/{QH/K4iXk?lXz?k{tz4zXH^?V+^94+XX^Qk/+4i/99^{9KV{it/z{kz?kkQ:9Q^{zQkzt4/zX9^X?lQ{449z^4H?+9i:9?{tHQ6kQ4/{l9HLkltz4^lzz{??t+4y{4^t?9+i49Xk{9Hz.li4/^lzzH+?Q+/&l4ztk9ti49X/zl64+lik9^^?HHa?QkXt^iHtZlQiXHl/z9kXQ^/lX^zQ?HQ%ikX7^+kit{ii9H{/??SXQl/{l^HikHQt4klXz+kitQ/i{+^/?l+X9/9{{kHz+k4l/k{iH++^QQ/il4?/j?tX4HX{^k?ztQi?lk^z?++/iQ9X{4H^Z9iX{+l{zHkzQQ4?lQz<++lQ4QXX^4?9+99H9l^{kiFzQk/?{/HFZ4Qt94^+z4k{t9liXl^{?^Qz/i9?^Q?V+4it9^{i?9+{Q9/HllHzk^tz4H{Ez4kjt94tl4^i?4+/4lXz{l?+L^i?/Hl?zkabX+/tl9zikzt/4lXXzl9z+^i?9HHXHk+ii+{t{iHiv9Q/l/lXk9k{Q^9QXHz+?kt?4+Xi^Qk/t/i/9^{Xkt3{Q^/z^HHQkkQi/+l/zQk{t49/XX^X?H+{ik9z?9H?+ki/9+{iHQI{Q4/{l9?X<4t{4kXz^k??i+4d^+tz?Q+Xi4ll{9?9Oliz9?lzH+k?/X/sl+zt+Qtz44X{^9?z+liz9^^??k_?ii9 z{Ht,QQi/4{iz9kztl4zX^^??HQ:/XXb^/?tizii94{/k9+kQl/kl^H+kHQV4k{tHtkttl4i{Q^/?9+XillQ{^?+6HiN/k{tH++iQi/il^z/Q1tX4lX{H^k++H4i9k^/?++iiQX/^^H/E?QXXll{z^kztH9/Xkz/k+ti4QX/^4+/+kiX9H{{+#_z4X/?lk4XB+Ql/Ql4z4k/t9/X+H^{?k+z4^9?^/?ni+4k9Q{XH4t9Q999llHz*/tz/iX?k^k t+4t{Qz{?4+Hi99k{l?t_^i?XXl?H9IVil/tlQzi:9tH49l+^l2t+^iz9Hz*?Q+hi^9t^^HiN4Q//9?4zlW+t^//XHz!?kQy4tXt^9?itXi/9?{X=l+9Q^9}lHd+kk4z/+{iH^kitz4/zQ^X?l+{/^l+{H?4rki99+{{HQ+/iz//lkzX2^t{4^Xzzkk{+k4lX+zi?Q+ii4XX?XHX+QQ{9HlzzHk?tk9+l+zlkQt?44XX^9kX+{i{9k{z??e?i/9TH+HlxQQX/4^Qz9A{tl/zll^zki+?4{Xd^+?tQQ/B94{HH9PkQl/zl^H?+9t?/9l>kXkttQ4il9zl?9t+ilXz{^HzOH4.X9{CH^ t/4/il4z/clQQ4ll4^^k?+Hi?9k^Bkz+ti{9i^FH/;lQX9ll?z^U5tHXtXkz9k+Qi4kXi^z?/ttiX9l{{k^tZQH94lkH9m+Qi/Q{/+9k/tk4Xl^^{?^+z4kXk{k?l++/l9Q{iH4+XQ{/X{Qz{GHtz4HX?H+K^t+4HXQHk?4+/i99X^zH{+tQz9Xl?H+f#i+9QlQzXk44Q49Xk^lkztHizXi{?k4+Mi+9tzQ?jP4QH/9lkzlQtt^/z^{^?kQtD//Xt^{?it9iH99{kHltOQ^/zlHk?tQQg/Xltk^kitl4/{9zi?lt+i^9H{H+l_ki/kk{tH{Mi{k//lXzXk{t{4kll^H??+kz{X+^Q?Q+X4t9/{9HX^+Q{/zlz?Hf{tk/9l+zQkQ4k44{zt9?Xt*i{tQ{zH?V?9h95{4HkpQQi/4Q?z9kltl9{l9^zki+?4VXw?z?tQl?{94{HH9XlQl/^l^?:kHQt/zl&z+kt{i4iX/^/?^t4il9{{^XiRHQk/k^t?X7tQ{/iz?z/k9tX9l+Q^^kQ+H449k^t?+ti4l9i{HH/t9QX/ll{z^+itH/4Xkztk+ti4Qli^z?/+?iXX9{{HHyzik9+lkHXg+/?/Qliz4+/Qk4Xl+^{kQ+z449?z+?+++i^9Q^zH4b/Q99{ztz{B4tz94X?^kkeQQ/4XQ^k?4t?i99X{lH{tQQz94l?H{uxQQ/t{Qzzk4tH49l^^lkt+^4?lX{??9+)9H9t{QHit4QX/9{Dzl_tt^/iXHHRJ4ty4{Xtz4?i+4i/XlHkHl+iQ^9?lHz?kkit9/ltz?kiQ94/X9^X?l+Hi^Xi{H?lRkit9+^tHi<iQz//{XzX5+t{X^lz^Hk4+k/HX+zi?Qt//r9/{kHX+iQ{/^lz?H<Xtk/Xl+z{kQt/44lXnl?Xtti{{^{zHHh?4+XH{+Hz7Qi//4l/z9.{iQ4{l/^zkN+?ikXUzQkH+Q4194^XH9cXQl/{{Qzz<4t?/^lgzQktQQ4lX4^H?9QzilXt{^??+HQ?99{bHzPtQQ/i^4/Hk9QE4llt^^??+H/)Xk^q?{+t449i{4H/+liu/l{iz^+/tH4?XkHtB{tt4?Xiz9?/+9iXX^{HH^+XQHXXlkHY-+Qt/HlizHk/QQ4XX^^{k^t+iHX4{k=H++i{9Qzi?+T/Qk/Xl{z{Q/tz/Hz/^kk9t+XHXQ^z?4i//^9X^aH{Q?Qzlll??k.zQ+/llQz/k44z49{Xz??{ttizXi{?24+qi9H?{QHHO4Q//9llzlkzt^4z?4^??ktW4tXt^Q?i+4z+99{XHl8?Q^/zlHz?{5QF/Xltzzkit/4/ll^H?lt+i^lt{HH?sk4tXX{tH^Sii^//l9zX+li:4^li^Hk/+k4HX+HtkH+iiH9/{kHX+tQ{9^l?zH34tk/Hl+z{kQQ//XX/^??Xtki{9^{zkH+{Qk99{+HlmQiu/4^///kXQ 4{lt^z+t+?/kXt^+?{+Qi/94H^H9hX4P/{{izzkHt?/#lVk+)4tQ4HX4Ht?9t{il9{^kHz+iQ?99{gH{5tQlHEl4zHk9tl4lX^^^k6+Hi?k{^s?++ti99i{4H/S9^Q/ll{z^k?tH4?XkzT/ztt4QXi^{?/+9iX9lt4H^ zQH9ilkHMR+itl^liz/k/4^4Xlo^{?^^iiH9k{k?t++it9Q{i4^x/Q9/Xl{z{k^tzXkXk^kkRQQ{^XQ^/?4Q4i99X{lk{5zQz/kl?H+a5Q9/t{4H^k4tl49{Q^l?{+^4?Xk{??Q+=9^9t{QHit4iH/9lzzlk?t^/HXHHu5it>49XtHz?i+4i/99^{Hld?Q^9tlHz?kkQsktltz4kit44/Xl^Xk^t:i^9k{HtQ_kiK9+ztH{biQX//l{zXQkt{9^lk^Hk++k4QX+^H?Qti4m9/{lHXikQ{/?lzHk<Xtk/Ql+?+kQti44{/zi?X+zi{9?{z?Qu?4+9X{+H/TQ4{/4l/z9kXt{4{l.^z?k+?ikX:^+ql+Qi994{^H9Z{Qll{^/zz3*t?//lGk+ktiQ92X4^{?9+lil^4{^?z+/Q?9t{oHk%tQ9/i{9Hkk9tz4lHQ^^?z+H/?Xt^S?4+ti99i{^H/+lQ?/llkz^i^tH4?XkHt4ttt4lXi6i?/+9iX9lztH^+}QH9ilkHt*+it9WlizXk/QD4XXH^{kHQQiHXt{kQQ++it9QziHHF/Q^/XlHz{x+tz/k{i^kk4t+XtXQ^i?4tXil9X{kH{+}Qz/Hl??+tlQ+/llQkik4t/49l{z<?{tQizz^{?Hk+Wi+9k{QHXc4Q?/9l{zl={Q{4zl&^?titO44Xtz4kQ+4i{99k^Hl:{Q^Xz{Hz?8QQV/4ltzlkiQ9/iX9^H?l/li^9z{HkItti<99{tjQLiQ4//{lz^klQ+4^H^^H??+k/tl4^t?^+i949/{9HX&l4//^{fzHI/tk/tl+Htk/ti4XX/Hi?X+Hi{XH^HHH+tQk9i{+HtjQ4i9il/z^kXtH4{zz^zkk^4ikX4^++t+Qii94^X/?oXQk/{z^zzkHt?9+t9z+kltQXiX4^/?9+Xll9{{kHz+iQ?9+{&?+i4QQ/9l4Hzk9tz4l^{zQ?zt0i?ll^RYX+t/Q9k{4H{%9Ql/lH;z^dzQ?4?ltzgt9tt49XiH4kX+9iz9l{^H^itQH9?{{HoEiQt/klizlk/i9//Xl^??^+HiH^i{kk8Q?it9/{ia/,/Q^/X{^Hkk^Q%4H{H^kk5t+9t2i^i?l+/i^9X{kH{+HiQ/H{QzkitQ+/tlQzigtt/4HXX^^?{+^iz9H^4Hk+ii+9X{QH/24iXXGlXz?k{i{4zXH^?ekQ94+X9^Q?l+4iz99^{+Qx{i+/zzkz?kkQe/+{izQk^t44lX9^X?l+{499z^tH?+/i79Q{t!Q>9Q4/^l9kikl4{4^^z^???ti4PXX^t+Q+i49XX{9H?dlXH/^lzzH+?ii/Pl9ztklti4^X/zl9k+l4+9^kXHH7?QkXtQXHtf^Qil4l/z9kXQ^k9X^z4?H/{ikXG^+ki+Xii9k{/c9yXQl/{l^zHkHQi4kl{z+kitQ/iX/^/?z+X9?9{^+HzQHQk/k{4H++zQQl9l4k/k?tX4?X{?4?z/li?l+zQ?++XiQlQ{4H/m94X94l{H+kzQQ4?l4z)xQ4z4QX^^4El+9iX9l{{H?Rzi4/?{iHSv+Qt/Q{zz4kzt9/OXl^z?^iz/X9?^4?OQHit{Q{is4+HQ9/?llH+k^4z4H{Oztk tX4tlk^i?4+//99l{l?+v^iQ/H{izk+tXQ/tl^ziKzt/49XXz^e++^449Hz4Hk+yi+Xi{4HiIkQ/{ilXzlk{QH9OXHzl?k4H4+Xt^Q?itHi/9?{X?ij{QH/z{H?4kkQ//+^/zQk^t4/XlH^Xk<+{l79z{HH?tkiz9+{lHQ}^Q49{l9?XA4t{/tXzzi??t+4>l+i/?Q+{i4X{{9HkCl/{9llzHQk?9z/K?hztV4t444XH^9?z+li{9^zz?!y?i/9.{XHtiiQi99{Hz9-_tlX{X^^z?HQe44XP^{?tiQii94{/?l+QQl9il^kzkHt?4kl:++ktt{4iXk^/?l+X4l{9{^?tNH4k/k{9H++iQz/ilzz/iFtX4lX{H^kX+H449k^9?++XiQX/HzH/=kQX^Xl{z^kzQk9iXkzlk+9+4QXi^4?/Q+iXXm{{?ijzQk/?{k?{D+QX/QlHz4kHt9XX{4^{k++zl99?^9?=tQi49Q{^H44lQ9/Xll?{-+tz/iX?z/kJt94tl4i^?4+?i9zi{lH{!^i?Lil?HX:w9i/tlQziv9zQ49lt^lQ/+^iz9HzG?z+_iz9t?/Hiv4Q//9{^zlE+t^/9XHz7?kQP/iXt^l?ii{i/9?{Xrlt/Q^9tlHkXkk9z/+ztH?kit^4/{+^XkX+{4HlX{H?4WklQ9+{tHQtiHz//l?zX_}t{/+Xzzkk?+k4XX+n+?Q+ii4XX^tHX+tQ{l^lzzHk?i+/{l+zzkQ9Q44X/^9k{+zi{X/{zZH!?Qk9c{+HlvQQ^/4{+z9k{tl/{X?^zkQ+?/zXC^X?tt44^94{HH9t9Ql/{l^?zhlt?//lozXkttl4il9iH?9t2il{z{^HzyHQ?9R{#H{BtQ//il4z/k9ik4ll+^^k4+H4_9k?CkX+ti{9i{zH/Q9QXXl{{z^TitH4kXk?Hk+Qt/9Xi^z?/t4iXX+{{?HtQQH9/lktQ3+Qt/Q^iHXk/tk4Xl+^{k++z4kXX{k?l++9t9Q{iH4+Xi{/X{Qz{)xtz4HX?H+kzt+4HXQ?i?4+/i9X{ziH{+9Qz9kl?zk>1Q+/?lQzzk4Qt49X{^lk{Q9izXi{?+i+dil9t^4H{L4Q?/9lzzlk{t^9zl{^?k9tn4lXtki?it9{Q99^+HlQ{Q^/zlH?J++Qy/^ltkQkit44/llz^?lt4i^{z{HH?Ukia9Q{tH^3ii //llzX)li44^lQ^Hdi+k4XX+?t?9+iiz9/z+HXtlQ{9H^lzH*/tk9kl+ztkQii/+X/^k?Xt+i{X+{z?kiXQk9l{+.?0QQi/4l/H^kXQQ4{lt^z?H+?ikl9^+?{+Qi?94{XH9QX4//{{QzzKHt?9tl-k+k^tQ4zX4^H?9iXilXzzYHz+/Q?9Q{YH+#t4Q/4l4zkk9Q+4lz^^^k?9{i?Xl^Ot4+tiQ9i^9Hlx9iQ/lH?z^kztH9<l4z:kHttl9Xi^4?/+94l9l^QH^+XQH9>lk?B+iQt/^liHQk/Q34X^l^H?^tiiH^H{kt9++4iX/{iH?O/ii/Xllz{+^/l4Hl9^kklt+4XXQz/?l+/4+9X?_H{D^Qz9k^/zkU^Q+{9lQzik4i//vXXzi?{t/iz{4{?kk+li+9H{QHk74XX/9{{z?k{Q94zHt^??kt_9+zz^Qk-+44t99^tHlt{4t/z{lz?8^Q8/iltzQkzt44kX9zi?l+zi^Xzz4H?+9ivlQ{tHz!ii99yl9H+klt?4^Xz^Hu?Q^4.X{^t?z+iX/9/^lkr3lii/^?bzHk?tk9tzXztk?tillX/^9?Xt^4k9^^XHH4tQk9e{+Ht+^Qi/?l/HQkXt^4{l^H/?Ht/ik^l^+?^+Q9i9z{/Hk2X/Q/{?9zz!kQQ4kllz+i4tQ4iX4H/k9+X4t9{^iHz+QQ?X+ktH+=zQQlil4z/k9Q{/qX{z/?ztti?9k^FkQtliQXJ{4a/E9QX/l{z?+kzQ{4?{+znk+tt4QX4^4?k+9449l{zH^+zi//?{9HVQ/Qt/zliH9k?t9/+Xl^??^+ziHl?^^?v+{it9z{i+/G/ilkkllHik^4z4HX?^kUt^X4tX?^i+4+/i99X^^ii}^iX/Hz?zkw:Q+/tl^zik?t//QXX^^?{t^4l9H^/Hkt/i+9^{QkiK/Q/9ElXz{k{i44zlHz{?ktX4+{H^Q?H+49/l+{X?+U{44/z^tz?++Q9/+l^zQ+Qt44/X9HXk4+{4i9z^/H?+4iEXQQ4HQo?Q4Xil9zXklt{4HXzzX??tt41X+^t?Q+li49k{9?Q6lQz/^zz?lk?QX/>{^ztiiti/9X^^9kt+l/l9^{zHHt?iX9R{^HtUHQi/^l/Hlkltl/4X^Hi?H+?ikXB?{?t+kii9?{/H9dXQl94l^H/kHQ{4kltz+ttt44iXk^/kQ+X4z9{H^?{BHiX/k{9H+QtQQ9/{zz/GttX{zX{^^?zQH/{9k^^?++HiQ9{{4?X+yQX94l{k^kztH4?{+HQk+tk4Q^i^4?/+94{l+{{?l}zXX/?lkHG+Qi9/Q{Qz4t/t94XXl^{k9+z4X9?^??_+QitXQ^?H4+ZQ9{XllH4k^Q?//X?z{kft44tXQ^iV4tti9XQ{l?4S^9H/H^0tz<2QH/tzQzik4t//l{t^lk9+^9z9H{?Hktti99t^+Hi4AQ//9lXzlR/t^/9XHzz?ktt4+lt^{?i+ki/X4{X?ir{/^9{lHHXkki{/+z{zQM/Q{4/lt^Xt?+{i^9zzH?{Oki^9+{HHQQtQ4X/}XzX#it{//Xz^???tk/XX+^z?Qiti4X+{9?{3zQ{9/lztpk?tk/v^+HlkQtk44l+^9??+l4z9k{z?lN?/k9L{+Ht+4il/4{Qz9iXtl4{X^z?k/+?4HX.?+?t+QiiX9,9H9+9QlXkl^zzkHt?/Ql0zzktQt4iX9^/k9tlilXi{^++CHil/k^t?Q<tQ?/i?Xz/k9tX9lX^^^k9+H4l9k^/?+ti4k9i^+H/Q9QX/ll{HH++tH/^XkkZk+tt4Ql/H??/t4iX^9{{H^qzikX9lkHk*+/t/Qliz4k/tl4Xli^{k{+zik9?^kkX++iz9Qz+H4++Q99{{/z{1/tz/+X?^kkMi+4XXQ^k?4t+i9^l{l?zt9Qz9ll?kk&OQ+/t{4?Hk4QQ49^X^l?{+^4?X4{??H+U9+9t{QHi 4QX/9{QzlMXt^4?XHz?o+t-4^Xtzl?itgi/Xl^^Hl+4Q^X^lHz?kk4./9ltz?kiQW4/XH^Xk^t/i^XX{HkzJkin9+{ttkLiit//{JzXklt{4^{l^Hkl+k4HX+^i?QiiiX9/^tHXtQQ{XilzHk+itk/zl+?+kQti44{/zl?Xt4i{X9{z?Q<?4+X+{+HkyQ///4l/z9kXtH4{ll^zk/+?ikX.^+Fl+Q4=94^iH9h{Qll{^9zzYlt?//lpk+ktiQ/4X4zQ?9+lil{9{^?ztQQ?9^{RHkatiA/i{9H)k9Q44lHH^^?z+H/?XH^Z??+t4F9i{^H/+liH/l{Xz^tztH4?XkHt%itt/tXi:+?/+9iXX^^^H^+zQHl?lkH#3+ii9{liH/k/iz4XXl^{?^QtiHX^{kk+++ii9Q^i?+1/iQ/Xz?z{<Xtz/klH^kkHt+{4XQ^i?4Q/iz9X^/H{+XQz9Ql??+4tQ+9AlQSzk4t/49l{^k?{t{iz{H{?Hk+h4Q9l{Q?iO49i/9lXzlwzQX4zl?^?+ktC4+Xt^Q?X+44Q99^lHluzQ^9z{Qz?:^QE9?ltHskiQ9/HX9z4?l+?i^9z{Hk?tzi;9?{t?Pni9///{l?+klQX4^^z^H??+k/tX?^tkt+i949/{9HX+^iQ/^{zzHt?tk/El+ztklti/tX/z9?X+^i{X^^kHH+{QkX/{+Hk_Q/iXtl/HQkXiQ4{^{^zkQX{ikXH^+?t+Qi494{XH9MX^i/{l^zzM9t?4klIz+/HtQ4iX4z+?9+XilX{?QHz3?Q?{Q{%H?gtQQkzl4z9k9t{4lX{^^?z{Qi?9k^J?t+tiQ9iz4H/69QX/l+lz^kztH4kXkzrk+Qi/XXi^4?/t4iX9l{{?HtlQH/?lkHXx+Qt/Q^{?+k/t94XXk^{?z+z4.9?^Q?H++it9Q{{H4L9Q9/z{/z{k^tz/iX?zhkYt+HXXQ^i?4+9i99X{l?zttQz/Hl?H4:OQ+/t^QHkk4t/49XX^lk9+^4?Xk{??++Oiz9t{QHib4Q{/9lXzlkzt^4?XHHSkQt<4tXt^z?i+4i/{9{HHld^Q^9^lHHXkkit/lltzikit?4/X9^X+ltXi^9H{H??<ki99+^i?{miQ///{YzXklt{4^{{^Hkw+k45X+^Q?Q+i4H9/{{HXIlQ{/^lzHH+Xtk/tl+z9kQt944l/zi?X+{i{9H{zHk&?QkXl{+HQwQQi/4l/z9c{Qk4{Xz^zkl+?ikXqzQ?i+Qi494^tH9mXQl/z+Qzzkkt?/jl-z+ktQQX+X4^9?9+zil9z{^??+2Q?9j{bHH0tQQ/il^Qtk9t{4lX{^^?H+Hik9k^h4z+tiQ9i{4H/Z9QX9lkzz^kHtH4kXkztk+Qi/kXi^/?/tQiX9l{{H^+6QH/klkHtK+Qt/QliH{k/t94XX{^{?^+z");local t=0;s.d_mcWYaY(function()s.WYhXLVdv()t=t+1 end)local function e(n,e)if e then return t end;t=n+t;end local n,t,h=z(0,z,e,o,s.BiAPaRke);local function k()local t,n=s.BiAPaRke(o,e(1,3),e(5,6)+2);e(2);return(n*256)+t;end;local u=true;local u=0 local function _()local e=t();local t=t();local d=1;local l=(n(t,1,20)*(2^32))+e;local e=n(t,21,31);local t=((-1)^n(t,32));if(e==0)then if(l==u)then return t*0;else e=1;d=0;end;elseif(e==2047)then return(l==0)and(t*(1/0))or(t*(0/0));end;return s.KQsCWRfe(t,e-1023)*(d+(l/(2^52)));end;local p=t;local function c(t)local n;if(not t)then t=p();if(t==0)then return'';end;end;n=s.pAogMEHR(o,e(1,3),e(5,6)+t-1);e(t)local e=""for t=(1+u),#n do e=e..s.pAogMEHR(n,t,t)end return e;end;local u=#s.BDfREwzx(a('\49.\48'))~=1 local e=t;local function de(...)return{...},s.ekjVEQlE('#',...)end local function le()local r={};local e={};local o={};local a={o,r,nil,e};local e=t()local z={}for l=1,e do local n=h();local e;if(n==3)then e=(h()~=#{});elseif(n==0)then local t=_();if u and s.QnIHkGSr(s.BDfREwzx(t),'.(\48+)$')then t=s.jqRLphDk(t);end e=t;elseif(n==2)then e=c();end;z[l]=e;end;a[3]=h();for e=1,t()do r[e-(#{1})]=le();end;for s=1,t()do local e=h();if(n(e,1,1)==0)then local h=n(e,2,3);local r=n(e,4,6);local e={k(),k(),nil,nil};if(h==0)then e[d]=k();e[f]=k();elseif(h==#{1})then e[d]=t();elseif(h==b[2])then e[d]=t()-(2^16)elseif(h==b[3])then e[d]=t()-(2^16)e[f]=k();end;if(n(r,1,1)==1)then e[l]=z[e[l]]end if(n(r,2,2)==1)then e[d]=z[e[d]]end if(n(r,3,3)==1)then e[f]=z[e[f]]end o[s]=e;end end;return a;end;local function ne(n,e,t)local l=e;local l=t;return a(s.QnIHkGSr(s.QnIHkGSr(({s.d_mcWYaY(n)})[2],e),t))end local function j(c,o,h)local function ne(...)local k,y,b,te,u,t,a,ee,p,_,g,n;local e=0;while-1<e do if e<=2 then if e>0 then if e>=-3 then for n=23,84 do if 1~=e then t=-41;a=-1;break;end;b=z(6,70,3,40,c);u=de te=0;break;end;else b=z(6,70,3,40,c);u=de te=0;end else k=z(6,94,1,56,c);y=z(6,77,2,17,c);end else if 5>e then if 3<e then _=s.ekjVEQlE('#',...)-1;g={};else ee={};p={...};end else if 4<=e then repeat if 6>e then n=z(7);break;end;e=-2;until true;else e=-2;end end end e=e+1;end;for e=0,_ do if(e>=b)then ee[e-b]=p[e+1];else n[e]=p[e+1];end;end;local e=_-b+1 local e;local z;local function b(...)while true do end end while true do if t<-40 then t=t+42 end e=k[t];z=e[m];if 86>z then if 43<=z then if z<=63 then if 53<=z then if 58<=z then if 60>=z then if z>=59 then if z>57 then repeat if z<60 then local s;for z=0,6 do if 2<z then if 4<z then if 6==z then n(e[l],e[d]);else n(e[l],e[d]);t=t+1;e=k[t];end else if 4==z then n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];else n[e[l]]=h[e[d]];t=t+1;e=k[t];end end else if z>0 then if-1<z then repeat if z~=2 then n[e[l]][e[d]]=n[e[f]];t=t+1;e=k[t];break;end;n[e[l]][e[d]]=e[f];t=t+1;e=k[t];until true;else n[e[l]][e[d]]=e[f];t=t+1;e=k[t];end else s=e[l]n[s]=n[s](r(n,s+1,e[d]))t=t+1;e=k[t];end end end break;end;local z,o;for s=0,6 do if s<3 then if 0>=s then n[e[l]]={};t=t+1;e=k[t];else if 1~=s then z=e[l]n[z]=n[z](r(n,z+1,e[d]))t=t+1;e=k[t];else n[e[l]][e[d]]=n[e[f]];t=t+1;e=k[t];end end else if 5<=s then if s==5 then n[e[l]]=h[e[d]];t=t+1;e=k[t];else n[e[l]]=n[e[d]][e[f]];end else if s~=-1 then repeat if s~=3 then z=e[l]n[z](n[z+1])t=t+1;e=k[t];break;end;z=e[l];o=n[e[d]];n[z+1]=o;n[z]=o[e[f]];t=t+1;e=k[t];until true;else z=e[l];o=n[e[d]];n[z+1]=o;n[z]=o[e[f]];t=t+1;e=k[t];end end end end until true;else local z,o;for s=0,6 do if s<3 then if 0>=s then n[e[l]]={};t=t+1;e=k[t];else if 1~=s then z=e[l]n[z]=n[z](r(n,z+1,e[d]))t=t+1;e=k[t];else n[e[l]][e[d]]=n[e[f]];t=t+1;e=k[t];end end else if 5<=s then if s==5 then n[e[l]]=h[e[d]];t=t+1;e=k[t];else n[e[l]]=n[e[d]][e[f]];end else if s~=-1 then repeat if s~=3 then z=e[l]n[z](n[z+1])t=t+1;e=k[t];break;end;z=e[l];o=n[e[d]];n[z+1]=o;n[z]=o[e[f]];t=t+1;e=k[t];until true;else z=e[l];o=n[e[d]];n[z+1]=o;n[z]=o[e[f]];t=t+1;e=k[t];end end end end end else local s;for z=0,6 do if 2>=z then if 1>z then n(e[l],e[d]);t=t+1;e=k[t];else if-3<z then repeat if z<2 then n[e[l]]=n[e[d]];t=t+1;e=k[t];break;end;s=e[l]n[s]=n[s](r(n,s+1,e[d]))t=t+1;e=k[t];until true;else s=e[l]n[s]=n[s](r(n,s+1,e[d]))t=t+1;e=k[t];end end else if 4<z then if 4~=z then for r=40,98 do if 6~=z then n[e[l]]=h[e[d]];t=t+1;e=k[t];break;end;n[e[l]]=n[e[d]][e[f]];break;end;else n[e[l]]=h[e[d]];t=t+1;e=k[t];end else if z>1 then repeat if 3<z then n[e[l]][e[d]]=e[f];t=t+1;e=k[t];break;end;n[e[l]][e[d]]=e[f];t=t+1;e=k[t];until true;else n[e[l]][e[d]]=e[f];t=t+1;e=k[t];end end end end end else if z>=62 then if 60~=z then repeat if z~=62 then local z,p,b,_,s,c;for b=0,5 do if 3<=b then if 4<=b then if 5>b then z=e[l]c={n[z](r(n,z+1,a))};s=0;for e=z,e[f]do s=s+1;n[e]=c[s];end t=t+1;e=k[t];else t=e[d];end else z=e[l]c,_=u(n[z](n[z+1]))a=_+z-1 s=0;for e=z,a do s=s+1;n[e]=c[s];end;t=t+1;e=k[t];end else if 1<=b then if-3<=b then repeat if 1~=b then z=e[l];p=n[e[d]];n[z+1]=p;n[z]=p[e[f]];t=t+1;e=k[t];break;end;n[e[l]]=o[e[d]];t=t+1;e=k[t];until true;else n[e[l]]=o[e[d]];t=t+1;e=k[t];end else n[e[l]]=h[e[d]];t=t+1;e=k[t];end end end break;end;for z=0,6 do if 3>z then if 1>z then n[e[l]][e[d]]=n[e[f]];t=t+1;e=k[t];else if z>-1 then for h=33,86 do if 2>z then n[e[l]][e[d]]=e[f];t=t+1;e=k[t];break;end;n[e[l]][e[d]]=e[f];t=t+1;e=k[t];break;end;else n[e[l]][e[d]]=e[f];t=t+1;e=k[t];end end else if 4<z then if z>1 then for h=34,63 do if z<6 then n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];break;end;n[e[l]][e[d]]=n[e[f]];break;end;else n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];end else if 4==z then n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];else n[e[l]]=h[e[d]];t=t+1;e=k[t];end end end end until true;else local z,p,b,_,s,c;for b=0,5 do if 3<=b then if 4<=b then if 5>b then z=e[l]c={n[z](r(n,z+1,a))};s=0;for e=z,e[f]do s=s+1;n[e]=c[s];end t=t+1;e=k[t];else t=e[d];end else z=e[l]c,_=u(n[z](n[z+1]))a=_+z-1 s=0;for e=z,a do s=s+1;n[e]=c[s];end;t=t+1;e=k[t];end else if 1<=b then if-3<=b then repeat if 1~=b then z=e[l];p=n[e[d]];n[z+1]=p;n[z]=p[e[f]];t=t+1;e=k[t];break;end;n[e[l]]=o[e[d]];t=t+1;e=k[t];until true;else n[e[l]]=o[e[d]];t=t+1;e=k[t];end else n[e[l]]=h[e[d]];t=t+1;e=k[t];end end end end else for z=0,5 do if 2<z then if 4<=z then if 0<=z then for r=22,84 do if 4~=z then n[e[l]]=h[e[d]];break;end;n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];break;end;else n[e[l]]=h[e[d]];end else n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];end else if z<1 then n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];else if-3<z then repeat if 2~=z then n(e[l],e[d]);t=t+1;e=k[t];break;end;n[e[l]]=h[e[d]];t=t+1;e=k[t];until true;else n(e[l],e[d]);t=t+1;e=k[t];end end end end end end else if 55<=z then if 55>=z then local z;n(e[l],e[d]);t=t+1;e=k[t];n(e[l],e[d]);t=t+1;e=k[t];z=e[l]n[z]=n[z](r(n,z+1,e[d]))t=t+1;e=k[t];n[e[l]][e[d]]=n[e[f]];t=t+1;e=k[t];n[e[l]][e[d]]=e[f];t=t+1;e=k[t];n[e[l]]=h[e[d]];t=t+1;e=k[t];n[e[l]]=n[e[d]][e[f]];else if z>53 then for s=12,66 do if z~=56 then local z;n[e[l]]=n[e[d]];t=t+1;e=k[t];z=e[l]n[z]=n[z](r(n,z+1,e[d]))t=t+1;e=k[t];n[e[l]][e[d]]=e[f];t=t+1;e=k[t];n[e[l]][e[d]]=e[f];t=t+1;e=k[t];n[e[l]]=h[e[d]];t=t+1;e=k[t];n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];n(e[l],e[d]);break;end;n[e[l]][e[d]]=n[e[f]];break;end;else n[e[l]][e[d]]=n[e[f]];end end else if 50<z then repeat if z>53 then if(n[e[l]]~=e[f])then t=t+1;else t=e[d];end;break;end;n[e[l]][e[d]]=n[e[f]];until true;else n[e[l]][e[d]]=n[e[f]];end end end else if 48>z then if 44<z then if 45<z then if 45<z then repeat if z<47 then local z,r;z=e[l];r=n[e[d]];n[z+1]=r;n[z]=r[e[f]];t=t+1;e=k[t];z=e[l]n[z](n[z+1])t=t+1;e=k[t];n[e[l]]=h[e[d]];t=t+1;e=k[t];n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];n[e[l]]=n[e[d]]+e[f];t=t+1;e=k[t];z=e[l]n[z](n[z+1])t=t+1;e=k[t];n[e[l]]=o[e[d]];break;end;n[e[l]]=(e[d]~=0);until true;else local z,r;z=e[l];r=n[e[d]];n[z+1]=r;n[z]=r[e[f]];t=t+1;e=k[t];z=e[l]n[z](n[z+1])t=t+1;e=k[t];n[e[l]]=h[e[d]];t=t+1;e=k[t];n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];n[e[l]]=n[e[d]]+e[f];t=t+1;e=k[t];z=e[l]n[z](n[z+1])t=t+1;e=k[t];n[e[l]]=o[e[d]];end else for z=0,1 do if 0~=z then n[e[l]]=h[e[d]];else n[e[l]][e[d]]=n[e[f]];t=t+1;e=k[t];end end end else if 44==z then local h,s,o,u,a,z,b;n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];z=0;while z>-1 do if 3>z then if 0>=z then h=e;else if-2<=z then repeat if 2~=z then s=l;break;end;o=d;until true;else o=d;end end else if 4<z then if z>2 then for e=35,83 do if z<6 then n(a,u);break;end;z=-2;break;end;else z=-2;end else if 3~=z then a=h[s];else u=h[o];end end end z=z+1 end t=t+1;e=k[t];z=0;while z>-1 do if z>2 then if 4>=z then if z>0 then for e=32,76 do if z<4 then u=h[o];break;end;a=h[s];break;end;else a=h[s];end else if 6~=z then n(a,u);else z=-2;end end else if 0<z then if-3<z then repeat if z~=1 then o=d;break;end;s=l;until true;else s=l;end else h=e;end end z=z+1 end t=t+1;e=k[t];z=0;while z>-1 do if z<3 then if z<=0 then h=e;else if z~=-3 then repeat if z>1 then o=d;break;end;s=l;until true;else s=l;end end else if 4>=z then if 2<z then repeat if 4>z then u=h[o];break;end;a=h[s];until true;else a=h[s];end else if 2~=z then for e=34,72 do if z~=5 then z=-2;break;end;n(a,u);break;end;else z=-2;end end end z=z+1 end t=t+1;e=k[t];z=0;while z>-1 do if 3>z then if 0>=z then h=e;else if z>=-3 then for e=37,88 do if z~=1 then o=d;break;end;s=l;break;end;else o=d;end end else if 5<=z then if z==6 then z=-2;else n(a,u);end else if z>0 then repeat if z~=3 then a=h[s];break;end;u=h[o];until true;else u=h[o];end end end z=z+1 end t=t+1;e=k[t];b=e[l]n[b]=n[b](r(n,b+1,e[d]))t=t+1;e=k[t];n[e[l]][e[d]]=n[e[f]];else local z;z=e[l]n[z]=n[z](r(n,z+1,e[d]))t=t+1;e=k[t];n[e[l]][e[d]]=n[e[f]];t=t+1;e=k[t];n[e[l]][e[d]]=e[f];t=t+1;e=k[t];n[e[l]]=h[e[d]];t=t+1;e=k[t];n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];n[e[l]][e[d]]=n[e[f]];end end else if z<50 then if z>46 then for t=38,87 do if 48~=z then n[e[l]][e[d]]=e[f];break;end;h[e[d]]=n[e[l]];break;end;else h[e[d]]=n[e[l]];end else if z<51 then local z,_,p,c,b,z,z,r,u,o,a,s;for z=0,6 do if z>=3 then if z>4 then if z>=1 then for h=23,57 do if 5<z then n[e[l]]=n[e[d]][e[f]];break;end;n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];break;end;else n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];end else if-1<z then for f=17,92 do if z>3 then n[e[l]]=h[e[d]];t=t+1;e=k[t];break;end;z=0;while z>-1 do if 2>=z then if z>0 then if-1<=z then for e=37,83 do if 2>z then u=l;break;end;o=d;break;end;else o=d;end else r=e;end else if 5>z then if z~=-1 then repeat if 4~=z then a=r[o];break;end;s=r[u];until true;else a=r[o];end else if 5~=z then z=-2;else n(s,a);end end end z=z+1 end t=t+1;e=k[t];break;end;else n[e[l]]=h[e[d]];t=t+1;e=k[t];end end else if 1>z then z=0;while z>-1 do if z>=4 then if z>5 then if z<7 then n[s]=b;else z=-2;end else if z<5 then b=c[r[p]];else s=r[_];end end else if 1>=z then if 0<z then _=l;else r=e;end else if 2==z then p=d;else c=n;end end end z=z+1 end t=t+1;e=k[t];else if z==2 then n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];else n[e[l]]=h[e[d]];t=t+1;e=k[t];end end end end else if z>=47 then repeat if z~=51 then local z;for r=0,6 do if 2<r then if r>4 then if r~=5 then n(e[l],e[d]);else n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];end else if r>=1 then for f=49,78 do if r<4 then z=e[l]n[z]=n[z](n[z+1])t=t+1;e=k[t];break;end;n[e[l]]=h[e[d]];t=t+1;e=k[t];break;end;else z=e[l]n[z]=n[z](n[z+1])t=t+1;e=k[t];end end else if 0>=r then n[e[l]]=h[e[d]];t=t+1;e=k[t];else if r<2 then n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];else n(e[l],e[d]);t=t+1;e=k[t];end end end end break;end;local z;n(e[l],e[d]);t=t+1;e=k[t];n(e[l],e[d]);t=t+1;e=k[t];z=e[l]n[z]=n[z](r(n,z+1,e[d]))t=t+1;e=k[t];n[e[l]][e[d]]=n[e[f]];t=t+1;e=k[t];n[e[l]]=h[e[d]];t=t+1;e=k[t];n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];n(e[l],e[d]);until true;else local z;for r=0,6 do if 2<r then if r>4 then if r~=5 then n(e[l],e[d]);else n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];end else if r>=1 then for f=49,78 do if r<4 then z=e[l]n[z]=n[z](n[z+1])t=t+1;e=k[t];break;end;n[e[l]]=h[e[d]];t=t+1;e=k[t];break;end;else z=e[l]n[z]=n[z](n[z+1])t=t+1;e=k[t];end end else if 0>=r then n[e[l]]=h[e[d]];t=t+1;e=k[t];else if r<2 then n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];else n(e[l],e[d]);t=t+1;e=k[t];end end end end end end end end end else if z<=74 then if 68>=z then if z>65 then if z<67 then local z;n(e[l],e[d]);t=t+1;e=k[t];n(e[l],e[d]);t=t+1;e=k[t];n(e[l],e[d]);t=t+1;e=k[t];z=e[l]n[z]=n[z](r(n,z+1,e[d]))t=t+1;e=k[t];n[e[l]][e[d]]=n[e[f]];t=t+1;e=k[t];n[e[l]]=o[e[d]];t=t+1;e=k[t];n[e[l]][e[d]]=e[f];else if z>63 then for r=22,67 do if z~=68 then for z=0,6 do if z>=3 then if z<5 then if z>-1 then for h=33,85 do if z~=3 then n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];break;end;n[e[l]][e[d]]=n[e[f]];t=t+1;e=k[t];break;end;else n[e[l]][e[d]]=n[e[f]];t=t+1;e=k[t];end else if 3<z then for h=47,65 do if z<6 then n[e[l]][e[d]]=n[e[f]];t=t+1;e=k[t];break;end;n[e[l]]=n[e[d]][e[f]];break;end;else n[e[l]][e[d]]=n[e[f]];t=t+1;e=k[t];end end else if 0>=z then n[e[l]][e[d]]=n[e[f]];t=t+1;e=k[t];else if 0~=z then for h=11,98 do if 2>z then n[e[l]][e[d]]=e[f];t=t+1;e=k[t];break;end;n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];break;end;else n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];end end end end break;end;n[e[l]]=o[e[d]];t=t+1;e=k[t];n[e[l]]=h[e[d]];t=t+1;e=k[t];n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];n(e[l],e[d]);t=t+1;e=k[t];n(e[l],e[d]);t=t+1;e=k[t];n(e[l],e[d]);t=t+1;e=k[t];n(e[l],e[d]);break;end;else n[e[l]]=o[e[d]];t=t+1;e=k[t];n[e[l]]=h[e[d]];t=t+1;e=k[t];n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];n(e[l],e[d]);t=t+1;e=k[t];n(e[l],e[d]);t=t+1;e=k[t];n(e[l],e[d]);t=t+1;e=k[t];n(e[l],e[d]);end end else if z~=61 then for s=39,90 do if 64~=z then local z;n(e[l],e[d]);t=t+1;e=k[t];z=e[l]n[z]=n[z](r(n,z+1,e[d]))t=t+1;e=k[t];n[e[l]][e[d]]=n[e[f]];t=t+1;e=k[t];n[e[l]][e[d]]=e[f];t=t+1;e=k[t];n[e[l]]=h[e[d]];t=t+1;e=k[t];n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];n(e[l],e[d]);break;end;local e=e[l]n[e](n[e+1])break;end;else local z;n(e[l],e[d]);t=t+1;e=k[t];z=e[l]n[z]=n[z](r(n,z+1,e[d]))t=t+1;e=k[t];n[e[l]][e[d]]=n[e[f]];t=t+1;e=k[t];n[e[l]][e[d]]=e[f];t=t+1;e=k[t];n[e[l]]=h[e[d]];t=t+1;e=k[t];n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];n(e[l],e[d]);end end else if z>71 then if z<=72 then local z;n(e[l],e[d]);t=t+1;e=k[t];z=e[l]n[z]=n[z](r(n,z+1,e[d]))t=t+1;e=k[t];n[e[l]][e[d]]=n[e[f]];t=t+1;e=k[t];n[e[l]][e[d]]=n[e[f]];t=t+1;e=k[t];n[e[l]][e[d]]=n[e[f]];t=t+1;e=k[t];n[e[l]]=h[e[d]];t=t+1;e=k[t];n[e[l]]=n[e[d]][e[f]];else if 69<z then repeat if 74>z then local e=e[l]n[e]=n[e](r(n,e+1,a))break;end;local z;n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];z=e[l]n[z]=n[z](r(n,z+1,e[d]))t=t+1;e=k[t];n[e[l]][e[d]]=n[e[f]];t=t+1;e=k[t];n[e[l]]=h[e[d]];t=t+1;e=k[t];n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];n(e[l],e[d]);until true;else local z;n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];z=e[l]n[z]=n[z](r(n,z+1,e[d]))t=t+1;e=k[t];n[e[l]][e[d]]=n[e[f]];t=t+1;e=k[t];n[e[l]]=h[e[d]];t=t+1;e=k[t];n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];n(e[l],e[d]);end end else if z>69 then if z>67 then repeat if 71~=z then n[e[l]]();break;end;local s;for z=0,6 do if z>2 then if z<5 then if z>0 then repeat if z<4 then n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];break;end;n(e[l],e[d]);t=t+1;e=k[t];until true;else n(e[l],e[d]);t=t+1;e=k[t];end else if z>=3 then repeat if 6~=z then n(e[l],e[d]);t=t+1;e=k[t];break;end;n(e[l],e[d]);until true;else n(e[l],e[d]);end end else if z>0 then if 1==z then n[e[l]][e[d]]=n[e[f]];t=t+1;e=k[t];else n[e[l]]=h[e[d]];t=t+1;e=k[t];end else s=e[l]n[s]=n[s](r(n,s+1,e[d]))t=t+1;e=k[t];end end end until true;else n[e[l]]();end else local z,h;z=e[l]n[z](n[z+1])t=t+1;e=k[t];z=e[l];h=n[e[d]];n[z+1]=h;n[z]=h[e[f]];t=t+1;e=k[t];z=e[l]n[z](n[z+1])t=t+1;e=k[t];n[e[l]]=(e[d]~=0);t=t+1;e=k[t];do return n[e[l]]end t=t+1;e=k[t];do return end;end end end else if z>=80 then if z<=82 then if 81>z then local t=e[l]n[t]=n[t](r(n,t+1,e[d]))else if 80<=z then for s=26,70 do if 82~=z then local e=e[l]n[e]=n[e](n[e+1])break;end;local z;n(e[l],e[d]);t=t+1;e=k[t];n(e[l],e[d]);t=t+1;e=k[t];n(e[l],e[d]);t=t+1;e=k[t];n(e[l],e[d]);t=t+1;e=k[t];z=e[l]n[z]=n[z](r(n,z+1,e[d]))t=t+1;e=k[t];n[e[l]][e[d]]=n[e[f]];t=t+1;e=k[t];n[e[l]]=h[e[d]];break;end;else local z;n(e[l],e[d]);t=t+1;e=k[t];n(e[l],e[d]);t=t+1;e=k[t];n(e[l],e[d]);t=t+1;e=k[t];n(e[l],e[d]);t=t+1;e=k[t];z=e[l]n[z]=n[z](r(n,z+1,e[d]))t=t+1;e=k[t];n[e[l]][e[d]]=n[e[f]];t=t+1;e=k[t];n[e[l]]=h[e[d]];end end else if z<=83 then if not n[e[l]]then t=t+1;else t=e[d];end;else if 85>z then local z;for r=0,6 do if r>2 then if 5<=r then if 5==r then n[e[l]][e[d]]=e[f];t=t+1;e=k[t];else n[e[l]]=o[e[d]];end else if r~=-1 then repeat if r<4 then n(e[l],e[d]);t=t+1;e=k[t];break;end;z=e[l]n[z]=n[z](n[z+1])t=t+1;e=k[t];until true;else n(e[l],e[d]);t=t+1;e=k[t];end end else if 0>=r then z=e[l]n[z]=n[z](n[z+1])t=t+1;e=k[t];else if 1<r then n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];else n[e[l]]=h[e[d]];t=t+1;e=k[t];end end end end else n[e[l]]=h[e[d]];end end end else if z<77 then if 71<=z then repeat if 76>z then n[e[l]]();break;end;if(n[e[l]]==n[e[f]])then t=t+1;else t=e[d];end;until true;else if(n[e[l]]==n[e[f]])then t=t+1;else t=e[d];end;end else if 78>z then local s;for z=0,6 do if z>=3 then if 4>=z then if 3==z then n[e[l]]=h[e[d]];t=t+1;e=k[t];else n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];end else if z~=4 then for f=20,57 do if 6~=z then n(e[l],e[d]);t=t+1;e=k[t];break;end;n(e[l],e[d]);break;end;else n(e[l],e[d]);t=t+1;e=k[t];end end else if 1<=z then if 0<z then for h=18,93 do if 1~=z then n[e[l]][e[d]]=e[f];t=t+1;e=k[t];break;end;n[e[l]][e[d]]=n[e[f]];t=t+1;e=k[t];break;end;else n[e[l]][e[d]]=n[e[f]];t=t+1;e=k[t];end else s=e[l]n[s]=n[s](r(n,s+1,e[d]))t=t+1;e=k[t];end end end else if 79==z then local s;for z=0,6 do if z>2 then if z>=5 then if 6~=z then n(e[l],e[d]);t=t+1;e=k[t];else n(e[l],e[d]);end else if z~=4 then n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];else n(e[l],e[d]);t=t+1;e=k[t];end end else if z>0 then if-1<=z then for r=10,61 do if z~=2 then n[e[l]][e[d]]=n[e[f]];t=t+1;e=k[t];break;end;n[e[l]]=h[e[d]];t=t+1;e=k[t];break;end;else n[e[l]]=h[e[d]];t=t+1;e=k[t];end else s=e[l]n[s]=n[s](r(n,s+1,e[d]))t=t+1;e=k[t];end end end else local z;z=e[l]n[z]=n[z](r(n,z+1,e[d]))t=t+1;e=k[t];n[e[l]][e[d]]=n[e[f]];t=t+1;e=k[t];n[e[l]]=h[e[d]];t=t+1;e=k[t];n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];n(e[l],e[d]);t=t+1;e=k[t];n(e[l],e[d]);t=t+1;e=k[t];n(e[l],e[d]);end end end end end end else if z<=20 then if 9>=z then if z<5 then if 1<z then if z<3 then local t=e[l]n[t](r(n,t+1,e[d]))else if z>-1 then for h=30,52 do if 3~=z then n[e[l]][n[e[d]]]=n[e[f]];break;end;local h;for z=0,4 do if z<2 then if z>=-1 then for s=16,61 do if z~=0 then n[e[l]][e[d]]=n[e[f]];t=t+1;e=k[t];break;end;h=e[l]n[h]=n[h](r(n,h+1,e[d]))t=t+1;e=k[t];break;end;else n[e[l]][e[d]]=n[e[f]];t=t+1;e=k[t];end else if z>2 then if z<4 then n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];else n[e[l]][e[d]]=n[e[f]];end else n[e[l]]=o[e[d]];t=t+1;e=k[t];end end end break;end;else local h;for z=0,4 do if z<2 then if z>=-1 then for s=16,61 do if z~=0 then n[e[l]][e[d]]=n[e[f]];t=t+1;e=k[t];break;end;h=e[l]n[h]=n[h](r(n,h+1,e[d]))t=t+1;e=k[t];break;end;else n[e[l]][e[d]]=n[e[f]];t=t+1;e=k[t];end else if z>2 then if z<4 then n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];else n[e[l]][e[d]]=n[e[f]];end else n[e[l]]=o[e[d]];t=t+1;e=k[t];end end end end end else if-3<=z then repeat if z>0 then n[e[l]]=n[e[d]];break;end;n[e[l]][e[d]]=n[e[f]];t=t+1;e=k[t];n[e[l]][e[d]]=e[f];t=t+1;e=k[t];n[e[l]][e[d]]=n[e[f]];t=t+1;e=k[t];n[e[l]]=h[e[d]];t=t+1;e=k[t];n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];n(e[l],e[d]);t=t+1;e=k[t];n(e[l],e[d]);until true;else n[e[l]][e[d]]=n[e[f]];t=t+1;e=k[t];n[e[l]][e[d]]=e[f];t=t+1;e=k[t];n[e[l]][e[d]]=n[e[f]];t=t+1;e=k[t];n[e[l]]=h[e[d]];t=t+1;e=k[t];n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];n(e[l],e[d]);t=t+1;e=k[t];n(e[l],e[d]);end end else if 6<z then if z>7 then if z~=9 then local e=e[l]n[e]=n[e](n[e+1])else local e=e[l]local l,t=u(n[e](n[e+1]))a=t+e-1 local t=0;for e=e,a do t=t+1;n[e]=l[t];end;end else n[e[l]]=n[e[d]][e[f]];end else if z>=1 then repeat if z<6 then n[e[l]][e[d]]=n[e[f]];t=t+1;e=k[t];n[e[l]][e[d]]=e[f];t=t+1;e=k[t];n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];n[e[l]][e[d]]=n[e[f]];t=t+1;e=k[t];n[e[l]]=h[e[d]];t=t+1;e=k[t];n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];n[e[l]]=n[e[d]][e[f]];break;end;n[e[l]]=h[e[d]];t=t+1;e=k[t];n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];n[e[l]][e[d]]=n[e[f]];t=t+1;e=k[t];n[e[l]]=h[e[d]];t=t+1;e=k[t];n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];n(e[l],e[d]);until true;else n[e[l]]=h[e[d]];t=t+1;e=k[t];n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];n[e[l]][e[d]]=n[e[f]];t=t+1;e=k[t];n[e[l]]=h[e[d]];t=t+1;e=k[t];n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];n(e[l],e[d]);end end end else if 15>z then if 11>=z then if z>=6 then repeat if z~=10 then local s;for z=0,6 do if 2>=z then if z>0 then if z>-1 then for f=19,95 do if 2>z then n[e[l]]=n[e[d]];t=t+1;e=k[t];break;end;s=e[l]n[s]=n[s](r(n,s+1,e[d]))t=t+1;e=k[t];break;end;else s=e[l]n[s]=n[s](r(n,s+1,e[d]))t=t+1;e=k[t];end else n(e[l],e[d]);t=t+1;e=k[t];end else if 5<=z then if z>=3 then repeat if 6~=z then n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];break;end;n(e[l],e[d]);until true;else n(e[l],e[d]);end else if-1~=z then for r=25,66 do if 3<z then n[e[l]]=h[e[d]];t=t+1;e=k[t];break;end;n[e[l]][e[d]]=e[f];t=t+1;e=k[t];break;end;else n[e[l]][e[d]]=e[f];t=t+1;e=k[t];end end end end break;end;local e=e[l]n[e](n[e+1])until true;else local s;for z=0,6 do if 2>=z then if z>0 then if z>-1 then for f=19,95 do if 2>z then n[e[l]]=n[e[d]];t=t+1;e=k[t];break;end;s=e[l]n[s]=n[s](r(n,s+1,e[d]))t=t+1;e=k[t];break;end;else s=e[l]n[s]=n[s](r(n,s+1,e[d]))t=t+1;e=k[t];end else n(e[l],e[d]);t=t+1;e=k[t];end else if 5<=z then if z>=3 then repeat if 6~=z then n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];break;end;n(e[l],e[d]);until true;else n(e[l],e[d]);end else if-1~=z then for r=25,66 do if 3<z then n[e[l]]=h[e[d]];t=t+1;e=k[t];break;end;n[e[l]][e[d]]=e[f];t=t+1;e=k[t];break;end;else n[e[l]][e[d]]=e[f];t=t+1;e=k[t];end end end end end else if z>=13 then if z==13 then t=e[d];else local z;n[e[l]][e[d]]=n[e[f]];t=t+1;e=k[t];n[e[l]][e[d]]=e[f];t=t+1;e=k[t];n[e[l]]=h[e[d]];t=t+1;e=k[t];n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];n(e[l],e[d]);t=t+1;e=k[t];n[e[l]]=n[e[d]];t=t+1;e=k[t];z=e[l]n[z]=n[z](r(n,z+1,e[d]))end else n[e[l]]=n[e[d]][e[f]];end end else if 18>z then if z<=15 then n[e[l]]=j(y[e[d]],nil,h);else if 13~=z then for s=39,57 do if 17~=z then local z;n(e[l],e[d]);t=t+1;e=k[t];z=e[l]n[z]=n[z](r(n,z+1,e[d]))t=t+1;e=k[t];n[e[l]][e[d]]=n[e[f]];t=t+1;e=k[t];n[e[l]]=h[e[d]];t=t+1;e=k[t];n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];n(e[l],e[d]);t=t+1;e=k[t];n(e[l],e[d]);break;end;local z;n(e[l],e[d]);t=t+1;e=k[t];z=e[l]n[z]=n[z](n[z+1])t=t+1;e=k[t];n[e[l]]=h[e[d]];t=t+1;e=k[t];n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];n(e[l],e[d]);t=t+1;e=k[t];z=e[l]n[z]=n[z](n[z+1])t=t+1;e=k[t];n[e[l]][e[d]]=e[f];break;end;else local z;n(e[l],e[d]);t=t+1;e=k[t];z=e[l]n[z]=n[z](n[z+1])t=t+1;e=k[t];n[e[l]]=h[e[d]];t=t+1;e=k[t];n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];n(e[l],e[d]);t=t+1;e=k[t];z=e[l]n[z]=n[z](n[z+1])t=t+1;e=k[t];n[e[l]][e[d]]=e[f];end end else if z<19 then local s;for z=0,6 do if 3<=z then if z<5 then if z~=1 then repeat if 4~=z then n[e[l]][e[d]]=n[e[f]];t=t+1;e=k[t];break;end;n[e[l]][e[d]]=e[f];t=t+1;e=k[t];until true;else n[e[l]][e[d]]=n[e[f]];t=t+1;e=k[t];end else if 3<z then repeat if z~=5 then n[e[l]]=n[e[d]][e[f]];break;end;n[e[l]]=h[e[d]];t=t+1;e=k[t];until true;else n[e[l]]=h[e[d]];t=t+1;e=k[t];end end else if z<1 then n(e[l],e[d]);t=t+1;e=k[t];else if-3<z then repeat if z~=2 then n(e[l],e[d]);t=t+1;e=k[t];break;end;s=e[l]n[s]=n[s](r(n,s+1,e[d]))t=t+1;e=k[t];until true;else s=e[l]n[s]=n[s](r(n,s+1,e[d]))t=t+1;e=k[t];end end end end else if 19<z then local z;n[e[l]]=h[e[d]];t=t+1;e=k[t];n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];n(e[l],e[d]);t=t+1;e=k[t];n[e[l]]=n[e[d]];t=t+1;e=k[t];z=e[l]n[z]=n[z](r(n,z+1,e[d]))t=t+1;e=k[t];n[e[l]]=h[e[d]];t=t+1;e=k[t];n[e[l]]=n[e[d]][e[f]];else local z;n(e[l],e[d]);t=t+1;e=k[t];n(e[l],e[d]);t=t+1;e=k[t];n(e[l],e[d]);t=t+1;e=k[t];z=e[l]n[z]=n[z](r(n,z+1,e[d]))t=t+1;e=k[t];n[e[l]][e[d]]=n[e[f]];t=t+1;e=k[t];n[e[l]]=h[e[d]];t=t+1;e=k[t];n[e[l]]=n[e[d]][e[f]];end end end end end else if z<=31 then if 26>z then if 22<z then if 24>z then n[e[l]]=h[e[d]];else if 20<z then repeat if 24~=z then local f,h,r,z,k;local t=0;while t>-1 do if 3>t then if t>=1 then if t<2 then h=l;else r=d;end else f=e;end else if 5<=t then if 3~=t then for e=18,98 do if 5~=t then t=-2;break;end;n(k,z);break;end;else n(k,z);end else if t>=1 then repeat if t<4 then z=f[r];break;end;k=f[h];until true;else k=f[h];end end end t=t+1 end break;end;local s,a,b,u,r,z;for z=0,6 do if 3<=z then if 4>=z then if z~=3 then n[e[l]]=h[e[d]];t=t+1;e=k[t];else n[e[l]][e[d]]=n[e[f]];t=t+1;e=k[t];end else if 6==z then z=0;while z>-1 do if z>=3 then if 5>z then if 0<z then repeat if 4~=z then u=s[b];break;end;r=s[a];until true;else r=s[a];end else if z>3 then repeat if z>5 then z=-2;break;end;n(r,u);until true;else n(r,u);end end else if z<1 then s=e;else if z~=2 then a=l;else b=d;end end end z=z+1 end else n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];end end else if 0<z then if z>0 then for h=37,65 do if z~=2 then n[e[l]][e[d]]=n[e[f]];t=t+1;e=k[t];break;end;n[e[l]]=o[e[d]];t=t+1;e=k[t];break;end;else n[e[l]]=o[e[d]];t=t+1;e=k[t];end else n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];end end end until true;else local k,z,r,h,f;local t=0;while t>-1 do if 3>t then if t>=1 then if t<2 then z=l;else r=d;end else k=e;end else if 5<=t then if 3~=t then for e=18,98 do if 5~=t then t=-2;break;end;n(f,h);break;end;else n(f,h);end else if t>=1 then repeat if t<4 then h=k[r];break;end;f=k[z];until true;else f=k[z];end end end t=t+1 end end end else if z>=17 then repeat if 22~=z then local t=e[l];local l=n[e[d]];n[t+1]=l;n[t]=l[e[f]];break;end;local z;z=e[l]n[z]=n[z](r(n,z+1,e[d]))t=t+1;e=k[t];n[e[l]][e[d]]=e[f];t=t+1;e=k[t];n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];n[e[l]][e[d]]=n[e[f]];t=t+1;e=k[t];n[e[l]]=h[e[d]];t=t+1;e=k[t];n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];n(e[l],e[d]);until true;else local t=e[l];local l=n[e[d]];n[t+1]=l;n[t]=l[e[f]];end end else if 29>z then if 26>=z then local c,o,a,s,b,u,z;for z=0,6 do if 3>z then if z<=0 then c=e[l]n[c]=n[c](r(n,c+1,e[d]))t=t+1;e=k[t];else if z==2 then n[e[l]][e[d]]=e[f];t=t+1;e=k[t];else n[e[l]][e[d]]=e[f];t=t+1;e=k[t];end end else if 5<=z then if 1<=z then repeat if 5<z then z=0;while z>-1 do if z<3 then if z<=0 then o=e;else if-1~=z then for e=47,55 do if 2~=z then a=l;break;end;s=d;break;end;else s=d;end end else if 5>z then if z>3 then u=o[a];else b=o[s];end else if z>4 then repeat if z<6 then n(u,b);break;end;z=-2;until true;else z=-2;end end end z=z+1 end break;end;z=0;while z>-1 do if 2<z then if z<5 then if z<4 then b=o[s];else u=o[a];end else if z>=1 then for e=25,92 do if 5~=z then z=-2;break;end;n(u,b);break;end;else z=-2;end end else if z>0 then if-1<z then repeat if 2>z then a=l;break;end;s=d;until true;else s=d;end else o=e;end end z=z+1 end t=t+1;e=k[t];until true;else z=0;while z>-1 do if 2<z then if z<5 then if z<4 then b=o[s];else u=o[a];end else if z>=1 then for e=25,92 do if 5~=z then z=-2;break;end;n(u,b);break;end;else z=-2;end end else if z>0 then if-1<z then repeat if 2>z then a=l;break;end;s=d;until true;else s=d;end else o=e;end end z=z+1 end t=t+1;e=k[t];end else if 1~=z then repeat if z~=3 then n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];break;end;n[e[l]]=h[e[d]];t=t+1;e=k[t];until true;else n[e[l]]=h[e[d]];t=t+1;e=k[t];end end end end else if 27~=z then local z;n[e[l]]=h[e[d]];t=t+1;e=k[t];n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];n(e[l],e[d]);t=t+1;e=k[t];n(e[l],e[d]);t=t+1;e=k[t];n(e[l],e[d]);t=t+1;e=k[t];n(e[l],e[d]);t=t+1;e=k[t];z=e[l]n[z]=n[z](r(n,z+1,e[d]))else local a,p,s,c,u,o,b,z;for z=0,6 do if z<=2 then if z>0 then if z>0 then repeat if 2>z then z=0;while z>-1 do if 3>z then if 0>=z then s=e;else if z==1 then c=l;else u=d;end end else if z>4 then if 3<z then repeat if 6~=z then n(b,o);break;end;z=-2;until true;else n(b,o);end else if 1<=z then for e=11,79 do if z~=4 then o=s[u];break;end;b=s[c];break;end;else o=s[u];end end end z=z+1 end t=t+1;e=k[t];break;end;a=e[l]n[a]=n[a](r(n,a+1,e[d]))t=t+1;e=k[t];until true;else z=0;while z>-1 do if 3>z then if 0>=z then s=e;else if z==1 then c=l;else u=d;end end else if z>4 then if 3<z then repeat if 6~=z then n(b,o);break;end;z=-2;until true;else n(b,o);end else if 1<=z then for e=11,79 do if z~=4 then o=s[u];break;end;b=s[c];break;end;else o=s[u];end end end z=z+1 end t=t+1;e=k[t];end else a=e[l];p=n[e[d]];n[a+1]=p;n[a]=p[e[f]];t=t+1;e=k[t];end else if z>=5 then if z==5 then n[e[l]]=h[e[d]];t=t+1;e=k[t];else n[e[l]][e[d]]=e[f];end else if 4~=z then n[e[l]]=h[e[d]];t=t+1;e=k[t];else n[e[l]][e[d]]=e[f];t=t+1;e=k[t];end end end end end end else if z>29 then if z<31 then for z=0,6 do if z>=3 then if z>=5 then if 2<=z then repeat if z~=6 then h[e[d]]=n[e[l]];t=t+1;e=k[t];break;end;n[e[l]]=h[e[d]];until true;else n[e[l]]=h[e[d]];end else if z~=0 then for h=20,79 do if 4>z then n[e[l]][e[d]]=n[e[f]];t=t+1;e=k[t];break;end;n[e[l]]={};t=t+1;e=k[t];break;end;else n[e[l]]={};t=t+1;e=k[t];end end else if 1>z then n[e[l]]={};t=t+1;e=k[t];else if z~=1 then n[e[l]][e[d]]=n[e[f]];t=t+1;e=k[t];else n[e[l]]={};t=t+1;e=k[t];end end end end else local s;for z=0,6 do if 3<=z then if z>4 then if 4<=z then repeat if 5<z then n[e[l]]=h[e[d]];break;end;n[e[l]][e[d]]=n[e[f]];t=t+1;e=k[t];until true;else n[e[l]]=h[e[d]];end else if 4==z then s=e[l]n[s]=n[s](r(n,s+1,e[d]))t=t+1;e=k[t];else n(e[l],e[d]);t=t+1;e=k[t];end end else if z<1 then n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];else if-3~=z then for f=46,86 do if z>1 then n(e[l],e[d]);t=t+1;e=k[t];break;end;n(e[l],e[d]);t=t+1;e=k[t];break;end;else n(e[l],e[d]);t=t+1;e=k[t];end end end end end else local s,a,o,u,b,z,h;for z=0,6 do if 2>=z then if 0>=z then n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];else if-3<=z then for f=32,65 do if 1<z then n(e[l],e[d]);t=t+1;e=k[t];break;end;z=0;while z>-1 do if 2<z then if z>4 then if 2<=z then repeat if z<6 then n(b,u);break;end;z=-2;until true;else z=-2;end else if 4~=z then u=s[o];else b=s[a];end end else if 0>=z then s=e;else if z~=2 then a=l;else o=d;end end end z=z+1 end t=t+1;e=k[t];break;end;else n(e[l],e[d]);t=t+1;e=k[t];end end else if z<5 then if-1~=z then for f=29,60 do if z>3 then h=e[l]n[h]=n[h](r(n,h+1,e[d]))t=t+1;e=k[t];break;end;n(e[l],e[d]);t=t+1;e=k[t];break;end;else h=e[l]n[h]=n[h](r(n,h+1,e[d]))t=t+1;e=k[t];end else if 4~=z then for h=19,89 do if z<6 then n[e[l]][e[d]]=n[e[f]];t=t+1;e=k[t];break;end;n[e[l]][e[d]]=e[f];break;end;else n[e[l]][e[d]]=n[e[f]];t=t+1;e=k[t];end end end end end end end else if 36<z then if z<40 then if z>=38 then if z>38 then local z;z=e[l]n[z]=n[z](r(n,z+1,e[d]))t=t+1;e=k[t];n[e[l]][e[d]]=e[f];t=t+1;e=k[t];n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];n[e[l]][e[d]]=n[e[f]];t=t+1;e=k[t];n[e[l]]=h[e[d]];t=t+1;e=k[t];n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];n(e[l],e[d]);else if(n[e[l]]==e[f])then t=t+1;else t=e[d];end;end else for z=0,6 do if z<=2 then if z>0 then if z>1 then n[e[l]][e[d]]=n[e[f]];t=t+1;e=k[t];else n[e[l]][e[d]]=n[e[f]];t=t+1;e=k[t];end else n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];end else if 4>=z then if z==3 then n[e[l]]=h[e[d]];t=t+1;e=k[t];else n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];end else if 5<z then n(e[l],e[d]);else n(e[l],e[d]);t=t+1;e=k[t];end end end end end else if z<=40 then local z;n[e[l]]=h[e[d]];t=t+1;e=k[t];n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];z=e[l]n[z]=n[z](r(n,z+1,e[d]))t=t+1;e=k[t];n[e[l]][e[d]]=n[e[f]];t=t+1;e=k[t];n[e[l]]=h[e[d]];t=t+1;e=k[t];n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];n(e[l],e[d]);else if 42~=z then local s;for z=0,6 do if z>=3 then if 5>z then if z~=2 then for r=35,59 do if 4~=z then n[e[l]][e[d]]=n[e[f]];t=t+1;e=k[t];break;end;n[e[l]]=h[e[d]];t=t+1;e=k[t];break;end;else n[e[l]][e[d]]=n[e[f]];t=t+1;e=k[t];end else if z>=1 then repeat if z~=6 then n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];break;end;n(e[l],e[d]);until true;else n(e[l],e[d]);end end else if z>=1 then if-2<z then repeat if 2>z then n(e[l],e[d]);t=t+1;e=k[t];break;end;s=e[l]n[s]=n[s](r(n,s+1,e[d]))t=t+1;e=k[t];until true;else n(e[l],e[d]);t=t+1;e=k[t];end else n(e[l],e[d]);t=t+1;e=k[t];end end end else local k=e[l];local f=e[f];local l=k+2 local k={n[k](n[k+1],n[l])};for e=1,f do n[l+e]=k[e];end;local k=k[1]if k then n[l]=k t=e[d];else t=t+1;end;end end end else if z>33 then if z>=35 then if 33<=z then for t=43,81 do if z~=36 then local t=e[l]n[t](r(n,t+1,e[d]))break;end;n[e[l]][e[d]]=e[f];break;end;else local t=e[l]n[t](r(n,t+1,e[d]))end else local t=e[l]local l,e=u(n[t](r(n,t+1,e[d])))a=e+t-1 local e=0;for t=t,a do e=e+1;n[t]=l[e];end;end else if z>32 then for z=0,6 do if 3<=z then if 4<z then if 3~=z then for f=35,56 do if 5<z then n(e[l],e[d]);break;end;n(e[l],e[d]);t=t+1;e=k[t];break;end;else n(e[l],e[d]);end else if-1<z then repeat if z~=3 then n(e[l],e[d]);t=t+1;e=k[t];break;end;n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];until true;else n(e[l],e[d]);t=t+1;e=k[t];end end else if z>0 then if-1<=z then repeat if 1<z then n[e[l]]=h[e[d]];t=t+1;e=k[t];break;end;n[e[l]][e[d]]=n[e[f]];t=t+1;e=k[t];until true;else n[e[l]]=h[e[d]];t=t+1;e=k[t];end else n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];end end end else n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];n[e[l]]=o[e[d]];t=t+1;e=k[t];n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];n[e[l]]=n[e[d]][n[e[f]]];t=t+1;e=k[t];n[e[l]]=h[e[d]];t=t+1;e=k[t];n[e[l]]=n[e[d]][e[f]];end end end end end end else if z<129 then if 106<z then if 118<=z then if 123<=z then if 125<z then if z<127 then do return n[e[l]]end else if z~=128 then for z=0,3 do if 2<=z then if z>-2 then repeat if z~=2 then if(n[e[l]]==e[f])then t=t+1;else t=e[d];end;break;end;n[e[l]]=h[e[d]];t=t+1;e=k[t];until true;else n[e[l]]=h[e[d]];t=t+1;e=k[t];end else if z>-1 then repeat if 1>z then n[e[l]]=(e[d]~=0);t=t+1;e=k[t];break;end;h[e[d]]=n[e[l]];t=t+1;e=k[t];until true;else n[e[l]]=(e[d]~=0);t=t+1;e=k[t];end end end else local t=e[l]n[t]=n[t](r(n,t+1,e[d]))end end else if 124<=z then if z>121 then for r=40,63 do if z~=125 then n[e[l]]=n[e[d]][n[e[f]]];break;end;n[e[l]][e[d]]=n[e[f]];t=t+1;e=k[t];n[e[l]]=h[e[d]];t=t+1;e=k[t];n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];n[e[l]][e[d]]=n[e[f]];t=t+1;e=k[t];n[e[l]]=h[e[d]];t=t+1;e=k[t];n[e[l]][e[d]]=e[f];t=t+1;e=k[t];n[e[l]]=n[e[d]][e[f]];break;end;else n[e[l]][e[d]]=n[e[f]];t=t+1;e=k[t];n[e[l]]=h[e[d]];t=t+1;e=k[t];n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];n[e[l]][e[d]]=n[e[f]];t=t+1;e=k[t];n[e[l]]=h[e[d]];t=t+1;e=k[t];n[e[l]][e[d]]=e[f];t=t+1;e=k[t];n[e[l]]=n[e[d]][e[f]];end else local f,k,h,s,r,z;local t=0;while t>-1 do if t>=4 then if 6>t then if 0~=t then for e=43,80 do if 4<t then z=f[k];break;end;r=s[f[h]];break;end;else z=f[k];end else if t>=4 then for e=11,59 do if t<7 then n[z]=r;break;end;t=-2;break;end;else t=-2;end end else if t>1 then if t~=2 then s=n;else h=d;end else if-3~=t then for n=41,67 do if 1>t then f=e;break;end;k=l;break;end;else k=l;end end end t=t+1 end end end else if 120>z then if 119>z then local s;for z=0,6 do if 2<z then if z>4 then if z>5 then n[e[l]]=n[e[d]][e[f]];else n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];end else if 0~=z then repeat if 3<z then n[e[l]]=h[e[d]];t=t+1;e=k[t];break;end;n[e[l]][e[d]]=n[e[f]];t=t+1;e=k[t];until true;else n[e[l]][e[d]]=n[e[f]];t=t+1;e=k[t];end end else if z<1 then n(e[l],e[d]);t=t+1;e=k[t];else if 1==z then n(e[l],e[d]);t=t+1;e=k[t];else s=e[l]n[s]=n[s](r(n,s+1,e[d]))t=t+1;e=k[t];end end end end else for z=0,6 do if 2<z then if z<=4 then if z>=2 then for f=18,91 do if z<4 then n[e[l]]=o[e[d]];t=t+1;e=k[t];break;end;n[e[l]]=h[e[d]];t=t+1;e=k[t];break;end;else n[e[l]]=h[e[d]];t=t+1;e=k[t];end else if z==6 then n(e[l],e[d]);else n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];end end else if 0>=z then n[e[l]][e[d]]=e[f];t=t+1;e=k[t];else if z~=0 then repeat if z~=1 then n[e[l]][e[d]]=n[e[f]];t=t+1;e=k[t];break;end;n[e[l]]=o[e[d]];t=t+1;e=k[t];until true;else n[e[l]]=o[e[d]];t=t+1;e=k[t];end end end end end else if 121<=z then if z~=120 then repeat if z>121 then local r;for z=0,6 do if z>2 then if z<5 then if 1<=z then repeat if z>3 then r=e[l]n[r]=n[r](n[r+1])t=t+1;e=k[t];break;end;n(e[l],e[d]);t=t+1;e=k[t];until true;else r=e[l]n[r]=n[r](n[r+1])t=t+1;e=k[t];end else if z~=5 then n[e[l]]=n[e[d]][e[f]];else n[e[l]]=h[e[d]];t=t+1;e=k[t];end end else if 1>z then n[e[l]][e[d]]=e[f];t=t+1;e=k[t];else if 0<z then repeat if 2>z then n[e[l]]=h[e[d]];t=t+1;e=k[t];break;end;n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];until true;else n[e[l]]=h[e[d]];t=t+1;e=k[t];end end end end break;end;local l=e[l]local d={n[l](r(n,l+1,a))};local t=0;for e=l,e[f]do t=t+1;n[e]=d[t];end until true;else local z;for r=0,6 do if r>2 then if r<5 then if 1<=r then repeat if r>3 then z=e[l]n[z]=n[z](n[z+1])t=t+1;e=k[t];break;end;n(e[l],e[d]);t=t+1;e=k[t];until true;else z=e[l]n[z]=n[z](n[z+1])t=t+1;e=k[t];end else if r~=5 then n[e[l]]=n[e[d]][e[f]];else n[e[l]]=h[e[d]];t=t+1;e=k[t];end end else if 1>r then n[e[l]][e[d]]=e[f];t=t+1;e=k[t];else if 0<r then repeat if 2>r then n[e[l]]=h[e[d]];t=t+1;e=k[t];break;end;n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];until true;else n[e[l]]=h[e[d]];t=t+1;e=k[t];end end end end end else n[e[l]]=j(y[e[d]],nil,h);end end end else if 111<z then if 114<z then if 115>=z then local z;n[e[l]][e[d]]=e[f];t=t+1;e=k[t];n[e[l]]=h[e[d]];t=t+1;e=k[t];n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];n(e[l],e[d]);t=t+1;e=k[t];n(e[l],e[d]);t=t+1;e=k[t];n(e[l],e[d]);t=t+1;e=k[t];z=e[l]n[z]=n[z](r(n,z+1,e[d]))else if 112<=z then for t=14,88 do if z~=117 then local t=e[l]local d={n[t](r(n,t+1,a))};local l=0;for e=t,e[f]do l=l+1;n[e]=d[l];end break;end;n[e[l]]=(e[d]~=0);break;end;else n[e[l]]=(e[d]~=0);end end else if z<113 then if(n[e[l]]~=e[f])then t=t+1;else t=e[d];end;else if 112<z then repeat if z<114 then n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];n[e[l]][e[d]]=n[e[f]];t=t+1;e=k[t];n[e[l]]=h[e[d]];t=t+1;e=k[t];n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];n(e[l],e[d]);t=t+1;e=k[t];n(e[l],e[d]);t=t+1;e=k[t];n(e[l],e[d]);break;end;local s;for z=0,6 do if z<=2 then if 1<=z then if-2<=z then for h=15,74 do if z~=1 then n[e[l]][e[d]]=n[e[f]];t=t+1;e=k[t];break;end;s=e[l]n[s]=n[s](r(n,s+1,e[d]))t=t+1;e=k[t];break;end;else s=e[l]n[s]=n[s](r(n,s+1,e[d]))t=t+1;e=k[t];end else n(e[l],e[d]);t=t+1;e=k[t];end else if 4>=z then if z>3 then n[e[l]][e[d]]=e[f];t=t+1;e=k[t];else n[e[l]]=o[e[d]];t=t+1;e=k[t];end else if 1<z then for f=12,82 do if z>5 then n[e[l]]=h[e[d]];break;end;n[e[l]]=o[e[d]];t=t+1;e=k[t];break;end;else n[e[l]]=o[e[d]];t=t+1;e=k[t];end end end end until true;else n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];n[e[l]][e[d]]=n[e[f]];t=t+1;e=k[t];n[e[l]]=h[e[d]];t=t+1;e=k[t];n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];n(e[l],e[d]);t=t+1;e=k[t];n(e[l],e[d]);t=t+1;e=k[t];n(e[l],e[d]);end end end else if 109<=z then if z>=110 then if 109<z then for r=14,76 do if z~=111 then local r,o,s,u,a,z;for z=0,6 do if 2<z then if 5<=z then if z>1 then repeat if 6~=z then n(e[l],e[d]);t=t+1;e=k[t];break;end;z=0;while z>-1 do if 3>z then if z<=0 then r=e;else if 0<=z then for e=45,89 do if z~=2 then o=l;break;end;s=d;break;end;else s=d;end end else if 4>=z then if z>-1 then repeat if z~=4 then u=r[s];break;end;a=r[o];until true;else a=r[o];end else if 1<=z then repeat if z~=6 then n(a,u);break;end;z=-2;until true;else z=-2;end end end z=z+1 end until true;else z=0;while z>-1 do if 3>z then if z<=0 then r=e;else if 0<=z then for e=45,89 do if z~=2 then o=l;break;end;s=d;break;end;else s=d;end end else if 4>=z then if z>-1 then repeat if z~=4 then u=r[s];break;end;a=r[o];until true;else a=r[o];end else if 1<=z then repeat if z~=6 then n(a,u);break;end;z=-2;until true;else z=-2;end end end z=z+1 end end else if z<4 then z=0;while z>-1 do if z>=3 then if 4>=z then if z~=-1 then repeat if 4>z then u=r[s];break;end;a=r[o];until true;else u=r[s];end else if z~=6 then n(a,u);else z=-2;end end else if 0>=z then r=e;else if z~=-2 then repeat if 2~=z then o=l;break;end;s=d;until true;else o=l;end end end z=z+1 end t=t+1;e=k[t];else n(e[l],e[d]);t=t+1;e=k[t];end end else if z>=1 then if-3<=z then repeat if z>1 then n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];break;end;n[e[l]]=h[e[d]];t=t+1;e=k[t];until true;else n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];end else n[e[l]][e[d]]=n[e[f]];t=t+1;e=k[t];end end end break;end;if(n[e[l]]==n[e[f]])then t=t+1;else t=e[d];end;break;end;else local r,s,o,u,a,z;for z=0,6 do if 2<z then if 5<=z then if z>1 then repeat if 6~=z then n(e[l],e[d]);t=t+1;e=k[t];break;end;z=0;while z>-1 do if 3>z then if z<=0 then r=e;else if 0<=z then for e=45,89 do if z~=2 then s=l;break;end;o=d;break;end;else o=d;end end else if 4>=z then if z>-1 then repeat if z~=4 then u=r[o];break;end;a=r[s];until true;else a=r[s];end else if 1<=z then repeat if z~=6 then n(a,u);break;end;z=-2;until true;else z=-2;end end end z=z+1 end until true;else z=0;while z>-1 do if 3>z then if z<=0 then r=e;else if 0<=z then for e=45,89 do if z~=2 then s=l;break;end;o=d;break;end;else o=d;end end else if 4>=z then if z>-1 then repeat if z~=4 then u=r[o];break;end;a=r[s];until true;else a=r[s];end else if 1<=z then repeat if z~=6 then n(a,u);break;end;z=-2;until true;else z=-2;end end end z=z+1 end end else if z<4 then z=0;while z>-1 do if z>=3 then if 4>=z then if z~=-1 then repeat if 4>z then u=r[o];break;end;a=r[s];until true;else u=r[o];end else if z~=6 then n(a,u);else z=-2;end end else if 0>=z then r=e;else if z~=-2 then repeat if 2~=z then s=l;break;end;o=d;until true;else s=l;end end end z=z+1 end t=t+1;e=k[t];else n(e[l],e[d]);t=t+1;e=k[t];end end else if z>=1 then if-3<=z then repeat if z>1 then n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];break;end;n[e[l]]=h[e[d]];t=t+1;e=k[t];until true;else n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];end else n[e[l]][e[d]]=n[e[f]];t=t+1;e=k[t];end end end end else local z;z=e[l]n[z]=n[z](r(n,z+1,e[d]))t=t+1;e=k[t];n[e[l]][e[d]]=n[e[f]];t=t+1;e=k[t];n[e[l]]=h[e[d]];t=t+1;e=k[t];n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];n(e[l],e[d]);t=t+1;e=k[t];n[e[l]]=n[e[d]];t=t+1;e=k[t];z=e[l]n[z]=n[z](r(n,z+1,e[d]))end else if 107~=z then local a=y[e[d]];local r;local z={};r=s.nvtsQEac({},{__index=function(t,e)local e=z[e];return e[1][e[2]];end,__newindex=function(n,e,t)local e=z[e]e[1][e[2]]=t;end;});for l=1,e[f]do t=t+1;local e=k[t];if e[m]==123 then z[l-1]={n,e[d]};else z[l-1]={o,e[d]};end;g[#g+1]=z;end;n[e[l]]=j(a,r,h);else local z;n(e[l],e[d]);t=t+1;e=k[t];z=e[l]n[z]=n[z](r(n,z+1,e[d]))t=t+1;e=k[t];n[e[l]][e[d]]=n[e[f]];t=t+1;e=k[t];n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];n[e[l]][e[d]]=n[e[f]];t=t+1;e=k[t];n[e[l]][e[d]]=e[f];end end end end else if 96<=z then if 101>z then if 97>=z then if 96~=z then local s;for z=0,6 do if 2>=z then if 0>=z then n(e[l],e[d]);t=t+1;e=k[t];else if-1<z then for h=32,65 do if 2>z then s=e[l]n[s]=n[s](r(n,s+1,e[d]))t=t+1;e=k[t];break;end;n[e[l]][e[d]]=n[e[f]];t=t+1;e=k[t];break;end;else n[e[l]][e[d]]=n[e[f]];t=t+1;e=k[t];end end else if z>4 then if 2~=z then repeat if z<6 then n(e[l],e[d]);t=t+1;e=k[t];break;end;n(e[l],e[d]);until true;else n(e[l],e[d]);end else if z>=-1 then for r=46,96 do if z~=4 then n[e[l]]=h[e[d]];t=t+1;e=k[t];break;end;n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];break;end;else n[e[l]]=h[e[d]];t=t+1;e=k[t];end end end end else local s,a,o,b,u,z,c;n[e[l]]=h[e[d]];t=t+1;e=k[t];n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];z=0;while z>-1 do if z<=2 then if z<=0 then s=e;else if 1~=z then o=d;else a=l;end end else if z<=4 then if z==4 then u=s[a];else b=s[o];end else if z>5 then z=-2;else n(u,b);end end end z=z+1 end t=t+1;e=k[t];n(e[l],e[d]);t=t+1;e=k[t];z=0;while z>-1 do if 2>=z then if z>0 then if 0<=z then for e=20,61 do if z>1 then o=d;break;end;a=l;break;end;else o=d;end else s=e;end else if 5>z then if z~=4 then b=s[o];else u=s[a];end else if 6~=z then n(u,b);else z=-2;end end end z=z+1 end t=t+1;e=k[t];n(e[l],e[d]);t=t+1;e=k[t];c=e[l]n[c]=n[c](r(n,c+1,e[d]))end else if z<99 then n[e[l]][e[d]]=n[e[f]];t=t+1;e=k[t];n[e[l]]=h[e[d]];t=t+1;e=k[t];do return n[e[l]]end t=t+1;e=k[t];do return end;else if 100==z then local s;for z=0,6 do if 2<z then if 4<z then if 5<z then n[e[l]][e[d]]=n[e[f]];else s=e[l]n[s]=n[s](r(n,s+1,e[d]))t=t+1;e=k[t];end else if 0~=z then for f=39,62 do if z<4 then n(e[l],e[d]);t=t+1;e=k[t];break;end;n(e[l],e[d]);t=t+1;e=k[t];break;end;else n(e[l],e[d]);t=t+1;e=k[t];end end else if z>0 then if-1<z then for r=31,74 do if z>1 then n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];break;end;n[e[l]]=h[e[d]];t=t+1;e=k[t];break;end;else n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];end else n[e[l]][e[d]]=n[e[f]];t=t+1;e=k[t];end end end else local z;n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];n(e[l],e[d]);t=t+1;e=k[t];n(e[l],e[d]);t=t+1;e=k[t];n(e[l],e[d]);t=t+1;e=k[t];n(e[l],e[d]);t=t+1;e=k[t];z=e[l]n[z]=n[z](r(n,z+1,e[d]))t=t+1;e=k[t];n[e[l]]=h[e[d]];end end end else if z>103 then if 104>=z then n[e[l]][n[e[d]]]=n[e[f]];else if z~=102 then repeat if z<106 then local s;for z=0,6 do if z<=2 then if z>=1 then if-1<=z then for h=40,62 do if 2~=z then s=e[l]n[s]=n[s](r(n,s+1,e[d]))t=t+1;e=k[t];break;end;n[e[l]][e[d]]=n[e[f]];t=t+1;e=k[t];break;end;else n[e[l]][e[d]]=n[e[f]];t=t+1;e=k[t];end else n(e[l],e[d]);t=t+1;e=k[t];end else if z>4 then if z~=5 then n(e[l],e[d]);else n(e[l],e[d]);t=t+1;e=k[t];end else if 1<=z then repeat if z~=3 then n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];break;end;n[e[l]]=h[e[d]];t=t+1;e=k[t];until true;else n[e[l]]=h[e[d]];t=t+1;e=k[t];end end end end break;end;local s;for z=0,6 do if 3<=z then if 4>=z then if z>=-1 then for h=25,95 do if 3~=z then n[e[l]][e[d]]=n[e[f]];t=t+1;e=k[t];break;end;n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];break;end;else n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];end else if z>=4 then for r=30,71 do if 6>z then n[e[l]][e[d]]=e[f];t=t+1;e=k[t];break;end;n[e[l]]=h[e[d]];break;end;else n[e[l]][e[d]]=e[f];t=t+1;e=k[t];end end else if z<=0 then n(e[l],e[d]);t=t+1;e=k[t];else if z~=-1 then for h=26,56 do if z~=2 then s=e[l]n[s]=n[s](r(n,s+1,e[d]))t=t+1;e=k[t];break;end;n[e[l]][e[d]]=n[e[f]];t=t+1;e=k[t];break;end;else n[e[l]][e[d]]=n[e[f]];t=t+1;e=k[t];end end end end until true;else local s;for z=0,6 do if 3<=z then if 4>=z then if z>=-1 then for h=25,95 do if 3~=z then n[e[l]][e[d]]=n[e[f]];t=t+1;e=k[t];break;end;n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];break;end;else n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];end else if z>=4 then for r=30,71 do if 6>z then n[e[l]][e[d]]=e[f];t=t+1;e=k[t];break;end;n[e[l]]=h[e[d]];break;end;else n[e[l]][e[d]]=e[f];t=t+1;e=k[t];end end else if z<=0 then n(e[l],e[d]);t=t+1;e=k[t];else if z~=-1 then for h=26,56 do if z~=2 then s=e[l]n[s]=n[s](r(n,s+1,e[d]))t=t+1;e=k[t];break;end;n[e[l]][e[d]]=n[e[f]];t=t+1;e=k[t];break;end;else n[e[l]][e[d]]=n[e[f]];t=t+1;e=k[t];end end end end end end else if z>=102 then if 102<z then local h,b,a,s,o,z,u;for z=0,6 do if z>=3 then if z>=5 then if 1~=z then for h=47,98 do if 5<z then n[e[l]]=n[e[d]][e[f]];break;end;n[e[l]][e[d]]=n[e[f]];t=t+1;e=k[t];break;end;else n[e[l]]=n[e[d]][e[f]];end else if z~=4 then n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];else u=e[l]n[u]=n[u](r(n,u+1,e[d]))t=t+1;e=k[t];end end else if z>0 then if-1~=z then repeat if 2~=z then n(e[l],e[d]);t=t+1;e=k[t];break;end;z=0;while z>-1 do if z>=3 then if z<5 then if z>1 then repeat if 4~=z then s=h[a];break;end;o=h[b];until true;else s=h[a];end else if 3<=z then repeat if z~=5 then z=-2;break;end;n(o,s);until true;else n(o,s);end end else if 1>z then h=e;else if 2==z then a=d;else b=l;end end end z=z+1 end t=t+1;e=k[t];until true;else z=0;while z>-1 do if z>=3 then if z<5 then if z>1 then repeat if 4~=z then s=h[a];break;end;o=h[b];until true;else s=h[a];end else if 3<=z then repeat if z~=5 then z=-2;break;end;n(o,s);until true;else n(o,s);end end else if 1>z then h=e;else if 2==z then a=d;else b=l;end end end z=z+1 end t=t+1;e=k[t];end else n(e[l],e[d]);t=t+1;e=k[t];end end end else local e=e[l]local l,t=u(n[e](n[e+1]))a=t+e-1 local t=0;for e=e,a do t=t+1;n[e]=l[t];end;end else n[e[l]]=n[e[d]]+e[f];end end end else if 91<=z then if 93>z then if z>=89 then for s=23,89 do if z>91 then local z;n[e[l]]=n[e[d]];t=t+1;e=k[t];z=e[l]n[z]=n[z](r(n,z+1,e[d]))t=t+1;e=k[t];n[e[l]][e[d]]=e[f];t=t+1;e=k[t];n[e[l]]=h[e[d]];t=t+1;e=k[t];n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];n(e[l],e[d]);t=t+1;e=k[t];n[e[l]]=n[e[d]];break;end;local z;n(e[l],e[d]);t=t+1;e=k[t];n(e[l],e[d]);t=t+1;e=k[t];n(e[l],e[d]);t=t+1;e=k[t];z=e[l]n[z]=n[z](r(n,z+1,e[d]))t=t+1;e=k[t];n[e[l]][e[d]]=n[e[f]];t=t+1;e=k[t];n[e[l]]=h[e[d]];t=t+1;e=k[t];n[e[l]]=n[e[d]][e[f]];break;end;else local z;n(e[l],e[d]);t=t+1;e=k[t];n(e[l],e[d]);t=t+1;e=k[t];n(e[l],e[d]);t=t+1;e=k[t];z=e[l]n[z]=n[z](r(n,z+1,e[d]))t=t+1;e=k[t];n[e[l]][e[d]]=n[e[f]];t=t+1;e=k[t];n[e[l]]=h[e[d]];t=t+1;e=k[t];n[e[l]]=n[e[d]][e[f]];end else if 94>z then local s;for z=0,6 do if 2>=z then if 0<z then if 1<z then n(e[l],e[d]);t=t+1;e=k[t];else n(e[l],e[d]);t=t+1;e=k[t];end else n(e[l],e[d]);t=t+1;e=k[t];end else if 4<z then if z>3 then repeat if z>5 then n[e[l]]=h[e[d]];break;end;n[e[l]][e[d]]=e[f];t=t+1;e=k[t];until true;else n[e[l]][e[d]]=e[f];t=t+1;e=k[t];end else if z==4 then n[e[l]][e[d]]=n[e[f]];t=t+1;e=k[t];else s=e[l]n[s]=n[s](r(n,s+1,e[d]))t=t+1;e=k[t];end end end end else if z>92 then repeat if z~=95 then local h;for z=0,4 do if 1>=z then if z<1 then h=e[l]n[h](r(n,h+1,e[d]))t=t+1;e=k[t];else n[e[l]]=o[e[d]];t=t+1;e=k[t];end else if 3<=z then if z==3 then n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];else if not n[e[l]]then t=t+1;else t=e[d];end;end else n[e[l]][e[d]]=n[e[f]];t=t+1;e=k[t];end end end break;end;n[e[l]]=n[e[d]][n[e[f]]];until true;else n[e[l]]=n[e[d]][n[e[f]]];end end end else if 87<z then if 88<z then if z>86 then repeat if 90>z then local s,c,_,p,o,z,b,g,m,j,y;for z=0,6 do if 2>=z then if z>0 then if z>-3 then repeat if z<2 then n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];break;end;z=0;while z>-1 do if 3<=z then if z>=5 then if 6==z then z=-2;else n(o,p);end else if z==4 then o=s[c];else p=s[_];end end else if z<1 then s=e;else if 0<z then repeat if z~=2 then c=l;break;end;_=d;until true;else _=d;end end end z=z+1 end t=t+1;e=k[t];until true;else z=0;while z>-1 do if 3<=z then if z>=5 then if 6==z then z=-2;else n(o,p);end else if z==4 then o=s[c];else p=s[_];end end else if z<1 then s=e;else if 0<z then repeat if z~=2 then c=l;break;end;_=d;until true;else _=d;end end end z=z+1 end t=t+1;e=k[t];end else n[e[l]]=h[e[d]];t=t+1;e=k[t];end else if 4>=z then if z>=1 then for r=47,93 do if 3<z then b=e[l];g=n[e[d]];n[b+1]=g;n[b]=g[e[f]];t=t+1;e=k[t];break;end;n[e[l]]=h[e[d]];t=t+1;e=k[t];break;end;else b=e[l];g=n[e[d]];n[b+1]=g;n[b]=g[e[f]];t=t+1;e=k[t];end else if z~=2 then repeat if z~=6 then z=0;while z>-1 do if 2>=z then if 0>=z then s=e;else if z~=1 then _=d;else c=l;end end else if z<5 then if z>0 then repeat if z<4 then p=s[_];break;end;o=s[c];until true;else o=s[c];end else if z>4 then repeat if z~=5 then z=-2;break;end;n(o,p);until true;else n(o,p);end end end z=z+1 end t=t+1;e=k[t];break;end;b=e[l]m,j=u(n[b](r(n,b+1,e[d])))a=j+b-1 y=0;for e=b,a do y=y+1;n[e]=m[y];end;until true;else z=0;while z>-1 do if 2>=z then if 0>=z then s=e;else if z~=1 then _=d;else c=l;end end else if z<5 then if z>0 then repeat if z<4 then p=s[_];break;end;o=s[c];until true;else o=s[c];end else if z>4 then repeat if z~=5 then z=-2;break;end;n(o,p);until true;else n(o,p);end end end z=z+1 end t=t+1;e=k[t];end end end end break;end;local z;z=e[l]n[z]=n[z](r(n,z+1,e[d]))t=t+1;e=k[t];n[e[l]][e[d]]=n[e[f]];t=t+1;e=k[t];n[e[l]]=h[e[d]];t=t+1;e=k[t];n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];n(e[l],e[d]);t=t+1;e=k[t];n(e[l],e[d]);t=t+1;e=k[t];n(e[l],e[d]);until true;else local s,p,_,c,o,z,b,g,m,j,y;for z=0,6 do if 2>=z then if z>0 then if z>-3 then repeat if z<2 then n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];break;end;z=0;while z>-1 do if 3<=z then if z>=5 then if 6==z then z=-2;else n(o,c);end else if z==4 then o=s[p];else c=s[_];end end else if z<1 then s=e;else if 0<z then repeat if z~=2 then p=l;break;end;_=d;until true;else _=d;end end end z=z+1 end t=t+1;e=k[t];until true;else z=0;while z>-1 do if 3<=z then if z>=5 then if 6==z then z=-2;else n(o,c);end else if z==4 then o=s[p];else c=s[_];end end else if z<1 then s=e;else if 0<z then repeat if z~=2 then p=l;break;end;_=d;until true;else _=d;end end end z=z+1 end t=t+1;e=k[t];end else n[e[l]]=h[e[d]];t=t+1;e=k[t];end else if 4>=z then if z>=1 then for r=47,93 do if 3<z then b=e[l];g=n[e[d]];n[b+1]=g;n[b]=g[e[f]];t=t+1;e=k[t];break;end;n[e[l]]=h[e[d]];t=t+1;e=k[t];break;end;else b=e[l];g=n[e[d]];n[b+1]=g;n[b]=g[e[f]];t=t+1;e=k[t];end else if z~=2 then repeat if z~=6 then z=0;while z>-1 do if 2>=z then if 0>=z then s=e;else if z~=1 then _=d;else p=l;end end else if z<5 then if z>0 then repeat if z<4 then c=s[_];break;end;o=s[p];until true;else o=s[p];end else if z>4 then repeat if z~=5 then z=-2;break;end;n(o,c);until true;else n(o,c);end end end z=z+1 end t=t+1;e=k[t];break;end;b=e[l]m,j=u(n[b](r(n,b+1,e[d])))a=j+b-1 y=0;for e=b,a do y=y+1;n[e]=m[y];end;until true;else z=0;while z>-1 do if 2>=z then if 0>=z then s=e;else if z~=1 then _=d;else p=l;end end else if z<5 then if z>0 then repeat if z<4 then c=s[_];break;end;o=s[p];until true;else o=s[p];end else if z>4 then repeat if z~=5 then z=-2;break;end;n(o,c);until true;else n(o,c);end end end z=z+1 end t=t+1;e=k[t];end end end end end else n[e[l]]=o[e[d]];end else if z>86 then local s;for z=0,6 do if 3<=z then if 5>z then if z>=-1 then for h=46,62 do if 4>z then n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];break;end;n(e[l],e[d]);t=t+1;e=k[t];break;end;else n(e[l],e[d]);t=t+1;e=k[t];end else if z~=5 then n(e[l],e[d]);else n(e[l],e[d]);t=t+1;e=k[t];end end else if 1>z then s=e[l]n[s]=n[s](r(n,s+1,e[d]))t=t+1;e=k[t];else if z>1 then n[e[l]]=h[e[d]];t=t+1;e=k[t];else n[e[l]][e[d]]=n[e[f]];t=t+1;e=k[t];end end end end else n[e[l]]={};end end end end end else if z<=149 then if 139<=z then if 143>=z then if z>=141 then if z>=142 then if z==143 then local l=e[l];local f=e[f];local k=l+2 local l={n[l](n[l+1],n[k])};for e=1,f do n[k+e]=l[e];end;local l=l[1]if l then n[k]=l t=e[d];else t=t+1;end;else if not n[e[l]]then t=t+1;else t=e[d];end;end else local z;for s=0,6 do if 2>=s then if 0>=s then n[e[l]][e[d]]=e[f];t=t+1;e=k[t];else if 2~=s then n[e[l]]=h[e[d]];t=t+1;e=k[t];else n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];end end else if 5>s then if-1~=s then repeat if 4>s then n(e[l],e[d]);t=t+1;e=k[t];break;end;n(e[l],e[d]);t=t+1;e=k[t];until true;else n(e[l],e[d]);t=t+1;e=k[t];end else if s>=2 then repeat if 6~=s then n(e[l],e[d]);t=t+1;e=k[t];break;end;z=e[l]n[z]=n[z](r(n,z+1,e[d]))until true;else z=e[l]n[z]=n[z](r(n,z+1,e[d]))end end end end end else if z>=137 then repeat if z~=139 then for z=0,6 do if z>=3 then if 5>z then if 0~=z then repeat if 3<z then n(e[l],e[d]);t=t+1;e=k[t];break;end;n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];until true;else n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];end else if z~=4 then for f=25,81 do if z<6 then n(e[l],e[d]);t=t+1;e=k[t];break;end;n(e[l],e[d]);break;end;else n(e[l],e[d]);end end else if z<=0 then n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];else if z==2 then n[e[l]]=h[e[d]];t=t+1;e=k[t];else n[e[l]][e[d]]=n[e[f]];t=t+1;e=k[t];end end end end break;end;local o,a,b,u,s,z,r;for z=0,6 do if 2>=z then if 0<z then if z~=2 then r=e[l]n[r]=n[r](n[r+1])t=t+1;e=k[t];else n[e[l]]=h[e[d]];t=t+1;e=k[t];end else z=0;while z>-1 do if 2<z then if z>4 then if z~=1 then for e=28,78 do if z~=5 then z=-2;break;end;n(s,u);break;end;else n(s,u);end else if z~=0 then for e=25,69 do if z~=3 then s=o[a];break;end;u=o[b];break;end;else s=o[a];end end else if z<=0 then o=e;else if z>=0 then repeat if z>1 then b=d;break;end;a=l;until true;else a=l;end end end z=z+1 end t=t+1;e=k[t];end else if z<5 then if 4>z then n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];else n(e[l],e[d]);t=t+1;e=k[t];end else if z~=4 then repeat if z~=6 then r=e[l]n[r]=n[r](n[r+1])t=t+1;e=k[t];break;end;n[e[l]]=h[e[d]];until true;else n[e[l]]=h[e[d]];end end end end until true;else local a,s,b,u,o,z,r;for z=0,6 do if 2>=z then if 0<z then if z~=2 then r=e[l]n[r]=n[r](n[r+1])t=t+1;e=k[t];else n[e[l]]=h[e[d]];t=t+1;e=k[t];end else z=0;while z>-1 do if 2<z then if z>4 then if z~=1 then for e=28,78 do if z~=5 then z=-2;break;end;n(o,u);break;end;else n(o,u);end else if z~=0 then for e=25,69 do if z~=3 then o=a[s];break;end;u=a[b];break;end;else o=a[s];end end else if z<=0 then a=e;else if z>=0 then repeat if z>1 then b=d;break;end;s=l;until true;else s=l;end end end z=z+1 end t=t+1;e=k[t];end else if z<5 then if 4>z then n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];else n(e[l],e[d]);t=t+1;e=k[t];end else if z~=4 then repeat if z~=6 then r=e[l]n[r]=n[r](n[r+1])t=t+1;e=k[t];break;end;n[e[l]]=h[e[d]];until true;else n[e[l]]=h[e[d]];end end end end end end else if 146>=z then if 144<z then if z~=145 then n[e[l]][e[d]]=n[e[f]];t=t+1;e=k[t];n[e[l]][e[d]]=e[f];t=t+1;e=k[t];n[e[l]][e[d]]=n[e[f]];t=t+1;e=k[t];n[e[l]]=h[e[d]];t=t+1;e=k[t];n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];n[e[l]][e[d]]=n[e[f]];else local e=e[l]n[e]=n[e](r(n,e+1,a))end else for z=0,6 do if z<=2 then if 0>=z then n[e[l]][e[d]]=n[e[f]];t=t+1;e=k[t];else if-1<z then for r=49,59 do if 1<z then n[e[l]]=h[e[d]];t=t+1;e=k[t];break;end;n[e[l]][e[d]]=n[e[f]];t=t+1;e=k[t];break;end;else n[e[l]][e[d]]=n[e[f]];t=t+1;e=k[t];end end else if 4<z then if 4<z then repeat if z<6 then n(e[l],e[d]);t=t+1;e=k[t];break;end;n(e[l],e[d]);until true;else n(e[l],e[d]);t=t+1;e=k[t];end else if z>=1 then for h=43,58 do if z<4 then n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];break;end;n(e[l],e[d]);t=t+1;e=k[t];break;end;else n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];end end end end end else if 147>=z then local z;n(e[l],e[d]);t=t+1;e=k[t];n[e[l]]=n[e[d]];t=t+1;e=k[t];z=e[l]n[z]=n[z](r(n,z+1,e[d]))t=t+1;e=k[t];n[e[l]][e[d]]=e[f];t=t+1;e=k[t];n[e[l]]=h[e[d]];t=t+1;e=k[t];n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];n(e[l],e[d]);else if 147~=z then for s=23,54 do if 149~=z then for z=0,6 do if 3<=z then if 4<z then if 5<z then n(e[l],e[d]);else n(e[l],e[d]);t=t+1;e=k[t];end else if 3<z then n(e[l],e[d]);t=t+1;e=k[t];else n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];end end else if z<=0 then n[e[l]][e[d]]=n[e[f]];t=t+1;e=k[t];else if 2==z then n[e[l]]=h[e[d]];t=t+1;e=k[t];else n[e[l]][e[d]]=e[f];t=t+1;e=k[t];end end end end break;end;local z;n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];n(e[l],e[d]);t=t+1;e=k[t];n(e[l],e[d]);t=t+1;e=k[t];n[e[l]]=(e[d]~=0);t=t+1;e=k[t];z=e[l]n[z]=n[z](r(n,z+1,e[d]))t=t+1;e=k[t];if not n[e[l]]then t=t+1;else t=e[d];end;break;end;else for z=0,6 do if 3<=z then if 4<z then if 5<z then n(e[l],e[d]);else n(e[l],e[d]);t=t+1;e=k[t];end else if 3<z then n(e[l],e[d]);t=t+1;e=k[t];else n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];end end else if z<=0 then n[e[l]][e[d]]=n[e[f]];t=t+1;e=k[t];else if 2==z then n[e[l]]=h[e[d]];t=t+1;e=k[t];else n[e[l]][e[d]]=e[f];t=t+1;e=k[t];end end end end end end end end else if 134<=z then if z>=136 then if z<=136 then n[e[l]]=o[e[d]];else if z>133 then repeat if 138>z then local z;n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];n(e[l],e[d]);t=t+1;e=k[t];z=e[l]n[z]=n[z](n[z+1])t=t+1;e=k[t];n[e[l]][e[d]]=n[e[f]];t=t+1;e=k[t];n[e[l]]=h[e[d]];t=t+1;e=k[t];n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];n(e[l],e[d]);break;end;local z;for s=0,6 do if 3>s then if s>0 then if 1<s then n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];else n[e[l]]=h[e[d]];t=t+1;e=k[t];end else n[e[l]]=n[e[d]];t=t+1;e=k[t];end else if 5>s then if s>2 then repeat if 3~=s then z=e[l]n[z]=n[z](r(n,z+1,e[d]))t=t+1;e=k[t];break;end;n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];until true;else z=e[l]n[z]=n[z](r(n,z+1,e[d]))t=t+1;e=k[t];end else if s>5 then n[e[l]][e[d]]=n[e[f]];else n[e[l]]={};t=t+1;e=k[t];end end end end until true;else local z;for s=0,6 do if 3>s then if s>0 then if 1<s then n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];else n[e[l]]=h[e[d]];t=t+1;e=k[t];end else n[e[l]]=n[e[d]];t=t+1;e=k[t];end else if 5>s then if s>2 then repeat if 3~=s then z=e[l]n[z]=n[z](r(n,z+1,e[d]))t=t+1;e=k[t];break;end;n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];until true;else z=e[l]n[z]=n[z](r(n,z+1,e[d]))t=t+1;e=k[t];end else if s>5 then n[e[l]][e[d]]=n[e[f]];else n[e[l]]={};t=t+1;e=k[t];end end end end end end else if z>134 then local s,b,u,a,c,z,r;n[e[l]]=h[e[d]];t=t+1;e=k[t];n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];z=0;while z>-1 do if z<3 then if 0>=z then s=e;else if 0~=z then repeat if z<2 then b=l;break;end;u=d;until true;else b=l;end end else if 4>=z then if z>1 then repeat if 3<z then c=s[b];break;end;a=s[u];until true;else a=s[u];end else if z==6 then z=-2;else n(c,a);end end end z=z+1 end t=t+1;e=k[t];r=e[l]n[r]=n[r](n[r+1])t=t+1;e=k[t];n[e[l]][e[d]]=e[f];t=t+1;e=k[t];n[e[l]]=o[e[d]];t=t+1;e=k[t];n[e[l]][e[d]]=n[e[f]];else do return end;end end else if 130>=z then if 128~=z then for s=19,77 do if z~=129 then for z=0,6 do if z>2 then if 4<z then if z>2 then repeat if z<6 then n[e[l]]=n[e[d]][n[e[f]]];t=t+1;e=k[t];break;end;n[e[l]]=h[e[d]];until true;else n[e[l]]=n[e[d]][n[e[f]]];t=t+1;e=k[t];end else if z==3 then n[e[l]]=o[e[d]];t=t+1;e=k[t];else n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];end end else if z<=0 then n[e[l]]=h[e[d]];t=t+1;e=k[t];else if z~=-3 then for h=13,97 do if 1<z then n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];break;end;n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];break;end;else n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];end end end end break;end;local s;for z=0,5 do if 3>z then if z>=1 then if z~=-3 then repeat if z~=1 then n[e[l]]=n[e[d]];t=t+1;e=k[t];break;end;n(e[l],e[d]);t=t+1;e=k[t];until true;else n(e[l],e[d]);t=t+1;e=k[t];end else n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];end else if 4>z then s=e[l]n[s]=n[s](r(n,s+1,e[d]))t=t+1;e=k[t];else if z==4 then n[e[l]]=h[e[d]];t=t+1;e=k[t];else n[e[l]]=n[e[d]][e[f]];end end end end break;end;else for z=0,6 do if z>2 then if 4<z then if z>2 then repeat if z<6 then n[e[l]]=n[e[d]][n[e[f]]];t=t+1;e=k[t];break;end;n[e[l]]=h[e[d]];until true;else n[e[l]]=n[e[d]][n[e[f]]];t=t+1;e=k[t];end else if z==3 then n[e[l]]=o[e[d]];t=t+1;e=k[t];else n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];end end else if z<=0 then n[e[l]]=h[e[d]];t=t+1;e=k[t];else if z~=-3 then for h=13,97 do if 1<z then n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];break;end;n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];break;end;else n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];end end end end end else if z<132 then h[e[d]]=n[e[l]];else if 129<=z then for n=33,80 do if z<133 then do return end;break;end;t=e[d];break;end;else t=e[d];end end end end end else if 161>z then if 154>=z then if 152<=z then if 152>=z then do return n[e[l]]end else if 154~=z then local s;for z=0,6 do if 2<z then if z<5 then if z>3 then n[e[l]]=h[e[d]];t=t+1;e=k[t];else n[e[l]][e[d]]=n[e[f]];t=t+1;e=k[t];end else if 5~=z then n(e[l],e[d]);else n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];end end else if 1<=z then if z~=1 then s=e[l]n[s]=n[s](r(n,s+1,e[d]))t=t+1;e=k[t];else n(e[l],e[d]);t=t+1;e=k[t];end else n(e[l],e[d]);t=t+1;e=k[t];end end end else for z=0,6 do if z<3 then if 0>=z then n[e[l]][e[d]]=e[f];t=t+1;e=k[t];else if 1~=z then n[e[l]]=h[e[d]];t=t+1;e=k[t];else n[e[l]][e[d]]=e[f];t=t+1;e=k[t];end end else if 4<z then if z>3 then for f=29,71 do if z~=5 then n(e[l],e[d]);break;end;n(e[l],e[d]);t=t+1;e=k[t];break;end;else n(e[l],e[d]);t=t+1;e=k[t];end else if-1<=z then for h=43,58 do if 4>z then n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];break;end;n(e[l],e[d]);t=t+1;e=k[t];break;end;else n(e[l],e[d]);t=t+1;e=k[t];end end end end end end else if 150==z then n[e[l]]=n[e[d]]+e[f];else n(e[l],e[d]);end end else if z>=158 then if z>=159 then if z>157 then for s=44,91 do if 160>z then for z=0,4 do if 2<=z then if 3>z then n[e[l]]={};t=t+1;e=k[t];else if-1<=z then for h=38,56 do if z~=4 then n[e[l]][e[d]]=e[f];t=t+1;e=k[t];break;end;n[e[l]][n[e[d]]]=n[e[f]];break;end;else n[e[l]][e[d]]=e[f];t=t+1;e=k[t];end end else if-4<=z then for h=39,73 do if 1>z then n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];break;end;n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];break;end;else n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];end end end break;end;local s;for z=0,6 do if 2<z then if z>=5 then if 1<=z then for f=31,68 do if z~=6 then n(e[l],e[d]);t=t+1;e=k[t];break;end;n(e[l],e[d]);break;end;else n(e[l],e[d]);end else if 1<z then for r=40,56 do if 3~=z then n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];break;end;n[e[l]]=h[e[d]];t=t+1;e=k[t];break;end;else n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];end end else if 1>z then n(e[l],e[d]);t=t+1;e=k[t];else if 2>z then s=e[l]n[s]=n[s](r(n,s+1,e[d]))t=t+1;e=k[t];else n[e[l]][e[d]]=n[e[f]];t=t+1;e=k[t];end end end end break;end;else local s;for z=0,6 do if 2<z then if z>=5 then if 1<=z then for f=31,68 do if z~=6 then n(e[l],e[d]);t=t+1;e=k[t];break;end;n(e[l],e[d]);break;end;else n(e[l],e[d]);end else if 1<z then for r=40,56 do if 3~=z then n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];break;end;n[e[l]]=h[e[d]];t=t+1;e=k[t];break;end;else n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];end end else if 1>z then n(e[l],e[d]);t=t+1;e=k[t];else if 2>z then s=e[l]n[s]=n[s](r(n,s+1,e[d]))t=t+1;e=k[t];else n[e[l]][e[d]]=n[e[f]];t=t+1;e=k[t];end end end end end else n[e[l]][e[d]]=e[f];t=t+1;e=k[t];n[e[l]]=h[e[d]];t=t+1;e=k[t];n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];n(e[l],e[d]);t=t+1;e=k[t];n[e[l]]=h[e[d]];t=t+1;e=k[t];n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];n[e[l]]=n[e[d]][e[f]];end else if 156>z then local l=e[l];local t=n[e[d]];n[l+1]=t;n[l]=t[e[f]];else if 153<=z then repeat if 157>z then local a=y[e[d]];local r;local z={};r=s.nvtsQEac({},{__index=function(t,e)local e=z[e];return e[1][e[2]];end,__newindex=function(n,e,t)local e=z[e]e[1][e[2]]=t;end;});for l=1,e[f]do t=t+1;local e=k[t];if e[m]==123 then z[l-1]={n,e[d]};else z[l-1]={o,e[d]};end;g[#g+1]=z;end;n[e[l]]=j(a,r,h);break;end;local z;n(e[l],e[d]);t=t+1;e=k[t];n(e[l],e[d]);t=t+1;e=k[t];z=e[l]n[z]=n[z](r(n,z+1,e[d]))t=t+1;e=k[t];n[e[l]][e[d]]=n[e[f]];t=t+1;e=k[t];n[e[l]][e[d]]=e[f];t=t+1;e=k[t];n[e[l]][e[d]]=e[f];t=t+1;e=k[t];n[e[l]]=h[e[d]];until true;else local a=y[e[d]];local r;local z={};r=s.nvtsQEac({},{__index=function(t,e)local e=z[e];return e[1][e[2]];end,__newindex=function(n,e,t)local e=z[e]e[1][e[2]]=t;end;});for l=1,e[f]do t=t+1;local e=k[t];if e[m]==123 then z[l-1]={n,e[d]};else z[l-1]={o,e[d]};end;g[#g+1]=z;end;n[e[l]]=j(a,r,h);end end end end else if z<=165 then if 163>z then if 158~=z then repeat if z~=162 then local s;for z=0,6 do if z<3 then if z<1 then s=e[l]n[s](r(n,s+1,e[d]))t=t+1;e=k[t];else if z>-3 then for f=35,84 do if 2~=z then n[e[l]]=h[e[d]];t=t+1;e=k[t];break;end;n[e[l]]=h[e[d]];t=t+1;e=k[t];break;end;else n[e[l]]=h[e[d]];t=t+1;e=k[t];end end else if 5<=z then if 5~=z then n[e[l]]=h[e[d]];else n[e[l]][e[d]]=n[e[f]];t=t+1;e=k[t];end else if z>2 then repeat if z>3 then n[e[l]]=n[e[d]]+e[f];t=t+1;e=k[t];break;end;n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];until true;else n[e[l]]=n[e[d]]+e[f];t=t+1;e=k[t];end end end end break;end;local r,z;n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];n[e[l]][e[d]]=n[e[f]];t=t+1;e=k[t];n[e[l]]=o[e[d]];t=t+1;e=k[t];r=e[l];z=n[e[d]];n[r+1]=z;n[r]=z[e[f]];t=t+1;e=k[t];n[e[l]]=n[e[d]];t=t+1;e=k[t];n[e[l]]=h[e[d]];until true;else local s;for z=0,6 do if z<3 then if z<1 then s=e[l]n[s](r(n,s+1,e[d]))t=t+1;e=k[t];else if z>-3 then for f=35,84 do if 2~=z then n[e[l]]=h[e[d]];t=t+1;e=k[t];break;end;n[e[l]]=h[e[d]];t=t+1;e=k[t];break;end;else n[e[l]]=h[e[d]];t=t+1;e=k[t];end end else if 5<=z then if 5~=z then n[e[l]]=h[e[d]];else n[e[l]][e[d]]=n[e[f]];t=t+1;e=k[t];end else if z>2 then repeat if z>3 then n[e[l]]=n[e[d]]+e[f];t=t+1;e=k[t];break;end;n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];until true;else n[e[l]]=n[e[d]]+e[f];t=t+1;e=k[t];end end end end end else if z<164 then for z=0,6 do if 2>=z then if 0>=z then n[e[l]][e[d]]=e[f];t=t+1;e=k[t];else if 0<=z then for r=19,60 do if z<2 then n[e[l]]=h[e[d]];t=t+1;e=k[t];break;end;n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];break;end;else n[e[l]]=h[e[d]];t=t+1;e=k[t];end end else if z>=5 then if z~=2 then repeat if z~=6 then n(e[l],e[d]);t=t+1;e=k[t];break;end;n(e[l],e[d]);until true;else n(e[l],e[d]);t=t+1;e=k[t];end else if z>2 then repeat if z<4 then n(e[l],e[d]);t=t+1;e=k[t];break;end;n(e[l],e[d]);t=t+1;e=k[t];until true;else n(e[l],e[d]);t=t+1;e=k[t];end end end end else if 165~=z then local z;n[e[l]][e[d]]=e[f];t=t+1;e=k[t];n[e[l]]=h[e[d]];t=t+1;e=k[t];n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];n(e[l],e[d]);t=t+1;e=k[t];n(e[l],e[d]);t=t+1;e=k[t];n(e[l],e[d]);t=t+1;e=k[t];z=e[l]n[z]=n[z](r(n,z+1,e[d]))else n[e[l]]={};end end end else if z>=169 then if 169<z then if 167~=z then repeat if z~=171 then local s;for z=0,6 do if 2<z then if 4<z then if 1<=z then repeat if 5~=z then s=e[l]n[s]=n[s](r(n,s+1,e[d]))break;end;n(e[l],e[d]);t=t+1;e=k[t];until true;else s=e[l]n[s]=n[s](r(n,s+1,e[d]))end else if z>=1 then repeat if z~=3 then n(e[l],e[d]);t=t+1;e=k[t];break;end;n(e[l],e[d]);t=t+1;e=k[t];until true;else n(e[l],e[d]);t=t+1;e=k[t];end end else if 0<z then if-1<=z then repeat if z>1 then n(e[l],e[d]);t=t+1;e=k[t];break;end;n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];until true;else n(e[l],e[d]);t=t+1;e=k[t];end else n[e[l]]=h[e[d]];t=t+1;e=k[t];end end end break;end;local t=e[l]local l,e=u(n[t](r(n,t+1,e[d])))a=e+t-1 local e=0;for t=t,a do e=e+1;n[t]=l[e];end;until true;else local t=e[l]local l,e=u(n[t](r(n,t+1,e[d])))a=e+t-1 local e=0;for t=t,a do e=e+1;n[t]=l[e];end;end else local z,o;for s=0,6 do if s>2 then if 5<=s then if 2<s then for z=42,75 do if s~=5 then n[e[l]]=h[e[d]];break;end;n[e[l]][e[d]]=n[e[f]];t=t+1;e=k[t];break;end;else n[e[l]]=h[e[d]];end else if 1<=s then repeat if 4~=s then n(e[l],e[d]);t=t+1;e=k[t];break;end;z=e[l]n[z]=n[z](r(n,z+1,e[d]))t=t+1;e=k[t];until true;else z=e[l]n[z]=n[z](r(n,z+1,e[d]))t=t+1;e=k[t];end end else if 0<s then if-3<=s then for h=40,82 do if 1~=s then z=e[l];o=n[e[d]];n[z+1]=o;n[z]=o[e[f]];t=t+1;e=k[t];break;end;n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];break;end;else z=e[l];o=n[e[d]];n[z+1]=o;n[z]=o[e[f]];t=t+1;e=k[t];end else n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];end end end end else if z<167 then if(n[e[l]]==e[f])then t=t+1;else t=e[d];end;else if z~=164 then repeat if 167<z then local z;n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];n(e[l],e[d]);t=t+1;e=k[t];n(e[l],e[d]);t=t+1;e=k[t];n(e[l],e[d]);t=t+1;e=k[t];z=e[l]n[z]=n[z](r(n,z+1,e[d]))t=t+1;e=k[t];n[e[l]][e[d]]=n[e[f]];t=t+1;e=k[t];n[e[l]]=h[e[d]];break;end;local h;for z=0,6 do if 3>z then if 0<z then if z~=0 then for f=47,82 do if z>1 then n(e[l],e[d]);t=t+1;e=k[t];break;end;n(e[l],e[d]);t=t+1;e=k[t];break;end;else n(e[l],e[d]);t=t+1;e=k[t];end else n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];end else if z>4 then if 4<=z then for s=41,78 do if z>5 then n[e[l]][e[d]]=n[e[f]];break;end;h=e[l]n[h]=n[h](r(n,h+1,e[d]))t=t+1;e=k[t];break;end;else n[e[l]][e[d]]=n[e[f]];end else if z~=1 then repeat if z~=3 then n(e[l],e[d]);t=t+1;e=k[t];break;end;n(e[l],e[d]);t=t+1;e=k[t];until true;else n(e[l],e[d]);t=t+1;e=k[t];end end end end until true;else local h;for z=0,6 do if 3>z then if 0<z then if z~=0 then for f=47,82 do if z>1 then n(e[l],e[d]);t=t+1;e=k[t];break;end;n(e[l],e[d]);t=t+1;e=k[t];break;end;else n(e[l],e[d]);t=t+1;e=k[t];end else n[e[l]]=n[e[d]][e[f]];t=t+1;e=k[t];end else if z>4 then if 4<=z then for s=41,78 do if z>5 then n[e[l]][e[d]]=n[e[f]];break;end;h=e[l]n[h]=n[h](r(n,h+1,e[d]))t=t+1;e=k[t];break;end;else n[e[l]][e[d]]=n[e[f]];end else if z~=1 then repeat if z~=3 then n(e[l],e[d]);t=t+1;e=k[t];break;end;n(e[l],e[d]);t=t+1;e=k[t];until true;else n(e[l],e[d]);t=t+1;e=k[t];end end end end end end end end end end end end t=1+t;end;end;return ne end;local l=0xff;local h={};local k=(1);local d='';(function(t)local n=t local f=0x00 local e=0x00 n={(function(l)if f>0x2e then return l end f=f+1 e=(e+0xe89-l)%0x44 return(e%0x03==0x1 and(function(n)if not t[n]then e=e+0x01 t[n]=(0x3b);end return true end)'UlVgJ'and n[0x3](0x173+l))or(e%0x03==0x0 and(function(n)if not t[n]then e=e+0x01 t[n]=(0xf2);end return true end)'cXDVV'and n[0x1](l+0x22e))or(e%0x03==0x2 and(function(n)if not t[n]then e=e+0x01 t[n]=(0xb2);end return true end)'OQoxk'and n[0x2](l+0x1c8))or l end),(function(z)if f>0x2c then return z end f=f+1 e=(e+0xfa6-z)%0xd return(e%0x03==0x0 and(function(n)if not t[n]then e=e+0x01 t[n]=(0xc9);h[k]=ke();k=k+l;end return true end)'DzfWg'and n[0x1](0x386+z))or(e%0x03==0x2 and(function(n)if not t[n]then e=e+0x01 t[n]=(0x17);d={d..'\58 a',d};h[k]=le();k=k+((not s.DXFqt_CB)and 1 or 0);d[1]='\58'..d[1];l[2]=0xff;end return true end)'cUhym'and n[0x3](z+0xe5))or(e%0x03==0x1 and(function(n)if not t[n]then e=e+0x01 t[n]=(0x43);l[2]=(l[2]*(ne(function()h()end,r(d))-ne(l[1],r(d))))+1;h[k]={};l=l[2];k=k+l;end return true end)'EsWtX'and n[0x2](z+0x289))or z end),(function(k)if f>0x27 then return k end f=f+1 e=(e+0x1379-k)%0xc return(e%0x03==0x0 and(function(n)if not t[n]then e=e+0x01 t[n]=(0x5);end return true end)'KMQWd'and n[0x3](0x1aa+k))or(e%0x03==0x2 and(function(n)if not t[n]then e=e+0x01 t[n]=(0xc0);d='\37';l={function()l()end};d=d..'\100\43';end return true end)'KHsKV'and n[0x2](k+0x122))or(e%0x03==0x1 and(function(n)if not t[n]then e=e+0x01 t[n]=(0x6a);end return true end)'eSYfY'and n[0x1](k+0x2b9))or k end)}n[0x3](0x250b)end){};local e=j(r(h));return e(...);end return le((function()local t={}local e=0x01;local n;if s.DXFqt_CB then n=s.DXFqt_CB(le)else n=''end if s.QnIHkGSr(n,s.jOgVLrpn)then e=e+0;else e=e+1;end t[e]=0x02;t[t[e]+0x01]=0x03;return t;end)(),...)end)((function(n,e,t,d,l,k)local k;if 3<n then if n>5 then if n<=6 then do return l[t]end;else if n~=6 then for e=40,68 do if 7<n then do return t(n,nil,t);end break;end;do return setmetatable({},{['__\99\97\108\108']=function(e,d,l,n,t)if t then return e[t]elseif n then return e else e[d]=l end end})end break;end;else do return t(n,nil,t);end end end else if 5==n then local n=d;do return function()local e=e(t,n(n,n),n(n,n));n(1);return e;end;end;else local n=d;local l,d,z=l(2);do return function()local k,f,t,e=e(t,n(n,n),n(n,n)+3);n(4);return(e*l)+(t*d)+(f*z)+k;end;end;end end else if 1<n then if 2==n then do return 16777216,65536,256 end;else do return e(1),e(4,l,d,t,e),e(5,l,d,t)end;end else if-2<=n then for k=42,85 do if 0<n then do return function(t,e,n)if n then local e=(t/2^(e-1))%2^((n-1)-(e-1)+1);return e-e%1;else local e=2^(e-1);return(t%(e+e)>=e)and 1 or 0;end;end;end;break;end;do return e(1),e(4,l,d,t,e),e(5,l,d,t)end;break;end;else do return e(1),e(4,l,d,t,e),e(5,l,d,t)end;end end end end),...)
+main = function(...)
+	1.   PREPVARARGS     0                       ... = 0
+	2.   GETIMPORT       0 1 [aux]               var0 = game
+	4.   LOADK           2 2                     var2 = "Players"
+	5.   NAMECALL        0 0 22 [aux]            
+	7.   CALL            0 3 2                   var0 = var0:GetService(var2)
+	8.   GETIMPORT       1 1 [aux]               var1 = game
+	10.   LOADK           3 4                     var3 = "UserInputService"
+	11.   NAMECALL        1 1 22 [aux]            
+	13.   CALL            1 3 2                   var1 = var1:GetService(var3)
+	14.   GETIMPORT       2 1 [aux]               var2 = game
+	16.   LOADK           4 5                     var4 = "RunService"
+	17.   NAMECALL        2 2 22 [aux]            
+	19.   CALL            2 3 2                   var2 = var2:GetService(var4)
+	20.   GETIMPORT       3 1 [aux]               var3 = game
+	22.   LOADK           5 6                     var5 = "ReplicatedStorage"
+	23.   NAMECALL        3 3 22 [aux]            
+	25.   CALL            3 3 2                   var3 = var3:GetService(var5)
+	26.   GETIMPORT       4 1 [aux]               var4 = game
+	28.   LOADK           6 7                     var6 = "ContentProvider"
+	29.   NAMECALL        4 4 22 [aux]            
+	31.   CALL            4 3 2                   var4 = var4:GetService(var6)
+	32.   GETIMPORT       5 1 [aux]               var5 = game
+	34.   LOADK           7 8                     var7 = "HapticService"
+	35.   NAMECALL        5 5 22 [aux]            
+	37.   CALL            5 3 2                   var5 = var5:GetService(var7)
+	38.   LOADK           8 9                     var8 = "Assets"
+	39.   NAMECALL        6 3 211 [aux]           
+	41.   CALL            6 3 2                   var6 = var3:WaitForChild(var8)
+	42.   LOADK           9 11                    var9 = "Particles"
+	43.   NAMECALL        7 6 211 [aux]           
+	45.   CALL            7 3 2                   var7 = var6:WaitForChild(var9)
+	46.   LOADK           9 12                    var9 = "Egg Open"
+	47.   NAMECALL        7 7 3 [aux]             
+	49.   CALL            7 3 2                   var7 = var7:FindFirstChild(var9)
+	50.   LOADK           10 14                   var10 = "Library"
+	51.   NAMECALL        8 3 211 [aux]           
+	53.   CALL            8 3 2                   var8 = var3:WaitForChild(var10)
+	54.   GETIMPORT       9 16 [aux]              var9 = require
+	56.   GETTABLEKS      10 8 83 [aux]           var10 = var8["Functions"]
+	58.   CALL            9 2 2                   var9 = var9(var10)
+	59.   GETIMPORT       10 16 [aux]             var10 = require
+	61.   GETTABLEKS      11 8 108 [aux]          var11 = var8["Variables"]
+	63.   CALL            10 2 2                  var10 = var10(var11)
+	64.   GETIMPORT       11 16 [aux]             var11 = require
+	66.   GETTABLEKS      13 8 77 [aux]           var13 = var8["Client"]
+	68.   GETTABLEKS      12 13 73 [aux]          var12 = var13["CustomPet"]
+	70.   CALL            11 2 2                  var11 = var11(var12)
+	71.   GETIMPORT       12 16 [aux]             var12 = require
+	73.   GETTABLEKS      13 8 210 [aux]          var13 = var8["Audio"]
+	75.   CALL            12 2 2                  var12 = var12(var13)
+	76.   GETIMPORT       13 16 [aux]             var13 = require
+	78.   GETTABLEKS      14 8 31 [aux]           var14 = var8["Signal"]
+	80.   CALL            13 2 2                  var13 = var13(var14)
+	81.   LOADK           16 23                   var16 = "Items"
+	82.   NAMECALL        14 8 211 [aux]          
+	84.   CALL            14 3 2                  var14 = var8:WaitForChild(var16)
+	85.   GETIMPORT       15 16 [aux]             var15 = require
+	87.   GETTABLEKS      16 14 7 [aux]           var16 = var14["PetItem"]
+	89.   CALL            15 2 2                  var15 = var15(var16)
+	90.   LOADK           18 25                   var18 = "Types"
+	91.   NAMECALL        16 8 211 [aux]          
+	93.   CALL            16 3 2                  var16 = var8:WaitForChild(var18)
+	94.   GETIMPORT       17 16 [aux]             var17 = require
+	96.   GETTABLEKS      18 16 232 [aux]         var18 = var16["Pets"]
+	98.   CALL            17 2 2                  var17 = var17(var18)
+	99.   LOADK           20 27                   var20 = "Directory"
+	100.   NAMECALL        18 8 211 [aux]          
+	102.   CALL            18 3 2                  var18 = var8:WaitForChild(var20)
+	103.   GETIMPORT       19 16 [aux]             var19 = require
+	105.   GETTABLEKS      20 18 79 [aux]          var20 = var18["Eggs"]
+	107.   CALL            19 2 2                  var19 = var19(var20)
+	108.   GETIMPORT       20 16 [aux]             var20 = require
+	110.   GETTABLEKS      21 18 242 [aux]         var21 = var18["Rarity"]
+	112.   CALL            20 2 2                  var20 = var20(var21)
+	113.   GETIMPORT       21 16 [aux]             var21 = require
+	115.   GETTABLEKS      22 18 232 [aux]         var22 = var18["Pets"]
+	117.   CALL            21 2 2                  var21 = var21(var22)
+	118.   LOADK           24 19                   var24 = "Client"
+	119.   NAMECALL        22 8 211 [aux]          
+	121.   CALL            22 3 2                  var22 = var8:WaitForChild(var24)
+	122.   GETIMPORT       23 16 [aux]             var23 = require
+	124.   GETTABLEKS      24 22 101 [aux]         var24 = var22["Save"]
+	126.   CALL            23 2 2                  var23 = var23(var24)
+	127.   GETIMPORT       24 16 [aux]             var24 = require
+	129.   GETTABLEKS      25 22 77 [aux]          var25 = var22["EggCmds"]
+	131.   CALL            24 2 2                  var24 = var24(var25)
+	132.   GETIMPORT       25 16 [aux]             var25 = require
+	134.   GETTABLEKS      26 22 145 [aux]         var26 = var22["HatchingCmds"]
+	136.   CALL            25 2 2                  var25 = var25(var26)
+	137.   GETIMPORT       26 16 [aux]             var26 = require
+	139.   GETTABLEKS      27 22 32 [aux]          var27 = var22["FFlags"]
+	141.   CALL            26 2 2                  var26 = var26(var27)
+	142.   GETIMPORT       27 16 [aux]             var27 = require
+	144.   GETTABLEKS      28 22 20 [aux]          var28 = var22["SettingsCmds"]
+	146.   CALL            27 2 2                  var27 = var27(var28)
+	147.   GETIMPORT       28 16 [aux]             var28 = require
+	149.   GETTABLEKS      29 22 103 [aux]         var29 = var22["WorldFX"]
+	151.   CALL            28 2 2                  var28 = var28(var29)
+	152.   GETIMPORT       29 16 [aux]             var29 = require
+	154.   GETTABLEKS      30 22 129 [aux]         var30 = var22["GUIFX"]
+	156.   CALL            29 2 2                  var29 = var29(var30)
+	157.   GETIMPORT       30 16 [aux]             var30 = require
+	159.   GETTABLEKS      31 22 84 [aux]          var31 = var22["ConsoleCmds"]
+	161.   CALL            30 2 2                  var30 = var30(var31)
+	162.   GETIMPORT       31 16 [aux]             var31 = require
+	164.   GETTABLEKS      33 22 92 [aux]          var33 = var22["UI"]
+	166.   GETTABLEKS      32 33 44 [aux]          var32 = var33["ItemUI"]
+	168.   CALL            31 2 2                  var31 = var31(var32)
+	169.   GETIMPORT       32 16 [aux]             var32 = require
+	171.   GETTABLEKS      35 22 92 [aux]          var35 = var22["UI"]
+	173.   GETTABLEKS      34 35 44 [aux]          var34 = var35["ItemUI"]
+	175.   GETTABLEKS      33 34 118 [aux]         var33 = var34["Pet"]
+	177.   CALL            32 2 2                  var32 = var32(var33)
+	178.   GETIMPORT       33 16 [aux]             var33 = require
+	180.   GETTABLEKS      35 22 129 [aux]         var35 = var22["GUIFX"]
+	182.   GETTABLEKS      34 35 146 [aux]         var34 = var35["GUIParticles"]
+	184.   CALL            33 2 2                  var33 = var33(var34)
+	185.   GETIMPORT       34 16 [aux]             var34 = require
+	187.   GETTABLEKS      35 22 82 [aux]          var35 = var22["Network"]
+	189.   CALL            34 2 2                  var34 = var34(var35)
+	190.   GETIMPORT       35 16 [aux]             var35 = require
+	192.   GETTABLEKS      37 22 92 [aux]          var37 = var22["UI"]
+	194.   GETTABLEKS      36 37 207 [aux]         var36 = var37["ItemContainerUI"]
+	196.   CALL            35 2 2                  var35 = var35(var36)
+	197.   GETIMPORT       36 16 [aux]             var36 = require
+	199.   GETTABLEKS      37 22 155 [aux]         var37 = var22["MasteryCmds"]
+	201.   CALL            36 2 2                  var36 = var36(var37)
+	202.   GETIMPORT       37 16 [aux]             var37 = require
+	204.   GETTABLEKS      38 22 28 [aux]          var38 = var22["InstancingCmds"]
+	206.   CALL            37 2 2                  var37 = var37(var38)
+	207.   GETIMPORT       38 16 [aux]             var38 = require
+	209.   GETTABLEKS      39 8 31 [aux]           var39 = var8["Signal"]
+	211.   CALL            38 2 2                  var38 = var38(var39)
+	212.   GETIMPORT       39 16 [aux]             var39 = require
+	214.   GETTABLEKS      40 22 124 [aux]         var40 = var22["ChatMsg"]
+	216.   CALL            39 2 2                  var39 = var39(var40)
+	217.   LOADK           42 47                   var42 = "Shared"
+	218.   NAMECALL        40 8 211 [aux]          
+	220.   CALL            40 3 2                  var40 = var8:WaitForChild(var42)
+	221.   LOADK           43 17                   var43 = "Functions"
+	222.   NAMECALL        41 40 211 [aux]         
+	224.   CALL            41 3 2                  var41 = var40:WaitForChild(var43)
+	225.   GETIMPORT       42 16 [aux]             var42 = require
+	227.   GETTABLEKS      43 41 58 [aux]          var43 = var41["HatchMessage"]
+	229.   CALL            42 2 2                  var42 = var42(var43)
+	230.   GETIMPORT       43 16 [aux]             var43 = require
+	232.   GETIMPORT       48 1 [aux]              var48 = game
+	234.   GETTABLEKS      47 48 63 [aux]          var47 = var48["ReplicatedStorage"]
+	236.   GETTABLEKS      46 47 106 [aux]         var46 = var47["Library"]
+	238.   GETTABLEKS      45 46 77 [aux]          var45 = var46["Client"]
+	240.   GETTABLEKS      44 45 145 [aux]         var44 = var45["HatchingCmds"]
+	242.   CALL            43 2 2                  var43 = var43(var44)
+	243.   GETIMPORT       44 16 [aux]             var44 = require
+	245.   GETIMPORT       49 1 [aux]              var49 = game
+	247.   GETTABLEKS      48 49 63 [aux]          var48 = var49["ReplicatedStorage"]
+	249.   GETTABLEKS      47 48 106 [aux]         var47 = var48["Library"]
+	251.   GETTABLEKS      46 47 239 [aux]         var46 = var47["Types"]
+	253.   GETTABLEKS      45 46 247 [aux]         var45 = var46["Hatching"]
+	255.   CALL            44 2 2                  var44 = var44(var45)
+	256.   GETTABLEKS      46 6 224 [aux]          var46 = var6["Other"]
+	258.   GETTABLEKS      45 46 50 [aux]          var45 = var46["EggCharge"]
+	260.   GETIMPORT       46 16 [aux]             var46 = require
+	262.   GETIMPORT       48 53 [aux]             var48 = script
+	264.   GETTABLEKS      47 48 241 [aux]         var47 = var48["EggPositions"]
+	266.   CALL            46 2 2                  var46 = var46(var47)
+	267.   GETIMPORT       47 57 [aux]             var47 = Random["new"]
+	269.   CALL            47 1 2                  var47 = var47()
+	270.   LOADNIL         48                      var48 = nil
+	271.   LOADNIL         49                      var49 = nil
+	272.   GETTABLEKS      50 0 49 [aux]           var50 = var0["LocalPlayer"]
+	274.   FASTCALL1       1 50 3                  FASTCALL[id=1](var50) -- goto #3
+	275.   MOVE            52 50                   var52 = var50
+	276.   GETIMPORT       51 60 [aux]             var51 = assert
+	278.   CALL            51 2 1                  var51(var52)
+	279.   NAMECALL        51 50 35 [aux]          
+	281.   CALL            51 2 2                  var51 = var50:GetMouse()
+	282.   GETIMPORT       55 63 [aux]             var55 = workspace
+	284.   GETTABLEKS      54 55 72 [aux]          var54 = var55["CurrentCamera"]
+	286.   GETTABLEKS      53 54 176 [aux]         var53 = var54["ViewportSize"]
+	288.   GETTABLEKS      52 53 120 [aux]         var52 = var53["Y"]
+	290.   LOADNIL         53                      var53 = nil
+	291.   LOADNIL         54                      var54 = nil
+	292.   NEWTABLE        55 0 [aux]              var55 = {}
+	294.   LOADK           56 67                   var56 = "rbxassetid://12424721598"
+	295.   LOADK           57 68                   var57 = "rbxassetid://12424743703"
+	296.   LOADK           58 69                   var58 = "rbxassetid://12424722634"
+	297.   SETLIST         55 56 4 [aux]           
+	var55[1] = var56
+	var55[2] = var57
+	var55[3] = var58
+	var55[4] = var59
+
+	299.   NEWTABLE        56 0 [aux]              var56 = {}
+	301.   LOADK           57 70                   var57 = "rbxassetid://12424894259"
+	302.   SETLIST         56 57 2 [aux]           
+	var56[1] = var57
+	var56[2] = var58
+
+	304.   NEWTABLE        57 0 [aux]              var57 = {}
+	306.   LOADK           58 71                   var58 = "rbxassetid://12425018709"
+	307.   SETLIST         57 58 2 [aux]           
+	var57[1] = var58
+	var57[2] = var59
+
+	309.   NEWTABLE        58 0 [aux]              var58 = {}
+	311.   LOADK           59 72                   var59 = "rbxassetid://12331474492"
+	312.   SETLIST         58 59 2 [aux]           
+	var58[1] = var59
+	var58[2] = var60
+
+	314.   NEWTABLE        59 0 [aux]              var59 = {}
+	316.   LOADK           60 73                   var60 = "rbxassetid://7503155199"
+	317.   SETLIST         59 60 2 [aux]           
+	var59[1] = var60
+	var59[2] = var61
+
+	319.   NEWTABLE        60 0 [aux]              var60 = {}
+	321.   LOADK           61 74                   var61 = "rbxassetid://7503155258"
+	322.   SETLIST         60 61 2 [aux]           
+	var60[1] = var61
+	var60[2] = var62
+
+	324.   NEWTABLE        61 0 [aux]              var61 = {}
+	326.   LOADK           62 75                   var62 = "rbxassetid://11788145043"
+	327.   SETLIST         61 62 2 [aux]           
+	var61[1] = var62
+	var61[2] = var63
+
+	329.   NEWTABLE        62 0 [aux]              var62 = {}
+	331.   LOADK           63 76                   var63 = "rbxassetid://14446938681"
+	332.   SETLIST         62 63 2 [aux]           
+	var62[1] = var63
+	var62[2] = var64
+
+	334.   NEWTABLE        63 0 [aux]              var63 = {}
+	336.   LOADK           64 77                   var64 = "rbxassetid://14447031678"
+	337.   SETLIST         63 64 2 [aux]           
+	var63[1] = var64
+	var63[2] = var65
+
+	339.   NEWTABLE        64 0 [aux]              var64 = {}
+	341.   LOADK           65 78                   var65 = "rbxassetid://12424894360"
+	342.   SETLIST         64 65 2 [aux]           
+	var64[1] = var65
+	var64[2] = var66
+
+	344.   NEWTABLE        65 0 [aux]              var65 = {}
+	346.   LOADK           66 78                   var66 = "rbxassetid://12424894360"
+	347.   SETLIST         65 66 2 [aux]           
+	var65[1] = var66
+	var65[2] = var67
+
+	349.   NEWTABLE        66 0 [aux]              var66 = {}
+	351.   LOADK           67 79                   var67 = "rbxassetid://16723751303"
+	352.   SETLIST         66 67 2 [aux]           
+	var66[1] = var67
+	var66[2] = var68
+
+	354.   DUPTABLE        67 83                   var67 = { "Nice", "Great", "Insane"}
+	355.   DUPTABLE        68 89                   var68 = { "Rank", "Sound", "Volume", "BtmText", "BtmColor"}
+	356.   LOADN           69 1                    var69 = 1
+	357.   SETTABLEKS      69 68 223 [aux]         var68["Rank"] = var69
+	359.   LOADK           69 90                   var69 = "rbxassetid://15098202172"
+	360.   SETTABLEKS      69 68 110 [aux]         var68["Sound"] = var69
+	362.   LOADK           69 91                   var69 = 1.25
+	363.   SETTABLEKS      69 68 75 [aux]          var68["Volume"] = var69
+	365.   LOADK           69 92                   var69 = "Nice!"
+	366.   SETTABLEKS      69 68 174 [aux]         var68["BtmText"] = var69
+	368.   GETIMPORT       69 95 [aux]             var69 = Color3["fromRGB"]
+	370.   LOADN           70 76                   var70 = 76
+	371.   LOADN           71 216                  var71 = 216
+	372.   LOADN           72 255                  var72 = 255
+	373.   CALL            69 4 2                  var69 = var69(var70, var71, var72)
+	374.   SETTABLEKS      69 68 35 [aux]          var68["BtmColor"] = var69
+	376.   SETTABLEKS      68 67 23 [aux]          var67["Nice"] = var68
+	378.   DUPTABLE        68 89                   var68 = { "Rank", "Sound", "Volume", "BtmText", "BtmColor"}
+	379.   LOADN           69 2                    var69 = 2
+	380.   SETTABLEKS      69 68 223 [aux]         var68["Rank"] = var69
+	382.   LOADK           69 96                   var69 = "rbxassetid://15098202119"
+	383.   SETTABLEKS      69 68 110 [aux]         var68["Sound"] = var69
+	385.   LOADK           69 97                   var69 = 1.45
+	386.   SETTABLEKS      69 68 75 [aux]          var68["Volume"] = var69
+	388.   LOADK           69 98                   var69 = "Great!"
+	389.   SETTABLEKS      69 68 174 [aux]         var68["BtmText"] = var69
+	391.   GETIMPORT       69 95 [aux]             var69 = Color3["fromRGB"]
+	393.   LOADN           70 255                  var70 = 255
+	394.   LOADN           71 169                  var71 = 169
+	395.   LOADN           72 71                   var72 = 71
+	396.   CALL            69 4 2                  var69 = var69(var70, var71, var72)
+	397.   SETTABLEKS      69 68 35 [aux]          var68["BtmColor"] = var69
+	399.   SETTABLEKS      68 67 244 [aux]         var67["Great"] = var68
+	401.   DUPTABLE        68 89                   var68 = { "Rank", "Sound", "Volume", "BtmText", "BtmColor"}
+	402.   LOADN           69 3                    var69 = 3
+	403.   SETTABLEKS      69 68 223 [aux]         var68["Rank"] = var69
+	405.   LOADK           69 99                   var69 = "rbxassetid://15098202236"
+	406.   SETTABLEKS      69 68 110 [aux]         var68["Sound"] = var69
+	408.   LOADK           69 100                  var69 = 1.75
+	409.   SETTABLEKS      69 68 75 [aux]          var68["Volume"] = var69
+	411.   LOADK           69 101                  var69 = "Insane!"
+	412.   SETTABLEKS      69 68 174 [aux]         var68["BtmText"] = var69
+	414.   GETIMPORT       69 95 [aux]             var69 = Color3["fromRGB"]
+	416.   LOADN           70 255                  var70 = 255
+	417.   LOADN           71 82                   var71 = 82
+	418.   LOADN           72 209                  var72 = 209
+	419.   CALL            69 4 2                  var69 = var69(var70, var71, var72)
+	420.   SETTABLEKS      69 68 35 [aux]          var68["BtmColor"] = var69
+	422.   SETTABLEKS      68 67 93 [aux]          var67["Insane"] = var68
+	424.   DUPCLOSURE      68 102                  
+	-- V nested upvalues[1] = var67 (Val)
+	-- V nested upvalues[2] = var9 (Val)
+	-- V nested upvalues[3] = var55 (Val)
+	-- V nested upvalues[4] = var56 (Val)
+	-- V nested upvalues[5] = var57 (Val)
+	-- V nested upvalues[6] = var58 (Val)
+	-- V nested upvalues[7] = var59 (Val)
+	-- V nested upvalues[8] = var66 (Val)
+	-- V nested upvalues[9] = var60 (Val)
+	-- V nested upvalues[10] = var61 (Val)
+	-- V nested upvalues[11] = var62 (Val)
+	-- V nested upvalues[12] = var63 (Val)
+	-- V nested upvalues[13] = var64 (Val)
+	-- V nested upvalues[14] = var65 (Val)
+	preloadAssets = function()
+		1.   GETIMPORT       0 1 [aux]               var0 = pcall
+		3.   DUPCLOSURE      1 2                     
+		-- V nested upvalues[1] = upvalues[0] (Upval)
+		-- V nested upvalues[2] = upvalues[1] (Upval)
+		-- V nested upvalues[3] = upvalues[2] (Upval)
+		-- V nested upvalues[4] = upvalues[3] (Upval)
+		-- V nested upvalues[5] = upvalues[4] (Upval)
+		-- V nested upvalues[6] = upvalues[5] (Upval)
+		-- V nested upvalues[7] = upvalues[6] (Upval)
+		-- V nested upvalues[8] = upvalues[7] (Upval)
+		-- V nested upvalues[9] = upvalues[8] (Upval)
+		-- V nested upvalues[10] = upvalues[9] (Upval)
+		-- V nested upvalues[11] = upvalues[10] (Upval)
+		-- V nested upvalues[12] = upvalues[11] (Upval)
+		-- V nested upvalues[13] = upvalues[12] (Upval)
+		-- V nested upvalues[14] = upvalues[13] (Upval)
+		var1 = function()
+			1.   NEWTABLE        0 0 [aux]               var0 = {}
+			3.   GETIMPORT       1 1 [aux]               var1 = pairs
+			5.   GETUPVAL        2 0                     var2 = upvalues[1]
+			6.   CALL            1 2 4                   var1, var2, var3 = var1(var2)
+			7.   FORGPREP_NEXT   1                       var4, var5 = key, value
+			8.   GETTABLEKS      8 5 110 [aux]           var8 = var5["Sound"]
+			10.   FASTCALL2       52 0 4 [aux]            FASTCALL[id=52](var0, var8) -- goto #4
+			12.   MOVE            7 0                     var7 = var0
+			13.   GETIMPORT       6 5 [aux]               var6 = table["insert"]
+			15.   CALL            6 3 1                   var6(var7, var8)
+			16.   FORGLOOP        1 -9 [aux]              forgloop - iterate + goto #18
+			18.   GETUPVAL        2 1                     var2 = upvalues[2]
+			19.   GETTABLEKS      1 2 85 [aux]            var1 = var2["PreloadSounds"]
+			21.   GETUPVAL        2 2                     var2 = upvalues[3]
+			22.   GETUPVAL        3 3                     var3 = upvalues[4]
+			23.   GETUPVAL        4 4                     var4 = upvalues[5]
+			24.   GETUPVAL        5 5                     var5 = upvalues[6]
+			25.   GETUPVAL        6 6                     var6 = upvalues[7]
+			26.   GETUPVAL        7 7                     var7 = upvalues[8]
+			27.   GETUPVAL        8 8                     var8 = upvalues[9]
+			28.   GETUPVAL        9 9                     var9 = upvalues[10]
+			29.   GETUPVAL        10 10                   var10 = upvalues[11]
+			30.   GETUPVAL        11 11                   var11 = upvalues[12]
+			31.   GETUPVAL        12 12                   var12 = upvalues[13]
+			32.   GETUPVAL        13 13                   var13 = upvalues[14]
+			33.   MOVE            14 0                    var14 = var0
+			34.   CALL            1 14 1                  var1(var2, var3, var4, var5, var6, var7, var8, var9, var10, var11, var12, var13, var14)
+		end
+
+		18.   CALL            0 2 1                   var0(var1)
+	end
+	var68 = preloadAssets
+	439.   SETGLOBAL       68 213 [aux]            preloadAssets = var68
+	441.   NEWTABLE        68 0 [aux]              var68 = {}
+	443.   LOADK           69 104                  var69 = 0.5
+	444.   SETTABLEN       69 68 0                 var68[-1] = var69
+	445.   LOADK           69 104                  var69 = 0.5
+	446.   SETTABLEN       69 68 1                 var68[0] = var69
+	447.   LOADK           69 105                  var69 = 0.45
+	448.   SETTABLEN       69 68 2                 var68[1] = var69
+	449.   LOADK           69 106                  var69 = 0.55
+	450.   SETTABLEN       69 68 3                 var68[2] = var69
+	451.   LOADK           69 107                  var69 = 0.7
+	452.   SETTABLEN       69 68 4                 var68[3] = var69
+	453.   LOADK           69 108                  var69 = 0.6
+	454.   SETTABLEN       69 68 5                 var68[4] = var69
+	455.   LOADK           69 108                  var69 = 0.6
+	456.   SETTABLEN       69 68 6                 var68[5] = var69
+	457.   LOADK           69 108                  var69 = 0.6
+	458.   SETTABLEN       69 68 7                 var68[6] = var69
+	459.   LOADK           69 106                  var69 = 0.55
+	460.   SETTABLEN       69 68 8                 var68[7] = var69
+	461.   LOADK           69 106                  var69 = 0.55
+	462.   SETTABLEN       69 68 9                 var68[8] = var69
+	463.   NEWTABLE        69 0 [aux]              var69 = {}
+	465.   LOADK           70 109                  var70 = 0.325
+	466.   SETTABLEN       70 69 0                 var69[-1] = var70
+	467.   LOADK           70 110                  var70 = 0.3
+	468.   SETTABLEN       70 69 1                 var69[0] = var70
+	469.   LOADK           70 110                  var70 = 0.3
+	470.   SETTABLEN       70 69 2                 var69[1] = var70
+	471.   LOADK           70 111                  var70 = 0.4
+	472.   SETTABLEN       70 69 3                 var69[2] = var70
+	473.   LOADK           70 112                  var70 = 0.525
+	474.   SETTABLEN       70 69 4                 var69[3] = var70
+	475.   LOADK           70 113                  var70 = 0.375
+	476.   SETTABLEN       70 69 5                 var69[4] = var70
+	477.   LOADK           70 113                  var70 = 0.375
+	478.   SETTABLEN       70 69 6                 var69[5] = var70
+	479.   LOADK           70 113                  var70 = 0.375
+	480.   SETTABLEN       70 69 7                 var69[6] = var70
+	481.   LOADK           71 114                  var71 = {[1] = 2.365000009536743, [2] = 3.2739999294281006, [3] = 3.694999933242798, [4] = 0, [5] = 5}
+	482.   LOADK           72 115                  var72 = {[1] = 0.75, [2] = 0.75, [3] = 0.75, [4] = 0, [5] = 5}
+	483.   MUL             70 71 72                var70 = var71 * var72
+	484.   MULK            71 70 116               var71 = var70 * 0.08333333333333333
+	485.   NEWTABLE        72 0 [aux]              var72 = {}
+	487.   LOADK           73 117                  var73 = 0.1
+	488.   LOADK           74 110                  var74 = 0.3
+	489.   SETLIST         72 73 3 [aux]           
+	var72[1] = var73
+	var72[2] = var74
+	var72[3] = var75
+
+	491.   NEWTABLE        73 0 [aux]              var73 = {}
+	493.   LOADK           74 110                  var74 = 0.3
+	494.   SETTABLEN       74 73 0                 var73[-1] = var74
+	495.   LOADK           74 118                  var74 = 0.2
+	496.   SETTABLEN       74 73 1                 var73[0] = var74
+	497.   GETIMPORT       74 120 [aux]            var74 = Instance["new"]
+	499.   LOADK           75 121                  var75 = "ScreenGui"
+	500.   GETTABLEKS      76 50 153 [aux]         var76 = var50["PlayerGui"]
+	502.   CALL            74 3 2                  var74 = var74(var75, var76)
+	503.   LOADK           75 123                  var75 = "EggOpenAnimation"
+	504.   SETTABLEKS      75 74 186 [aux]         var74["Name"] = var75
+	506.   NEWTABLE        75 0 [aux]              var75 = {}
+	508.   GETIMPORT       79 63 [aux]             var79 = workspace
+	510.   GETTABLEKS      78 79 40 [aux]          var78 = var79["__THINGS"]
+	512.   GETTABLEKS      77 78 19 [aux]          var77 = var78["RenderedEggs"]
+	514.   GETTABLEKS      76 77 2 [aux]           var76 = var77["Highlight"]
+	516.   GETIMPORT       80 63 [aux]             var80 = workspace
+	518.   GETTABLEKS      79 80 40 [aux]          var79 = var80["__THINGS"]
+	520.   GETTABLEKS      78 79 232 [aux]         var78 = var79["Pets"]
+	522.   GETTABLEKS      77 78 2 [aux]           var77 = var78["Highlight"]
+	524.   SETLIST         75 76 3 [aux]           
+	var75[1] = var76
+	var75[2] = var77
+	var75[3] = var78
+
+	526.   DUPCLOSURE      76 128                  
+	GetParticleMult = function(arg0)
+		local var0 = arg0
+		1.   LOADN           1 80                    var1 = 80
+		2.   JUMPIFNOTLE     1 4 [aux]               goto #6 if var1 >= var0 then else
+		4.   LOADK           1 0                     var1 = 0.2
+		5.   RETURN          1 2                     return var2
+		6.   LOADN           1 60                    var1 = 60 -- referenced by #2
+		7.   JUMPIFNOTLT     1 4 [aux]               goto #11 if var1 > var0 then else
+		9.   LOADK           1 1                     var1 = 0.33
+		10.   RETURN          1 2                     return var2
+		11.   LOADN           1 30                    var1 = 30 -- referenced by #7
+		12.   JUMPIFNOTLT     1 4 [aux]               goto #16 if var1 > var0 then else
+		14.   LOADK           1 2                     var1 = 0.5
+		15.   RETURN          1 2                     return var2
+		16.   LOADN           1 1                     var1 = 1 -- referenced by #12
+	end
+	var76 = GetParticleMult
+	527.   SETGLOBAL       76 197 [aux]            GetParticleMult = var76
+	529.   DUPCLOSURE      76 130                  
+	-- V nested upvalues[1] = var10 (Val)
+	-- V nested upvalues[2] = var52 (Val)
+	ToggleCoreUI = function(arg0)
+		local var0 = arg0
+		1.   GETUPVAL        2 0                     var2 = upvalues[1]
+		2.   GETTABLEKS      1 2 89 [aux]            var1 = var2["Mobile"]
+		4.   JUMPIFNOT       1 6                     goto #10 if not var1 then else
+		5.   GETUPVAL        1 1                     var1 = upvalues[2]
+		6.   LOADN           2 550                   var2 = 550
+		7.   JUMPIFNOTLT     1 3 [aux]               goto #10 if var1 > var2 then else
+		9.   RETURN          0 1                     
+		10.   GETIMPORT       1 2 [aux]               var1 = game -- referenced by #4, #7
+		12.   LOADK           3 3                     var3 = "StarterGui"
+		13.   NAMECALL        1 1 22 [aux]            
+		15.   CALL            1 3 2                   var1 = var1:GetService(var3)
+		16.   GETIMPORT       4 8 [aux]               var4 = Enum["CoreGuiType"]["Chat"]
+		18.   MOVE            5 0                     var5 = var0
+		19.   NAMECALL        2 1 24 [aux]            
+		21.   CALL            2 4 1                   var1:SetCoreGuiEnabled(var4, var5)
+		22.   GETIMPORT       4 11 [aux]              var4 = Enum["CoreGuiType"]["PlayerList"]
+		24.   MOVE            5 0                     var5 = var0
+		25.   NAMECALL        2 1 24 [aux]            
+		27.   CALL            2 4 1                   var1:SetCoreGuiEnabled(var4, var5)
+	end
+	var76 = ToggleCoreUI
+	532.   SETGLOBAL       76 80 [aux]             ToggleCoreUI = var76
+	534.   DUPCLOSURE      76 132                  
+	ConstrainToAspectRatio = function(arg0, arg1)
+		local var0 = arg0
+		local var1 = arg1
+		1.   GETTABLEKS      2 0 121 [aux]           var2 = var0["X"]
+		3.   GETTABLEKS      3 0 120 [aux]           var3 = var0["Y"]
+		5.   DIV             4 2 3                   var4 = var2 / var3
+		6.   JUMPIFNOTLT     1 4 [aux]               goto #10 if var1 > var4 then else
+		8.   MUL             2 3 1                   var2 = var3 * var1
+		9.   JUMP            2                       goto #11
+		10.   DIV             3 2 1                   var3 = var2 / var1 -- referenced by #6
+		11.   GETIMPORT       4 4 [aux]               var4 = Vector2["new"] -- referenced by #9
+		13.   MOVE            5 2                     var5 = var2
+		14.   MOVE            6 3                     var6 = var3
+		15.   CALL            4 3 2                   var4 = var4(var5, var6)
+		16.   SUB             6 0 4                   var6 = var0 - var4
+		17.   MULK            5 6 5                   var5 = var6 * 0.5
+		18.   GETIMPORT       6 4 [aux]               var6 = Vector2["new"]
+		20.   MOVE            7 2                     var7 = var2
+		21.   MOVE            8 3                     var8 = var3
+		22.   CALL            6 3 2                   var6 = var6(var7, var8)
+		23.   MOVE            7 5                     var7 = var5
+	end
+	var76 = ConstrainToAspectRatio
+	535.   SETGLOBAL       76 91 [aux]             ConstrainToAspectRatio = var76
+	537.   DUPCLOSURE      76 134                  
+	ComputeDepth = function(arg0, arg1)
+		local var0 = arg0
+		local var1 = arg1
+		1.   GETIMPORT       3 1 [aux]               var3 = workspace
+		3.   GETTABLEKS      2 3 72 [aux]            var2 = var3["CurrentCamera"]
+		5.   FASTCALL1       1 2 3                   FASTCALL[id=1](var2) -- goto #3
+		6.   MOVE            4 2                     var4 = var2
+		7.   GETIMPORT       3 4 [aux]               var3 = assert
+		9.   CALL            3 2 1                   var3(var4)
+		10.   GETTABLEKS      3 2 176 [aux]           var3 = var2["ViewportSize"]
+		12.   GETTABLEKS      4 2 97 [aux]            var4 = var2["FieldOfView"]
+		14.   FASTCALL1       22 4 3                  FASTCALL[id=22](var4) -- goto #3
+		15.   MOVE            8 4                     var8 = var4
+		16.   GETIMPORT       7 10 [aux]              var7 = math["rad"]
+		18.   CALL            7 2 2                   var7 = var7(var8)
+		19.   MULK            6 7 7                   var6 = var7 * 0.5
+		20.   FASTCALL1       27 6 2                  FASTCALL[id=27](var6) -- goto #2
+		21.   GETIMPORT       5 12 [aux]              var5 = math["tan"]
+		23.   CALL            5 2 2                   var5 = var5(var6)
+		24.   GETTABLEKS      8 3 121 [aux]           var8 = var3["X"]
+		26.   MUL             7 5 8                   var7 = var5 * var8
+		27.   GETTABLEKS      8 3 120 [aux]           var8 = var3["Y"]
+		29.   DIV             6 7 8                   var6 = var7 / var8
+		30.   GETIMPORT       7 17 [aux]              var7 = Vector2["new"]
+		32.   GETTABLEKS      11 3 121 [aux]          var11 = var3["X"]
+		34.   GETTABLEKS      12 1 121 [aux]          var12 = var1["X"]
+		36.   MUL             10 11 12                var10 = var11 * var12
+		37.   MINUS           9 10                    var9 = -var10
+		38.   GETTABLEKS      12 0 121 [aux]          var12 = var0["X"]
+		40.   MULK            11 12 18                var11 = var12 * 2
+		41.   MUL             10 11 6                 var10 = var11 * var6
+		42.   DIV             8 9 10                  var8 = var9 / var10
+		43.   GETTABLEKS      12 3 120 [aux]          var12 = var3["Y"]
+		45.   GETTABLEKS      13 1 120 [aux]          var13 = var1["Y"]
+		47.   MUL             11 12 13                var11 = var12 * var13
+		48.   MINUS           10 11                   var10 = -var11
+		49.   GETTABLEKS      13 0 120 [aux]          var13 = var0["Y"]
+		51.   MULK            12 13 18                var12 = var13 * 2
+		52.   MUL             11 12 5                 var11 = var12 * var5
+		53.   DIV             9 10 11                 var9 = var10 / var11
+		54.   CALL            7 3 0                   var7, ... = var7(var8, var9)
+	end
+	var76 = ComputeDepth
+	538.   SETGLOBAL       76 169 [aux]            ComputeDepth = var76
+	540.   DUPCLOSURE      76 136                  
+	-- V nested upvalues[1] = var46 (Val)
+	GetGoalPos = function(arg0, arg1)
+		local var0 = arg0
+		local var1 = arg1
+		1.   LOADN           4 1                     var4 = 1
+		2.   JUMPIFLE        4 3 [aux]               goto #5 if var4 <= var0 then else
+		4.   LOADB           3 0 1                   var3 = false
+		5.   LOADB           3 1 0                   var3 = true -- referenced by #2
+		6.   FASTCALL1       1 3 2                   FASTCALL[id=1](var3) -- goto #2
+		7.   GETIMPORT       2 1 [aux]               var2 = assert
+		9.   CALL            2 2 1                   var2(var3)
+		10.   LOADB           3 0 0                   var3 = false
+		11.   LOADN           4 1                     var4 = 1
+		12.   JUMPIFNOTLE     4 6 [aux]               goto #18 if var4 >= var1 then else
+		14.   JUMPIFLE        1 3 [aux]               goto #17 if var1 <= var0 then else
+		16.   LOADB           3 0 1                   var3 = false
+		17.   LOADB           3 1 0                   var3 = true -- referenced by #14
+		18.   FASTCALL1       1 3 2                   FASTCALL[id=1](var3) -- goto #2 -- referenced by #12
+		19.   GETIMPORT       2 1 [aux]               var2 = assert
+		21.   CALL            2 2 1                   var2(var3)
+		22.   GETUPVAL        3 0                     var3 = upvalues[1]
+		23.   GETTABLEKS      2 3 196 [aux]           var2 = var3["GetPositions"]
+		25.   MOVE            3 0                     var3 = var0
+		26.   CALL            2 2 2                   var2 = var2(var3)
+		27.   GETTABLE        3 2 1                   var3 = var2[var1]
+		28.   GETTABLEKS      4 3 31 [aux]            var4 = var3["pos"]
+	end
+	var76 = GetGoalPos
+	542.   SETGLOBAL       76 170 [aux]            GetGoalPos = var76
+	544.   DUPCLOSURE      76 138                  
+	-- V nested upvalues[1] = var46 (Val)
+	-- V nested upvalues[2] = var9 (Val)
+	ComputeCFrame = function(arg0, arg1, arg2, arg3, arg4, arg5, arg6)
+		local var0 = arg0
+		local var1 = arg1
+		local var2 = arg2
+		local var3 = arg3
+		local var4 = arg4
+		local var5 = arg5
+		local var6 = arg6
+		1.   GETIMPORT       8 1 [aux]               var8 = workspace
+		3.   GETTABLEKS      7 8 72 [aux]            var7 = var8["CurrentCamera"]
+		5.   GETTABLEKS      8 7 133 [aux]           var8 = var7["CFrame"]
+		7.   GETTABLEKS      9 7 176 [aux]           var9 = var7["ViewportSize"]
+		9.   MULK            10 9 5                  var10 = var9 * 0.5
+		10.   GETIMPORT       11 8 [aux]              var11 = Vector2["zero"]
+		12.   MOVE            12 9                    var12 = var9
+		13.   GETUPVAL        14 0                    var14 = upvalues[1]
+		14.   GETTABLEKS      13 14 196 [aux]         var13 = var14["GetPositions"]
+		16.   MOVE            14 0                    var14 = var0
+		17.   CALL            13 2 2                  var13 = var13(var14)
+		18.   GETTABLE        14 13 1                 var14 = var13[var1]
+		19.   GETTABLEKS      15 14 31 [aux]          var15 = var14["pos"]
+		21.   GETTABLEKS      16 14 219 [aux]         var16 = var14["col"]
+		23.   GETTABLEKS      17 14 158 [aux]         var17 = var14["row"]
+		25.   GETTABLEKS      18 14 134 [aux]         var18 = var14["numRows"]
+		27.   GETTABLEKS      19 14 78 [aux]          var19 = var14["minNumCols"]
+		29.   GETTABLEKS      20 14 52 [aux]          var20 = var14["maxNumCols"]
+		31.   LOADN           21 20                   var21 = 20
+		32.   JUMPIFNOTLE     21 7 [aux]              goto #39 if var21 >= var0 then else
+		34.   ADD             22 17 16                var22 = var17 + var16
+		35.   MODK            21 22 16                var21 = var22 % 2
+		36.   JUMPXEQKN       21 3 [aux]              goto #39 if var21 == nil then else
+		38.   MULK            4 4 18                  var4 = var4 * 1.25
+		39.   MOVE            21 15                   var21 = var15 -- referenced by #32, #36
+		40.   JUMPIFNOT       5 14                    goto #54 if not var5 then else
+		41.   JUMPIFNOT       6 13                    goto #54 if not var6 then else
+		42.   MOVE            24 21                   var24 = var21
+		43.   MOVE            26 6                    var26 = var6
+		44.   LOADN           27 0                    var27 = 0
+		45.   LOADN           28 1                    var28 = 1
+		46.   FASTCALL        46 2                    FASTCALL[id=46]() -- goto #2
+		47.   GETIMPORT       25 21 [aux]             var25 = math["clamp"]
+		49.   CALL            25 4 2                  var25 = var25(var26, var27, var28)
+		50.   NAMECALL        22 5 95 [aux]           
+		52.   CALL            22 4 2                  var22 = var5:Lerp(var24, var25)
+		53.   MOVE            21 22                   var21 = var22
+		54.   MUL             23 12 21                var23 = var12 * var21 -- referenced by #40, #41
+		55.   ADD             22 11 23                var22 = var11 + var23
+		56.   GETTABLE        24 2 0                  var24 = var2[var0]
+		57.   OR              23 24 3                 var23 = var24 or var3
+		58.   GETIMPORT       24 24 [aux]             var24 = Vector2["new"]
+		60.   MULK            26 23 16                var26 = var23 * 2
+		61.   ADDK            27 20 25                var27 = var20 + 1
+		62.   DIV             25 26 27                var25 = var26 / var27
+		63.   MULK            27 23 16                var27 = var23 * 2
+		64.   ADDK            28 18 25                var28 = var18 + 1
+		65.   DIV             26 27 28                var26 = var27 / var28
+		66.   CALL            24 3 2                  var24 = var24(var25, var26)
+		67.   MUL             25 12 24                var25 = var12 * var24
+		68.   GETUPVAL        28 1                    var28 = upvalues[2]
+		69.   GETTABLEKS      27 28 109 [aux]         var27 = var28["ScreenSpace"]
+		71.   GETTABLEKS      26 27 217 [aux]         var26 = var27["ScreenToWorldByHeight"]
+		73.   GETTABLEKS      27 22 121 [aux]         var27 = var22["X"]
+		75.   GETTABLEKS      28 22 120 [aux]         var28 = var22["Y"]
+		77.   GETTABLEKS      29 25 120 [aux]         var29 = var25["Y"]
+		79.   GETTABLEKS      30 4 120 [aux]          var30 = var4["Y"]
+		81.   CALL            26 5 2                  var26 = var26(var27, var28, var29, var30)
+		82.   GETIMPORT       28 30 [aux]             var28 = CFrame["new"]
+		84.   MOVE            29 26                   var29 = var26
+		85.   CALL            28 2 2                  var28 = var28(var29)
+		86.   MUL             27 8 28                 var27 = var8 * var28
+		87.   GETIMPORT       28 32 [aux]             var28 = CFrame["lookAt"]
+		89.   GETTABLEKS      29 27 59 [aux]          var29 = var27["Position"]
+		91.   GETTABLEKS      30 8 59 [aux]           var30 = var8["Position"]
+		93.   GETTABLEKS      31 8 17 [aux]           var31 = var8["UpVector"]
+		95.   CALL            28 4 2                  var28 = var28(var29, var30, var31)
+		96.   MOVE            27 28                   var27 = var28
+		97.   MOVE            28 27                   var28 = var27
+		98.   MOVE            29 21                   var29 = var21
+		99.   MOVE            30 15                   var30 = var15
+	end
+	var76 = ComputeCFrame
+	547.   SETGLOBAL       76 85 [aux]             ComputeCFrame = var76
+	549.   DUPCLOSURE      76 140                  
+	getRootCFrame = function(arg0)
+		local var0 = arg0
+		1.   GETIMPORT       2 1 [aux]               var2 = workspace
+		3.   GETTABLEKS      1 2 72 [aux]            var1 = var2["CurrentCamera"]
+		5.   GETTABLEKS      2 1 176 [aux]           var2 = var1["ViewportSize"]
+		7.   GETTABLEKS      6 2 121 [aux]           var6 = var2["X"]
+		9.   DIVK            5 6 4                   var5 = var6 / 2
+		10.   GETTABLEKS      7 2 120 [aux]           var7 = var2["Y"]
+		12.   DIVK            6 7 4                   var6 = var7 / 2
+		13.   LOADN           7 0                     var7 = 0
+		14.   NAMECALL        3 1 70 [aux]            
+		16.   CALL            3 5 2                   var3 = var1:ViewportPointToRay(var5, var6, var7)
+		17.   GETTABLEKS      5 3 67 [aux]            var5 = var3["Origin"]
+		19.   GETTABLEKS      8 3 97 [aux]            var8 = var3["Direction"]
+		21.   GETTABLEKS      7 8 7 [aux]             var7 = var8["Unit"]
+		23.   ORK             8 0 11                  var8 = var0 or 0.65
+		24.   MUL             6 7 8                   var6 = var7 * var8
+		25.   ADD             4 5 6                   var4 = var5 + var6
+		26.   GETIMPORT       5 14 [aux]              var5 = CFrame["lookAt"]
+		28.   MOVE            6 4                     var6 = var4
+		29.   GETTABLEKS      8 1 133 [aux]           var8 = var1["CFrame"]
+		31.   GETTABLEKS      7 8 59 [aux]            var7 = var8["Position"]
+		33.   GETTABLEKS      9 1 133 [aux]           var9 = var1["CFrame"]
+		35.   GETTABLEKS      8 9 17 [aux]            var8 = var9["UpVector"]
+		37.   CALL            5 4 2                   var5 = var5(var6, var7, var8)
+	end
+	var76 = getRootCFrame
+	550.   SETGLOBAL       76 44 [aux]             getRootCFrame = var76
+	552.   DUPCLOSURE      76 142                  
+	-- V nested upvalues[1] = var36 (Val)
+	computeSpeedMult = function()
+		1.   LOADN           0 1                     var0 = 1
+		2.   GETUPVAL        2 0                     var2 = upvalues[1]
+		3.   GETTABLEKS      1 2 82 [aux]            var1 = var2["HasPerk"]
+		5.   LOADK           2 1                     var2 = "Eggs"
+		6.   LOADK           3 2                     var3 = "FasterOpen"
+		7.   CALL            1 3 2                   var1 = var1(var2, var3)
+		8.   JUMPIFNOT       1 12                    goto #20 if not var1 then else
+		9.   LOADN           3 1                     var3 = 1
+		10.   GETUPVAL        6 0                     var6 = upvalues[1]
+		11.   GETTABLEKS      5 6 81 [aux]            var5 = var6["GetPerkPower"]
+		13.   LOADK           6 1                     var6 = "Eggs"
+		14.   LOADK           7 2                     var7 = "FasterOpen"
+		15.   CALL            5 3 2                   var5 = var5(var6, var7)
+		16.   DIVK            4 5 4                   var4 = var5 / 100
+		17.   ADD             2 3 4                   var2 = var3 + var4
+		18.   DIVRK           1 3 2                   var1 = var3 / FasterOpen
+		19.   MUL             0 0 1                   var0 = var0 * var1
+	end
+	var76 = computeSpeedMult
+	554.   SETGLOBAL       76 100 [aux]            computeSpeedMult = var76
+	556.   NEWCLOSURE      76 9                    
+	-- V nested upvalues[1] = var10 (Val)
+	-- V nested upvalues[2] = var43 (Val)
+	-- V nested upvalues[3] = var27 (Val)
+	-- V nested upvalues[4] = var9 (Val)
+	-- V nested upvalues[5] = var23 (Val)
+	-- V nested upvalues[6] = var19 (Val)
+	-- V nested upvalues[7] = var20 (Val)
+	-- V nested upvalues[8] = var75 (Val)
+	-- V nested upvalues[9] = var44 (Val)
+	-- V nested upvalues[10] = var37 (Val)
+	-- V nested upvalues[11] = var45 (Val)
+	-- V nested upvalues[12] = var21 (Val)
+	-- V nested upvalues[13] = var11 (Val)
+	-- V nested upvalues[14] = var26 (Val)
+	-- V nested upvalues[15] = var24 (Val)
+	-- V nested upvalues[16] = var4 (Val)
+	-- V nested upvalues[17] = var6 (Val)
+	-- V nested upvalues[18] = var30 (Val)
+	-- V nested upvalues[19] = var74 (Val)
+	-- V nested upvalues[20] = var12 (Val)
+	-- V nested upvalues[21] = var58 (Val)
+	-- V nested upvalues[22] = var2 (Val)
+	-- V nested upvalues[23] = var68 (Val)
+	-- V nested upvalues[24] = var47 (Val)
+	-- V nested upvalues[25] = var72 (Val)
+	-- V nested upvalues[26] = var69 (Val)
+	-- V nested upvalues[27] = var71 (Val)
+	-- V nested upvalues[28] = var-201 (Ref)
+	-- V nested upvalues[29] = var-200 (Ref)
+	-- V nested upvalues[30] = var56 (Val)
+	-- V nested upvalues[31] = var-206 (Ref)
+	-- V nested upvalues[32] = var-205 (Ref)
+	-- V nested upvalues[33] = var55 (Val)
+	-- V nested upvalues[34] = var7 (Val)
+	-- V nested upvalues[35] = var33 (Val)
+	-- V nested upvalues[36] = var59 (Val)
+	-- V nested upvalues[37] = var60 (Val)
+	-- V nested upvalues[38] = var61 (Val)
+	-- V nested upvalues[39] = var46 (Val)
+	-- V nested upvalues[40] = var73 (Val)
+	-- V nested upvalues[41] = var29 (Val)
+	-- V nested upvalues[42] = var32 (Val)
+	-- V nested upvalues[43] = var66 (Val)
+	-- V nested upvalues[44] = var62 (Val)
+	-- V nested upvalues[45] = var63 (Val)
+	-- V nested upvalues[46] = var42 (Val)
+	-- V nested upvalues[47] = var50 (Val)
+	-- V nested upvalues[48] = var39 (Val)
+	-- V nested upvalues[49] = var64 (Val)
+	-- V nested upvalues[50] = var67 (Val)
+	-- V nested upvalues[51] = var57 (Val)
+	-- V nested upvalues[52] = var65 (Val)
+	-- V nested upvalues[53] = var38 (Val)
+	var76 = function()
+		1.   LOADK           1 0                     var1 = 0.1
+		2.   GETGLOBAL       2 100 [aux]             var2 = computeSpeedMult
+		4.   CALL            2 1 2                   var2 = var2()
+		5.   MUL             0 1 2                   var0 = var1 * var2
+		6.   GETIMPORT       1 4 [aux]               var1 = os["clock"]
+		8.   CALL            1 1 2                   var1 = var1()
+		9.   GETIMPORT       2 7 [aux]               var2 = task["spawn"]
+		11.   NEWCLOSURE      3 0                     
+		-- V nested upvalues[1] = upvalues[0] (Upval)
+		-- V nested upvalues[2] = var1 (Val)
+		-- V nested upvalues[3] = var0 (Val)
+		-- V nested upvalues[4] = upvalues[1] (Upval)
+		-- V nested upvalues[5] = upvalues[2] (Upval)
+		-- V nested upvalues[6] = upvalues[3] (Upval)
+		-- V nested upvalues[7] = upvalues[4] (Upval)
+		var3 = function()
+			1.   GETUPVAL        0 0                     var0 = upvalues[1]
+			2.   GETUPVAL        1 1                     var1 = upvalues[2]
+			3.   LOADK           2 0                     var2 = 0.6
+			4.   LOADB           3 1 0                   var3 = true
+			5.   CALL            0 4 1                   var0(var1, var2, var3)
+			6.   LOADB           0 1 0                   var0 = true
+			7.   SETUPVAL        0 2                     upvalues[3] = var0
+		end
+
+		19.   CALL            2 2 1                   var2(var3)
+	end
+
+	610.   SETGLOBAL       76 83 [aux]             PlayEggAnimation = var76
+	612.   DUPCLOSURE      76 145                  
+	valueAttribute = function(arg0)
+		local var0 = arg0
+		1.   LOADN           1 0                     var1 = 0
+		2.   NAMECALL        2 0 55 [aux]            
+		4.   CALL            2 2 2                   var2 = var0:IsRainbow()
+		5.   JUMPIFNOT       2 3                     goto #8 if not var2 then else
+		6.   ADDK            1 1 1                   var1 = var1 + 2
+		7.   JUMP            6                       goto #13
+		8.   NAMECALL        2 0 176 [aux]            -- referenced by #5
+		10.   CALL            2 2 2                   var2 = var0:IsGolden()
+		11.   JUMPIFNOT       2 2                     goto #13 if not var2 then else
+		12.   ADDK            1 1 3                   var1 = var1 + 1
+		13.   NAMECALL        2 0 152 [aux]            -- referenced by #7, #11
+		15.   CALL            2 2 2                   var2 = var0:IsShiny()
+		16.   JUMPIFNOT       2 2                     goto #18 if not var2 then else
+		17.   ADDK            1 1 5                   var1 = var1 + 3
+	end
+	var76 = valueAttribute
+	613.   SETGLOBAL       76 112 [aux]            valueAttribute = var76
+	615.   DUPCLOSURE      76 147                  
+	-- V nested upvalues[1] = var24 (Val)
+	orderByProbability = function(arg0, arg1)
+		local var0 = arg0
+		local var1 = arg1
+		1.   GETUPVAL        3 0                     var3 = upvalues[1]
+		2.   GETTABLEKS      2 3 235 [aux]           var2 = var3["GetProbabilityMap"]
+		4.   MOVE            3 0                     var3 = var0
+		5.   CALL            2 2 2                   var2 = var2(var3)
+		6.   GETIMPORT       3 3 [aux]               var3 = table["sort"]
+		8.   MOVE            4 1                     var4 = var1
+		9.   NEWCLOSURE      5 0                     
+		-- V nested upvalues[1] = var2 (Val)
+		valueAttribute = function(arg0)
+			local var0 = arg0
+			1.   LOADN           1 0                     var1 = 0
+			2.   NAMECALL        2 0 55 [aux]            
+			4.   CALL            2 2 2                   var2 = var0:IsRainbow()
+			5.   JUMPIFNOT       2 3                     goto #8 if not var2 then else
+			6.   ADDK            1 1 1                   var1 = var1 + 2
+			7.   JUMP            6                       goto #13
+			8.   NAMECALL        2 0 176 [aux]            -- referenced by #5
+			10.   CALL            2 2 2                   var2 = var0:IsGolden()
+			11.   JUMPIFNOT       2 2                     goto #13 if not var2 then else
+			12.   ADDK            1 1 3                   var1 = var1 + 1
+			13.   NAMECALL        2 0 152 [aux]            -- referenced by #7, #11
+			15.   CALL            2 2 2                   var2 = var0:IsShiny()
+			16.   JUMPIFNOT       2 2                     goto #18 if not var2 then else
+			17.   ADDK            1 1 5                   var1 = var1 + 3
+		end
+		var5 = valueAttribute
+		11.   CALL            3 3 1                   var3(var4, var5)
+	end
+	var76 = orderByProbability
+	617.   SETGLOBAL       76 178 [aux]            orderByProbability = var76
+	619.   GETTABLEKS      76 34 75 [aux]          var76 = var34["Fired"]
+	621.   LOADK           77 150                  var77 = "Eggs_PlayOpenAnimation"
+	622.   CALL            76 2 2                  var76 = var76(var77)
+	623.   DUPCLOSURE      78 151                  
+	-- V nested upvalues[1] = var15 (Val)
+	-- V nested upvalues[2] = var35 (Val)
+	-- V nested upvalues[3] = var34 (Val)
+	var78 = function(arg0, arg1, arg2, arg3)
+		local var0 = arg0
+		local var1 = arg1
+		local var2 = arg2
+		local var3 = arg3
+		1.   NEWTABLE        4 0 [aux]               var4 = {}
+		3.   GETIMPORT       5 1 [aux]               var5 = pairs
+		5.   MOVE            6 1                     var6 = var1
+		6.   CALL            5 2 4                   var5, var6, var7 = var5(var6)
+		7.   FORGPREP_NEXT   5                       var8, var9 = key, value
+		8.   GETUPVAL        10 0                    var10 = upvalues[1]
+		9.   MOVE            12 9                    var12 = var9
+		10.   NAMECALL        10 10 187 [aux]         
+		12.   CALL            10 3 2                  var10 = var10:From(var12)
+		13.   MOVE            12 8                    var12 = var8
+		14.   NAMECALL        10 10 231 [aux]         
+		16.   CALL            10 3 2                  var10 = var10:SetUID(var12)
+		17.   NAMECALL        10 10 143 [aux]         
+		19.   CALL            10 2 2                  var10 = var10:Freeze()
+		20.   FASTCALL2       52 4 5 [aux]            FASTCALL[id=52](var4, var10) -- goto #5
+		22.   MOVE            12 4                    var12 = var4
+		23.   MOVE            13 10                   var13 = var10
+		24.   GETIMPORT       11 7 [aux]              var11 = table["insert"]
+		26.   CALL            11 3 1                  var11(var12, var13)
+		27.   FORGLOOP        5 -20 [aux]             forgloop - iterate + goto #29
+		29.   GETIMPORT       5 9 [aux]               var5 = ipairs
+		31.   MOVE            6 4                     var6 = var4
+		32.   CALL            5 2 4                   var5, var6, var7 = var5(var6)
+		33.   FORGPREP_INEXT  5                       var8, var9 = key, value
+		34.   GETUPVAL        11 1                    var11 = upvalues[2]
+		35.   GETTABLEKS      10 11 204 [aux]         var10 = var11["SetGloballyHidden"]
+		37.   MOVE            11 9                    var11 = var9
+		38.   LOADB           12 1 0                  var12 = true
+		39.   CALL            10 3 1                  var10(var11, var12)
+		40.   FORGLOOP        5 -7 [aux]              forgloop - iterate + goto #2147483690
+		42.   NEWTABLE        5 0 [aux]               var5 = {}
+		44.   NEWTABLE        6 0 [aux]               var6 = {}
+		46.   NEWTABLE        7 0 [aux]               var7 = {}
+		48.   NEWTABLE        8 0 [aux]               var8 = {}
+		50.   NEWTABLE        9 0 [aux]               var9 = {}
+		52.   NEWTABLE        10 0 [aux]              var10 = {}
+		54.   GETIMPORT       11 9 [aux]              var11 = ipairs
+		56.   MOVE            12 4                    var12 = var4
+		57.   CALL            11 2 4                  var11, var12, var13 = var11(var12)
+		58.   FORGPREP_INEXT  11                      var14, var15 = key, value
+		59.   NAMECALL        17 15 145 [aux]         
+		61.   CALL            17 2 2                  var17 = var15:Directory()
+		62.   GETTABLEKS      16 17 87 [aux]          var16 = var17["huge"]
+		64.   JUMPIF          16 7                    goto #71 if var16 then else
+		65.   NAMECALL        17 15 145 [aux]         
+		67.   CALL            17 2 2                  var17 = var15:Directory()
+		68.   GETTABLEKS      16 17 145 [aux]         var16 = var17["titanic"]
+		70.   JUMPIFNOT       16 33                   goto #103 if not var16 then else
+		71.   FASTCALL2       52 10 5 [aux]           FASTCALL[id=52](var10, var15) -- goto #5 -- referenced by #64
+		73.   MOVE            17 10                   var17 = var10
+		74.   MOVE            18 15                   var18 = var15
+		75.   GETIMPORT       16 7 [aux]              var16 = table["insert"]
+		77.   CALL            16 3 1                  var16(var17, var18)
+		78.   NAMECALL        17 15 204 [aux]         
+		80.   CALL            17 2 2                  var17 = var15:StackKey()
+		81.   GETTABLE        16 9 17                 var16 = var9[var17]
+		82.   JUMPIF          16 11                   goto #93 if var16 then else
+		83.   NAMECALL        16 15 204 [aux]         
+		85.   CALL            16 2 2                  var16 = var15:StackKey()
+		86.   DUPTABLE        17 17                   var17 = { "Pet", "Amount"}
+		87.   SETTABLEKS      15 17 118 [aux]         var17["Pet"] = var15
+		89.   LOADN           18 0                    var18 = 0
+		90.   SETTABLEKS      18 17 43 [aux]          var17["Amount"] = var18
+		92.   SETTABLE        17 9 16                 var9[var16] = var17
+		93.   NAMECALL        17 15 204 [aux]          -- referenced by #82
+		95.   CALL            17 2 2                  var17 = var15:StackKey()
+		96.   GETTABLE        16 9 17                 var16 = var9[var17]
+		97.   GETTABLEKS      17 16 43 [aux]          var17 = var16["Amount"]
+		99.   ADDK            17 17 18                var17 = var17 + 1
+		100.   SETTABLEKS      17 16 43 [aux]          var16["Amount"] = var17
+		102.   JUMP            42                      goto #144
+		103.   NAMECALL        16 15 58 [aux]           -- referenced by #70
+		105.   CALL            16 2 2                  var16 = var15:Clone()
+		106.   LOADN           18 1                    var18 = 1
+		107.   NAMECALL        16 16 118 [aux]         
+		109.   CALL            16 3 2                  var16 = var16:SetAmount(var18)
+		110.   FASTCALL2       52 5 5 [aux]            FASTCALL[id=52](var5, var16) -- goto #5
+		112.   MOVE            18 5                    var18 = var5
+		113.   MOVE            19 16                   var19 = var16
+		114.   GETIMPORT       17 7 [aux]              var17 = table["insert"]
+		116.   CALL            17 3 1                  var17(var18, var19)
+		117.   NAMECALL        18 15 204 [aux]         
+		119.   CALL            18 2 2                  var18 = var15:StackKey()
+		120.   GETTABLE        17 7 18                 var17 = var7[var18]
+		121.   JUMPIF          17 9                    goto #130 if var17 then else
+		122.   NAMECALL        17 15 204 [aux]         
+		124.   CALL            17 2 2                  var17 = var15:StackKey()
+		125.   NAMECALL        18 15 58 [aux]          
+		127.   CALL            18 2 2                  var18 = var15:Clone()
+		128.   SETTABLE        18 7 17                 var7[var17] = var18
+		129.   JUMP            15                      goto #144
+		130.   NAMECALL        18 15 204 [aux]          -- referenced by #121
+		132.   CALL            18 2 2                  var18 = var15:StackKey()
+		133.   GETTABLE        17 7 18                 var17 = var7[var18]
+		134.   NAMECALL        21 17 2 [aux]           
+		136.   CALL            21 2 2                  var21 = var17:GetAmount()
+		137.   NAMECALL        22 15 2 [aux]           
+		139.   CALL            22 2 2                  var22 = var15:GetAmount()
+		140.   ADD             20 21 22                var20 = var21 + var22
+		141.   NAMECALL        18 17 118 [aux]         
+		143.   CALL            18 3 1                  var17:SetAmount(var20)
+		144.   FORGLOOP        11 -86 [aux]            forgloop - iterate + goto #2147483794 -- referenced by #102, #129
+		146.   GETIMPORT       11 1 [aux]              var11 = pairs
+		148.   MOVE            12 7                    var12 = var7
+		149.   CALL            11 2 4                  var11, var12, var13 = var11(var12)
+		150.   FORGPREP_NEXT   11                      var14, var15 = key, value
+		151.   FASTCALL2       52 6 5 [aux]            FASTCALL[id=52](var6, var15) -- goto #5
+		153.   MOVE            17 6                    var17 = var6
+		154.   MOVE            18 15                   var18 = var15
+		155.   GETIMPORT       16 7 [aux]              var16 = table["insert"]
+		157.   CALL            16 3 1                  var16(var17, var18)
+		158.   FORGLOOP        11 -8 [aux]             forgloop - iterate + goto #160
+		160.   GETGLOBAL       11 178 [aux]            var11 = orderByProbability
+		162.   MOVE            12 0                    var12 = var0
+		163.   MOVE            13 6                    var13 = var6
+		164.   CALL            11 3 2                  var11 = var11(var12, var13)
+		165.   MOVE            6 11                    var6 = var11
+		166.   GETIMPORT       11 1 [aux]              var11 = pairs
+		168.   MOVE            12 4                    var12 = var4
+		169.   CALL            11 2 4                  var11, var12, var13 = var11(var12)
+		170.   FORGPREP_NEXT   11                      var14, var15 = key, value
+		171.   NAMECALL        17 15 145 [aux]         
+		173.   CALL            17 2 2                  var17 = var15:Directory()
+		174.   GETTABLEKS      16 17 87 [aux]          var16 = var17["huge"]
+		176.   JUMPIF          16 29                   goto #205 if var16 then else
+		177.   NAMECALL        17 15 145 [aux]         
+		179.   CALL            17 2 2                  var17 = var15:Directory()
+		180.   GETTABLEKS      16 17 145 [aux]         var16 = var17["titanic"]
+		182.   JUMPIF          16 23                   goto #205 if var16 then else
+		183.   LOADN           16 1                    var16 = 1
+		184.   GETIMPORT       17 9 [aux]              var17 = ipairs
+		186.   MOVE            18 6                    var18 = var6
+		187.   CALL            17 2 4                  var17, var18, var19 = var17(var18)
+		188.   FORGPREP_INEXT  17                      var20, var21 = key, value
+		189.   NAMECALL        22 21 204 [aux]         
+		191.   CALL            22 2 2                  var22 = var21:StackKey()
+		192.   NAMECALL        23 15 204 [aux]         
+		194.   CALL            23 2 2                  var23 = var15:StackKey()
+		195.   JUMPIFNOTEQ     22 4 [aux]              goto #199 if var22 ~= var23 then else
+		197.   MOVE            16 20                   var16 = var20
+		198.   JUMP            3                       goto #201
+		199.   FORGLOOP        17 -11 [aux]            forgloop - iterate + goto #2147483849 -- referenced by #195
+		201.   NAMECALL        17 15 204 [aux]          -- referenced by #198
+		203.   CALL            17 2 2                  var17 = var15:StackKey()
+		204.   SETTABLE        16 8 17                 var8[var17] = var16
+		205.   FORGLOOP        11 -35 [aux]            forgloop - iterate + goto #207 -- referenced by #176, #182
+		207.   GETGLOBAL       11 178 [aux]            var11 = orderByProbability
+		209.   MOVE            12 0                    var12 = var0
+		210.   MOVE            13 6                    var13 = var6
+		211.   CALL            11 3 2                  var11 = var11(var12, var13)
+		212.   MOVE            6 11                    var6 = var11
+		213.   GETGLOBAL       11 178 [aux]            var11 = orderByProbability
+		215.   MOVE            12 0                    var12 = var0
+		216.   MOVE            13 5                    var13 = var5
+		217.   CALL            11 3 2                  var11 = var11(var12, var13)
+		218.   MOVE            5 11                    var5 = var11
+		219.   GETGLOBAL       11 83 [aux]             var11 = PlayEggAnimation
+		221.   MOVE            12 0                    var12 = var0
+		222.   MOVE            13 10                   var13 = var10
+		223.   MOVE            14 5                    var14 = var5
+		224.   MOVE            15 6                    var15 = var6
+		225.   MOVE            16 8                    var16 = var8
+		226.   MOVE            17 2                    var17 = var2
+		227.   MOVE            18 3                    var18 = var3
+		228.   CALL            11 8 1                  var11(var12, var13, var14, var15, var16, var17, var18)
+		229.   GETIMPORT       11 9 [aux]              var11 = ipairs
+		231.   MOVE            12 4                    var12 = var4
+		232.   CALL            11 2 4                  var11, var12, var13 = var11(var12)
+		233.   FORGPREP_INEXT  11                      var14, var15 = key, value
+		234.   GETUPVAL        17 1                    var17 = upvalues[2]
+		235.   GETTABLEKS      16 17 204 [aux]         var16 = var17["SetGloballyHidden"]
+		237.   MOVE            17 15                   var17 = var15
+		238.   LOADB           18 0 0                  var18 = false
+		239.   CALL            16 3 1                  var16(var17, var18)
+		240.   FORGLOOP        11 -7 [aux]             forgloop - iterate + goto #2147483890
+		242.   NEWTABLE        11 0 [aux]              var11 = {}
+		244.   GETIMPORT       12 9 [aux]              var12 = ipairs
+		246.   MOVE            13 4                    var13 = var4
+		247.   CALL            12 2 4                  var12, var13, var14 = var12(var13)
+		248.   FORGPREP_INEXT  12                      var15, var16 = key, value
+		249.   MOVE            18 11                   var18 = var11
+		250.   NAMECALL        19 16 243 [aux]         
+		252.   CALL            19 2 0                  var19, ... = var16:GetUID()
+		253.   FASTCALL        52 2                    FASTCALL[id=52]() -- goto #2
+		254.   GETIMPORT       17 7 [aux]              var17 = table["insert"]
+		256.   CALL            17 0 1                  var17(var18, ...)
+		257.   FORGLOOP        12 -9 [aux]             forgloop - iterate + goto #2147483907
+		259.   GETUPVAL        13 2                    var13 = upvalues[3]
+		260.   GETTABLEKS      12 13 221 [aux]         var12 = var13["Fire"]
+		262.   LOADK           13 26                   var13 = "Pets_ClearHidden"
+		263.   MOVE            14 11                   var14 = var11
+		264.   CALL            12 3 1                  var12(var13, var14)
+	end
+
+	627.   NAMECALL        76 76 199 [aux]         
+	629.   CALL            76 3 1                  var76:Connect(var78)
+	630.   GETTABLEKS      76 1 130 [aux]          var76 = var1["InputBegan"]
+	632.   NEWCLOSURE      78 13                   
+	-- V nested upvalues[1] = var-206 (Ref)
+	var78 = function(arg0, arg1, arg2, arg3)
+		local var0 = arg0
+		local var1 = arg1
+		local var2 = arg2
+		local var3 = arg3
+		1.   NEWTABLE        4 0 [aux]               var4 = {}
+		3.   GETIMPORT       5 1 [aux]               var5 = pairs
+		5.   MOVE            6 1                     var6 = var1
+		6.   CALL            5 2 4                   var5, var6, var7 = var5(var6)
+		7.   FORGPREP_NEXT   5                       var8, var9 = key, value
+		8.   GETUPVAL        10 0                    var10 = upvalues[1]
+		9.   MOVE            12 9                    var12 = var9
+		10.   NAMECALL        10 10 187 [aux]         
+		12.   CALL            10 3 2                  var10 = var10:From(var12)
+		13.   MOVE            12 8                    var12 = var8
+		14.   NAMECALL        10 10 231 [aux]         
+		16.   CALL            10 3 2                  var10 = var10:SetUID(var12)
+		17.   NAMECALL        10 10 143 [aux]         
+		19.   CALL            10 2 2                  var10 = var10:Freeze()
+		20.   FASTCALL2       52 4 5 [aux]            FASTCALL[id=52](var4, var10) -- goto #5
+		22.   MOVE            12 4                    var12 = var4
+		23.   MOVE            13 10                   var13 = var10
+		24.   GETIMPORT       11 7 [aux]              var11 = table["insert"]
+		26.   CALL            11 3 1                  var11(var12, var13)
+		27.   FORGLOOP        5 -20 [aux]             forgloop - iterate + goto #29
+		29.   GETIMPORT       5 9 [aux]               var5 = ipairs
+		31.   MOVE            6 4                     var6 = var4
+		32.   CALL            5 2 4                   var5, var6, var7 = var5(var6)
+		33.   FORGPREP_INEXT  5                       var8, var9 = key, value
+		34.   GETUPVAL        11 1                    var11 = upvalues[2]
+		35.   GETTABLEKS      10 11 204 [aux]         var10 = var11["SetGloballyHidden"]
+		37.   MOVE            11 9                    var11 = var9
+		38.   LOADB           12 1 0                  var12 = true
+		39.   CALL            10 3 1                  var10(var11, var12)
+		40.   FORGLOOP        5 -7 [aux]              forgloop - iterate + goto #2147483690
+		42.   NEWTABLE        5 0 [aux]               var5 = {}
+		44.   NEWTABLE        6 0 [aux]               var6 = {}
+		46.   NEWTABLE        7 0 [aux]               var7 = {}
+		48.   NEWTABLE        8 0 [aux]               var8 = {}
+		50.   NEWTABLE        9 0 [aux]               var9 = {}
+		52.   NEWTABLE        10 0 [aux]              var10 = {}
+		54.   GETIMPORT       11 9 [aux]              var11 = ipairs
+		56.   MOVE            12 4                    var12 = var4
+		57.   CALL            11 2 4                  var11, var12, var13 = var11(var12)
+		58.   FORGPREP_INEXT  11                      var14, var15 = key, value
+		59.   NAMECALL        17 15 145 [aux]         
+		61.   CALL            17 2 2                  var17 = var15:Directory()
+		62.   GETTABLEKS      16 17 87 [aux]          var16 = var17["huge"]
+		64.   JUMPIF          16 7                    goto #71 if var16 then else
+		65.   NAMECALL        17 15 145 [aux]         
+		67.   CALL            17 2 2                  var17 = var15:Directory()
+		68.   GETTABLEKS      16 17 145 [aux]         var16 = var17["titanic"]
+		70.   JUMPIFNOT       16 33                   goto #103 if not var16 then else
+		71.   FASTCALL2       52 10 5 [aux]           FASTCALL[id=52](var10, var15) -- goto #5 -- referenced by #64
+		73.   MOVE            17 10                   var17 = var10
+		74.   MOVE            18 15                   var18 = var15
+		75.   GETIMPORT       16 7 [aux]              var16 = table["insert"]
+		77.   CALL            16 3 1                  var16(var17, var18)
+		78.   NAMECALL        17 15 204 [aux]         
+		80.   CALL            17 2 2                  var17 = var15:StackKey()
+		81.   GETTABLE        16 9 17                 var16 = var9[var17]
+		82.   JUMPIF          16 11                   goto #93 if var16 then else
+		83.   NAMECALL        16 15 204 [aux]         
+		85.   CALL            16 2 2                  var16 = var15:StackKey()
+		86.   DUPTABLE        17 17                   var17 = { "Pet", "Amount"}
+		87.   SETTABLEKS      15 17 118 [aux]         var17["Pet"] = var15
+		89.   LOADN           18 0                    var18 = 0
+		90.   SETTABLEKS      18 17 43 [aux]          var17["Amount"] = var18
+		92.   SETTABLE        17 9 16                 var9[var16] = var17
+		93.   NAMECALL        17 15 204 [aux]          -- referenced by #82
+		95.   CALL            17 2 2                  var17 = var15:StackKey()
+		96.   GETTABLE        16 9 17                 var16 = var9[var17]
+		97.   GETTABLEKS      17 16 43 [aux]          var17 = var16["Amount"]
+		99.   ADDK            17 17 18                var17 = var17 + 1
+		100.   SETTABLEKS      17 16 43 [aux]          var16["Amount"] = var17
+		102.   JUMP            42                      goto #144
+		103.   NAMECALL        16 15 58 [aux]           -- referenced by #70
+		105.   CALL            16 2 2                  var16 = var15:Clone()
+		106.   LOADN           18 1                    var18 = 1
+		107.   NAMECALL        16 16 118 [aux]         
+		109.   CALL            16 3 2                  var16 = var16:SetAmount(var18)
+		110.   FASTCALL2       52 5 5 [aux]            FASTCALL[id=52](var5, var16) -- goto #5
+		112.   MOVE            18 5                    var18 = var5
+		113.   MOVE            19 16                   var19 = var16
+		114.   GETIMPORT       17 7 [aux]              var17 = table["insert"]
+		116.   CALL            17 3 1                  var17(var18, var19)
+		117.   NAMECALL        18 15 204 [aux]         
+		119.   CALL            18 2 2                  var18 = var15:StackKey()
+		120.   GETTABLE        17 7 18                 var17 = var7[var18]
+		121.   JUMPIF          17 9                    goto #130 if var17 then else
+		122.   NAMECALL        17 15 204 [aux]         
+		124.   CALL            17 2 2                  var17 = var15:StackKey()
+		125.   NAMECALL        18 15 58 [aux]          
+		127.   CALL            18 2 2                  var18 = var15:Clone()
+		128.   SETTABLE        18 7 17                 var7[var17] = var18
+		129.   JUMP            15                      goto #144
+		130.   NAMECALL        18 15 204 [aux]          -- referenced by #121
+		132.   CALL            18 2 2                  var18 = var15:StackKey()
+		133.   GETTABLE        17 7 18                 var17 = var7[var18]
+		134.   NAMECALL        21 17 2 [aux]           
+		136.   CALL            21 2 2                  var21 = var17:GetAmount()
+		137.   NAMECALL        22 15 2 [aux]           
+		139.   CALL            22 2 2                  var22 = var15:GetAmount()
+		140.   ADD             20 21 22                var20 = var21 + var22
+		141.   NAMECALL        18 17 118 [aux]         
+		143.   CALL            18 3 1                  var17:SetAmount(var20)
+		144.   FORGLOOP        11 -86 [aux]            forgloop - iterate + goto #2147483794 -- referenced by #102, #129
+		146.   GETIMPORT       11 1 [aux]              var11 = pairs
+		148.   MOVE            12 7                    var12 = var7
+		149.   CALL            11 2 4                  var11, var12, var13 = var11(var12)
+		150.   FORGPREP_NEXT   11                      var14, var15 = key, value
+		151.   FASTCALL2       52 6 5 [aux]            FASTCALL[id=52](var6, var15) -- goto #5
+		153.   MOVE            17 6                    var17 = var6
+		154.   MOVE            18 15                   var18 = var15
+		155.   GETIMPORT       16 7 [aux]              var16 = table["insert"]
+		157.   CALL            16 3 1                  var16(var17, var18)
+		158.   FORGLOOP        11 -8 [aux]             forgloop - iterate + goto #160
+		160.   GETGLOBAL       11 178 [aux]            var11 = orderByProbability
+		162.   MOVE            12 0                    var12 = var0
+		163.   MOVE            13 6                    var13 = var6
+		164.   CALL            11 3 2                  var11 = var11(var12, var13)
+		165.   MOVE            6 11                    var6 = var11
+		166.   GETIMPORT       11 1 [aux]              var11 = pairs
+		168.   MOVE            12 4                    var12 = var4
+		169.   CALL            11 2 4                  var11, var12, var13 = var11(var12)
+		170.   FORGPREP_NEXT   11                      var14, var15 = key, value
+		171.   NAMECALL        17 15 145 [aux]         
+		173.   CALL            17 2 2                  var17 = var15:Directory()
+		174.   GETTABLEKS      16 17 87 [aux]          var16 = var17["huge"]
+		176.   JUMPIF          16 29                   goto #205 if var16 then else
+		177.   NAMECALL        17 15 145 [aux]         
+		179.   CALL            17 2 2                  var17 = var15:Directory()
+		180.   GETTABLEKS      16 17 145 [aux]         var16 = var17["titanic"]
+		182.   JUMPIF          16 23                   goto #205 if var16 then else
+		183.   LOADN           16 1                    var16 = 1
+		184.   GETIMPORT       17 9 [aux]              var17 = ipairs
+		186.   MOVE            18 6                    var18 = var6
+		187.   CALL            17 2 4                  var17, var18, var19 = var17(var18)
+		188.   FORGPREP_INEXT  17                      var20, var21 = key, value
+		189.   NAMECALL        22 21 204 [aux]         
+		191.   CALL            22 2 2                  var22 = var21:StackKey()
+		192.   NAMECALL        23 15 204 [aux]         
+		194.   CALL            23 2 2                  var23 = var15:StackKey()
+		195.   JUMPIFNOTEQ     22 4 [aux]              goto #199 if var22 ~= var23 then else
+		197.   MOVE            16 20                   var16 = var20
+		198.   JUMP            3                       goto #201
+		199.   FORGLOOP        17 -11 [aux]            forgloop - iterate + goto #2147483849 -- referenced by #195
+		201.   NAMECALL        17 15 204 [aux]          -- referenced by #198
+		203.   CALL            17 2 2                  var17 = var15:StackKey()
+		204.   SETTABLE        16 8 17                 var8[var17] = var16
+		205.   FORGLOOP        11 -35 [aux]            forgloop - iterate + goto #207 -- referenced by #176, #182
+		207.   GETGLOBAL       11 178 [aux]            var11 = orderByProbability
+		209.   MOVE            12 0                    var12 = var0
+		210.   MOVE            13 6                    var13 = var6
+		211.   CALL            11 3 2                  var11 = var11(var12, var13)
+		212.   MOVE            6 11                    var6 = var11
+		213.   GETGLOBAL       11 178 [aux]            var11 = orderByProbability
+		215.   MOVE            12 0                    var12 = var0
+		216.   MOVE            13 5                    var13 = var5
+		217.   CALL            11 3 2                  var11 = var11(var12, var13)
+		218.   MOVE            5 11                    var5 = var11
+		219.   GETGLOBAL       11 83 [aux]             var11 = PlayEggAnimation
+		221.   MOVE            12 0                    var12 = var0
+		222.   MOVE            13 10                   var13 = var10
+		223.   MOVE            14 5                    var14 = var5
+		224.   MOVE            15 6                    var15 = var6
+		225.   MOVE            16 8                    var16 = var8
+		226.   MOVE            17 2                    var17 = var2
+		227.   MOVE            18 3                    var18 = var3
+		228.   CALL            11 8 1                  var11(var12, var13, var14, var15, var16, var17, var18)
+		229.   GETIMPORT       11 9 [aux]              var11 = ipairs
+		231.   MOVE            12 4                    var12 = var4
+		232.   CALL            11 2 4                  var11, var12, var13 = var11(var12)
+		233.   FORGPREP_INEXT  11                      var14, var15 = key, value
+		234.   GETUPVAL        17 1                    var17 = upvalues[2]
+		235.   GETTABLEKS      16 17 204 [aux]         var16 = var17["SetGloballyHidden"]
+		237.   MOVE            17 15                   var17 = var15
+		238.   LOADB           18 0 0                  var18 = false
+		239.   CALL            16 3 1                  var16(var17, var18)
+		240.   FORGLOOP        11 -7 [aux]             forgloop - iterate + goto #2147483890
+		242.   NEWTABLE        11 0 [aux]              var11 = {}
+		244.   GETIMPORT       12 9 [aux]              var12 = ipairs
+		246.   MOVE            13 4                    var13 = var4
+		247.   CALL            12 2 4                  var12, var13, var14 = var12(var13)
+		248.   FORGPREP_INEXT  12                      var15, var16 = key, value
+		249.   MOVE            18 11                   var18 = var11
+		250.   NAMECALL        19 16 243 [aux]         
+		252.   CALL            19 2 0                  var19, ... = var16:GetUID()
+		253.   FASTCALL        52 2                    FASTCALL[id=52]() -- goto #2
+		254.   GETIMPORT       17 7 [aux]              var17 = table["insert"]
+		256.   CALL            17 0 1                  var17(var18, ...)
+		257.   FORGLOOP        12 -9 [aux]             forgloop - iterate + goto #2147483907
+		259.   GETUPVAL        13 2                    var13 = upvalues[3]
+		260.   GETTABLEKS      12 13 221 [aux]         var12 = var13["Fire"]
+		262.   LOADK           13 26                   var13 = "Pets_ClearHidden"
+		263.   MOVE            14 11                   var14 = var11
+		264.   CALL            12 3 1                  var12(var13, var14)
+	end
+
+	634.   NAMECALL        76 76 199 [aux]         
+	636.   CALL            76 3 1                  var76:Connect(var78)
+	637.   GETTABLEKS      76 51 205 [aux]         var76 = var51["Button1Down"]
+	639.   NEWCLOSURE      78 14                   
+	-- V nested upvalues[1] = var-205 (Ref)
+	var78 = function(arg0)
+		local var0 = arg0
+		1.   GETTABLEKS      1 0 179 [aux]           var1 = var0["KeyCode"]
+		3.   GETIMPORT       2 3 [aux]               var2 = Enum["KeyCode"]["ButtonA"]
+		5.   JUMPIFEQ        1 8 [aux]               goto #13 if var1 == var2 then else
+		7.   GETTABLEKS      1 0 179 [aux]           var1 = var0["KeyCode"]
+		9.   GETIMPORT       2 5 [aux]               var2 = Enum["KeyCode"]["ButtonX"]
+		11.   JUMPIFNOTEQ     1 4 [aux]               goto #15 if var1 ~= var2 then else
+		13.   LOADB           1 1 0                   var1 = true -- referenced by #5
+		14.   SETUPVAL        1 0                     upvalues[1] = var1
+	end
+
+	641.   NAMECALL        76 76 199 [aux]         
+	643.   CALL            76 3 1                  var76:Connect(var78)
+	644.   CLOSEUPVALS     48                      closeupvalues[48]
+end
