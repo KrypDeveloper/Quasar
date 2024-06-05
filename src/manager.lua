@@ -6,7 +6,8 @@ local links = {
   bear = "https://raw.githubusercontent.com/KrypDeveloper/Quasar/main/src/Scripts/Quasar%20Hub%20BEAR%20ALPHA.lua",
   HomeAlone = "https://raw.githubusercontent.com/KrypDeveloper/Quasar/main/src/Scripts/Quasar%20Hub%20Home%20Alone.lua",
   BloxFruits = "https://raw.githubusercontent.com/KrypDeveloper/Quasar/main/src/Scripts/Quasar%20Hub%20Blox%20Fruits.lua",
-  Benverse = "https://raw.githubusercontent.com/KrypDeveloper/Quasar/main/src/Scripts/Quasar%20Hub%20Benverse.lua"
+  Benverse = "https://raw.githubusercontent.com/KrypDeveloper/Quasar/main/src/Scripts/Quasar%20Hub%20Benverse.lua",
+  Ghoul = "https://raw.githubusercontent.com/KrypDeveloper/Quasar/main/src/Scripts/Quasar%20Hub%20Ghoul.lua"
 }
 
 local utility = {
@@ -37,7 +38,8 @@ local utility = {
   [2753915549] = links.BloxFruits,
   [4442272183] = links.BloxFruits,
   [7449423635] = links.BloxFruits,
-  [16389724472] = links.Benverse
+  [16389724472] = links.Benverse,
+  [7622046644] = links.Ghoul
 }
 local function verify()
   for id, script in pairs(utility) do
