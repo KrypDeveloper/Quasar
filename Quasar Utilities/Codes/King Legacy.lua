@@ -1,0 +1,11 @@
+return {
+  "WELCOMETOKINGLEGACY",
+  "OWNERMETEOR",
+  "PLAYKINGLEGACYFOR10GEMS",
+  "FREESTATSRESET",
+  "DOUGHAWAKENING",
+  "DinoxLive",
+  "Peodiz10k",
+  "2MFAV",
+  "Peodiz"
+}
