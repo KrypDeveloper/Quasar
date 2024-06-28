@@ -43,7 +43,8 @@ local utility = {
   [16389724472] = links.Benverse,
   [7622046644] = links.Ghoul,
   [16345284049] = links.OmniAdventure,
-  [1730877806] = links.GPO
+  [1730877806] = links.GPO,
+  [3978370137] = links.GPO
 }
 local function verify()
   for id, script in pairs(utility) do
