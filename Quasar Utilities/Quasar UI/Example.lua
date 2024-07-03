@@ -1,4 +1,4 @@
-local RiotLib = loadstring(game:HttpGet(""))()
+local RiotLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/KrypDeveloper/Quasar/main/Quasar%20Utilities/Quasar%20UI/src.lua"))()
 
 local Window = RiotLib:MakeWindow({
     Title = "Test"
