@@ -43,6 +43,9 @@ function Module:MakeWindow(Properties)
 	MainScript.BorderSizePixel = 0
 	MainScript.Position = UDim2.new(0.299440473, 0, 0.322732627, 0)
 	MainScript.Size = UDim2.new(0, 580, 0, 460)
+	MainScript.Draggable = true
+	MainScript.Selectable = true
+	MainScript.Active = true
 
 	UICorner.Parent = MainScript
 
@@ -63,11 +66,7 @@ function Module:MakeWindow(Properties)
 
 	UICorner_2.Parent = Title
 
-	UIGradient.Color =
-		ColorSequence.new {
-			ColorSequenceKeypoint.new(0.00, Color3.fromRGB(230, 230, 230)),
-			ColorSequenceKeypoint.new(1.00, Color3.fromRGB(230, 230, 230))
-		}
+	UIGradient.Color = ColorSequence.new {ColorSequenceKeypoint.new(0.00, Color3.fromRGB(230, 230, 230)),ColorSequenceKeypoint.new(1.00, Color3.fromRGB(230, 230, 230))}
 	UIGradient.Offset = Vector2.new(15, 15)
 	UIGradient.Parent = Title
 
@@ -78,7 +77,7 @@ function Module:MakeWindow(Properties)
 	TextLabel.BorderSizePixel = 0
 	TextLabel.Position = UDim2.new(0.327586204, 0, 0, 0)
 	TextLabel.Size = UDim2.new(0, 200, 0, 50)
-	TextLabel.Font = Enum.Font.Unknown
+	TextLabel.Font = Enum.Font.IndieFlower
 	TextLabel.Text = Properties.Title
 	TextLabel.TextColor3 = Color3.fromRGB(0, 0, 0)
 	TextLabel.TextSize = 25.000
