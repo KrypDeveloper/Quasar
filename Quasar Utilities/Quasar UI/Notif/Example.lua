@@ -1,4 +1,4 @@
-local Notif = loadstring(game:HttpGet("https://raw.githubusercontent.com/KrypDeveloper/Quasar/main/Quasar%20Utilities/Quasar%20UI/Notif/notif.lua))()
+local Notif = loadstring(game:HttpGet("https://raw.githubusercontent.com/KrypDeveloper/Quasar/main/Quasar%20Utilities/Quasar%20UI/Notif/notif.lua"))()
 
 Notif:CreateNotification({Title = 'Notification Title', Content = 'Hey there! Thank you for using this script!', Length = 5, Buttons = {
 	[1] = {
