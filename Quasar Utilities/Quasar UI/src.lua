@@ -130,6 +130,9 @@ function Module:MakeWindow(Properties)
 		button.Image = Properties.Image
 		button.Size = UDim2.new(0,30,0,30)
 		button.Postion = UDim2.new(0,250,0,250)
+		button.Draggable = true
+		button.Selectable = true
+		button.Active = true
 		Instance.new("UICorner",button)
 		button.MouseButton1Click:Connect(function()
 			MainScript.Visible = not MainScript.Visible
@@ -150,7 +153,7 @@ function Module:MakeWindow(Properties)
 			ButtonExample.Text = Tab.Name
 			ButtonExample.TextColor3 = Color3.fromRGB(240, 240, 240)
 			ButtonExample.TextSize = 20.000
-			if Tab.Icon then
+			if Tab.Icon and Tab.Icon ~= nil and Tab.Icon ~= "" then
 			    ButtonExample.TextXAlignment = Enum.TextXAlignment.Right
 			else
 			    ButtonExample.TextXAlignment = Enum.TextXAlignment.Center
