@@ -150,7 +150,11 @@ function Module:MakeWindow(Properties)
 			ButtonExample.Text = Tab.Name
 			ButtonExample.TextColor3 = Color3.fromRGB(240, 240, 240)
 			ButtonExample.TextSize = 20.000
-			ButtonExample.TextXAlignment = Enum.TextXAlignment.Right
+			if Tab.Icon then
+			    ButtonExample.TextXAlignment = Enum.TextXAlignment.Right
+			else
+			    ButtonExample.TextXAlignment = Enum.TextXAlignment.Center
+			end
 			ButtonExample.Position = UDim2.new(0, 0, 0, GetNumber(Selection, 53))
 			if Tab.Icon and Tab.Icon ~= "" then
 				local icon = Instance.new("ImageLabel")
