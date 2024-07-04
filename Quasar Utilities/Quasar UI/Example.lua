@@ -4,6 +4,10 @@ local Window = RiotLib:MakeWindow({
     Title = "Test"
 })
 
+local FloatIcon = Window:FloatIcon({
+    Icon = "rbxassetid://2817046761"
+})
+
 local Tabs = {
     Main = Window:AddTab({Name = "Tab 1", Icon = ""})
 }
