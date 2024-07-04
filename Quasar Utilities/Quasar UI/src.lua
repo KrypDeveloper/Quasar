@@ -126,7 +126,7 @@ function Module:MakeWindow(Properties)
 
 	function Window:FloatIcon(Properties)
 		local button = Instance.new("ImageButton")
-		local button.Parent = gethui()
+		button.Parent = gethui()
 		button.Image = Properties.Image
 		button.Size = UDim2.new(0,30,0,30)
 		button.Postion = UDim2.new(0,250,0,250)
