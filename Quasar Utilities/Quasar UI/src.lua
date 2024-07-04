@@ -5,11 +5,13 @@ local DebugMode = false
 local function GetNumber(Instance, number)
 	local tabnumber = -number
 	for _, v in pairs(Instance:GetChildren()) do
-		if v:IsA("TextButton") or v:IsA("TextLabel") or v:IsA("Frame") then
+		if v:IsA("TextButton") or v:IsA("TextLabel") then
 			tabnumber = tabnumber + number
 			if DebugMode then
 				print("Tab Number = " .. tabnumber)
 			end
+		elseif v.Name == "Dropdown" then
+			tabnumber = tabnumber + number + 156
 		end
 	end
 	return tabnumber
@@ -325,7 +327,7 @@ function Module:MakeWindow(Properties)
 			function Tab:AddDropdown(Settings)
 				local Selected = nil
 				local DropdownExample = Instance.new("TextButton")
-				DropdownExample.Name = "DropdownExample"
+				DropdownExample.Name = "Dropdown"
 				DropdownExample.Parent = ScrollingFrame
 				DropdownExample.BackgroundColor3 = Color3.fromRGB(30, 30, 39)
 				DropdownExample.BorderColor3 = Color3.fromRGB(255, 255, 255)
