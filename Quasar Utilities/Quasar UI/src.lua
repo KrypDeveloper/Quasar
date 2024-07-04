@@ -123,6 +123,19 @@ function Module:MakeWindow(Properties)
 			MainScript.Visible = not MainScript.Visible
 		end
 	end)
+
+	function Window:FloatIcon(Properties)
+		local button = Instance.new("ImageButton")
+		local button.Parent = gethui
+		button.Image = Properties.Image
+		button.Size = UDim2.new(0,30,0,30)
+		button.Postion = UDim2.new(0,250,0,250)
+		button.MouseButton1Click:Connect(function()
+			MainScript.Visible = not MainScript.Visible
+		end)
+		return button
+	end
+	
 	function Window:AddTab(Tab)
 		if not TABS:FindFirstChild(Tab.Name) then
 			local ButtonExample = Instance.new("TextButton")
