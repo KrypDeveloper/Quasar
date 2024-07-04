@@ -5,7 +5,8 @@ local Window = RiotLib:MakeWindow({
 })
 
 local FloatIcon = Window:FloatIcon({
-    Image = "rbxassetid://2817046761"
+    Image = "rbxassetid://2817046761",
+    Filled = false
 })
 
 local Tabs = {
