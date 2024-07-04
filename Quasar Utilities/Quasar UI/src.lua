@@ -7,7 +7,7 @@ end)
 local function GetNumber(Instance, number)
 	local tabnumber = -number
 	for _, v in pairs(Instance:GetChildren()) do
-		if v:IsA("TextButton") or v:IsA("TextLabel") then
+		if v:IsA("TextLabel") or v:IsA("TextButton") and v.Name ~= "Dropdown" then
 			tabnumber = tabnumber + number
 			if DebugMode then
 				print("Tab Number = " .. tabnumber)
