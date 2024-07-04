@@ -393,7 +393,7 @@ function Module:MakeWindow(Properties)
                 DropdownExample.Text = Settings.Text
                 DropdownExample.TextColor3 = Color3.fromRGB(240, 240, 240)
                 DropdownExample.TextSize = 20.000
-                DropdownExample.Position = UDim2.new(0, 0, 0, GetNumber(ScrollingFrame, 53) + 162)
+                DropdownExample.Position = UDim2.new(0, 0, 0, GetNumber(ScrollingFrame, 53) - 162)
 
                 local UICorner = Instance.new("UICorner")
                 UICorner.Parent = DropdownExample
