@@ -130,17 +130,53 @@ function Module:MakeWindow(Properties)
 
 	function Window:FloatIcon(Properties)
         	local button = Instance.new("ImageButton")
-        	button.Parent = Main
-        	button.Image = Properties.Image
-        	button.Size = UDim2.new(0, 30, 0, 30)
-        	button.Position = UDim2.new(0, 250, 0, 250)
-        	button.Draggable = true
-        	button.Selectable = true
-	        button.Active = true
-	        Instance.new("UICorner", button)
-	        button.MouseButton1Click:Connect(function()
-		MainScript.Visible = not MainScript.Visible
-	    end)
+local u = Instance.new("ScreenGui", game.CoreGui)
+button.Parent = u
+button.Image = "rbxassetid://5004745622"
+button.Size = UDim2.new(0, 30, 0, 30)
+button.Position = UDim2.new(0, 250, 0, 250)
+button.Draggable = true
+button.Selectable = true
+button.Active = true
+button.ImageTransparency = 0
+local UC = Instance.new("UICorner", button)
+UC.CornerRadius = UDim.new(1, 0)
+button.MouseButton1Click:Connect(function()
+    local y = game:GetService("Players").LocalPlayer:GetMouse()
+    local z = Drawing.new("Circle")
+    z.Visible = true
+    z.Radius = 10
+    z.Filled = false
+    z.Color = Color3.new(0,1,0)
+    z.Position = Vector2.new(y.X, y.Y + 35)
+    local A = Instance.new("Folder")
+    A.Parent = u
+    A.Name = "Game nhu buoi"
+    local n = Instance.new("NumberValue")
+    n.Value = 10
+    n.Parent = A
+    n.Name = "Rua nhu buoi"
+    local B = Instance.new("NumberValue")
+    B.Value = 1
+    B.Parent = A
+    B.Name = "Rua nhu buoi 2"
+    local w = game:GetService("TweenService")
+    w:Create(n, TweenInfo.new(.25), {Value = 25}):Play()
+    w:Create(B, TweenInfo.new(.25), {Value = 0}):Play()
+    n:GetPropertyChangedSignal("Value"):Connect(
+        function()
+            z.Radius = n.Value
+        end
+    )
+    B:GetPropertyChangedSignal("Value"):Connect(
+        function()
+            z.Transparency = B.Value
+        end
+    )
+				MainScript.Visible = not MainScript.Visible
+    wait(.5)
+    A:Destroy()
+end)
 	    return button
 	end
 	
