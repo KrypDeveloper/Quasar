@@ -130,6 +130,7 @@ function Module:MakeWindow(Properties)
 		button.Image = Properties.Image
 		button.Size = UDim2.new(0,30,0,30)
 		button.Postion = UDim2.new(0,250,0,250)
+		Instance.new("UICorner",button)
 		button.MouseButton1Click:Connect(function()
 			MainScript.Visible = not MainScript.Visible
 		end)
@@ -151,10 +152,6 @@ function Module:MakeWindow(Properties)
 			ButtonExample.TextSize = 20.000
 			ButtonExample.TextXAlignment = Enum.TextXAlignment.Right
 			ButtonExample.Position = UDim2.new(0, 0, 0, GetNumber(Selection, 53))
-
-			local corner = Instance.new("UICorner")
-			corner.Parent = ButtonExample
-
 			if Tab.Icon and Tab.Icon ~= "" then
 				local icon = Instance.new("ImageLabel")
 				icon.Name = "icon"
@@ -180,6 +177,7 @@ function Module:MakeWindow(Properties)
 			ScrollingFrame.Position = UDim2.new(0.260344923, 0, 0.113043547, 0)
 			ScrollingFrame.Size = UDim2.new(0, 421, 0, 398)
 			ScrollingFrame.Visible = false
+			Instance.new("UICorner", ButtonExample)
 
 			local function SelectTab()
 				for _, v in pairs(TABS:GetChildren()) do
