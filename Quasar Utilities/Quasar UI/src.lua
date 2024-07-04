@@ -1,7 +1,9 @@
 Module = {}
 
 local DebugMode = false
-
+local sucess,icons = pcall(function()
+	return loadstring(game:HttpGet("https://github.com/KrypDeveloper/Quasar/blob/main/Quasar%20Utilities/Quasar%20UI/Icons.lua"))()
+end)
 local function GetNumber(Instance, number)
 	local tabnumber = -number
 	for _, v in pairs(Instance:GetChildren()) do
