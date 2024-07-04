@@ -129,19 +129,19 @@ function Module:MakeWindow(Properties)
 	end)
 
 	function Window:FloatIcon(Properties)
-		local button = Instance.new("ImageButton")
-		button.Parent = gethui()
-		button.Image = Properties.Image
-		button.Size = UDim2.new(0, 30, 0, 30)
-		button.Position = UDim2.new(0, 250, 0, 250)
-		button.Draggable = true
-		button.Selectable = true
-		button.Active = true
-		Instance.new("UICorner", button)
-		button.MouseButton1Click:Connect(function()
-			MainScript.Visible = not MainScript.Visible
-		end)
-		return button
+        	local button = Instance.new("ImageButton")
+        	button.Parent = gethui or game.CoreGui
+        	button.Image = Properties.Image
+        	button.Size = UDim2.new(0, 30, 0, 30)
+        	button.Position = UDim2.new(0, 250, 0, 250)
+        	button.Draggable = true
+        	button.Selectable = true
+	        button.Active = true
+	        Instance.new("UICorner", button)
+	        button.MouseButton1Click:Connect(function()
+		MainScript.Visible = not MainScript.Visible
+	    end)
+	    return button
 	end
 	
 	function Window:AddTab(Tab)
@@ -163,12 +163,12 @@ function Module:MakeWindow(Properties)
 			    ButtonExample.TextXAlignment = Enum.TextXAlignment.Center
 			end
 			ButtonExample.Position = UDim2.new(0, 0, 0, GetNumber(Selection, 53))
-			if Tab.Icon and Tab.Icon ~= "" then
+			if Tab.Icon and Tab.Icon ~= "" and Tab.Icon ~= nil then
 				local icon = Instance.new("ImageLabel")
 				icon.Name = "icon"
 				icon.Parent = ButtonExample
 				icon.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-				icon.BackgroundTransparency = 1.000
+				icon.BackgroundTransparency = 1
 				icon.BorderColor3 = Color3.fromRGB(0, 0, 0)
 				icon.BorderSizePixel = 0
 				icon.Position = UDim2.new(0, 10, 0, 0)
