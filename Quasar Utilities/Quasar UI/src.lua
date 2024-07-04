@@ -173,8 +173,12 @@ function Module:MakeWindow(Properties)
 				icon.BorderSizePixel = 0
 				icon.Position = UDim2.new(0, 10, 0, 0)
 				icon.Size = UDim2.new(0, 54, 0, 52)
-				icon.Image = Tab.Icon
 				icon.Selectable = false
+			    if icons[Tab.Icon] then
+				icon.Image = icons[Tab.Icon]
+			    else
+				icon.Image = Tab.Icon
+			    end
 			end
 
 			local ScrollingFrame = Instance.new("ScrollingFrame")
