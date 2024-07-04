@@ -100,8 +100,6 @@ function Module:MakeWindow(Properties)
 
     Selection.Name = "Selection"
     Selection.Parent = MainScript
-    Selection.AbsolutePosition = Vector2.new(181.365814, 66.3109436)
-    Selection.AbsoluteSize = Vector2.new(144, 380)
     Selection.BackgroundColor3 = Color3.new(0.0745098, 0.0745098, 0.129412)
     Selection.BorderColor3 = Color3.new(0.0862745, 0.0862745, 0.113725)
     Selection.BorderSizePixel = 4
