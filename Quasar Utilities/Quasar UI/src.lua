@@ -100,12 +100,15 @@ function Module:MakeWindow(Properties)
 
     Selection.Name = "Selection"
     Selection.Parent = MainScript
-    Selection.Active = true
-    Selection.BackgroundColor3 = Color3.fromRGB(19, 19, 33)
-    Selection.BorderColor3 = Color3.fromRGB(22, 22, 29)
+    Selection.AbsolutePosition = Vector2.new(181.365814, 66.3109436)
+    Selection.AbsoluteSize = Vector2.new(144, 380)
+    Selection.BackgroundColor3 = Color3.new(0.0745098, 0.0745098, 0.129412)
+    Selection.BorderColor3 = Color3.new(0.0862745, 0.0862745, 0.113725)
     Selection.BorderSizePixel = 4
-    Selection.Position = UDim2.new(-0.000559523993, 0, 0.11304348, 0)
-    Selection.Size = UDim2.new(0, 144, 0, 398)
+    Selection.Position = UDim2.new(0, 5, 0, 60)
+    Selection.Size = UDim2.new(0, 144, 0, 380)
+    Selection.AbsoluteCanvasSize = Vector2.new(144, 920)
+    Selection.AbsoluteWindowSize = Vector2.new(128, 380)
     Selection.VerticalScrollBarPosition = Enum.VerticalScrollBarPosition.Left
 
     DropShadowHolder.Name = "DropShadowHolder"
