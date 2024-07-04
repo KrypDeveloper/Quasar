@@ -40,7 +40,11 @@ function Module:MakeWindow(Properties)
     local DropShadow = Instance.new("ImageLabel")
 
     --Properties:
-
+    function Properties:Destroy()
+        Main:Destroy()
+        return true
+    end
+    
     Main.Name = "Main"
     Main.Parent = gethui() or game:GetService("CoreGui")
     Main.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
