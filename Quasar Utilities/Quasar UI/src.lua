@@ -105,8 +105,6 @@ function Module:MakeWindow(Properties)
     Selection.BorderSizePixel = 4
     Selection.Position = UDim2.new(0, 5, 0, 60)
     Selection.Size = UDim2.new(0, 144, 0, 380)
-    Selection.AbsoluteCanvasSize = Vector2.new(144, 920)
-    Selection.AbsoluteWindowSize = Vector2.new(128, 380)
     Selection.VerticalScrollBarPosition = Enum.VerticalScrollBarPosition.Left
 
     DropShadowHolder.Name = "DropShadowHolder"
