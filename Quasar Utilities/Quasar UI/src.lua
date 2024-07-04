@@ -33,7 +33,7 @@ function Module:MakeWindow(Properties)
 	--Properties:
 
 	Main.Name = "Main"
-	Main.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+	Main.Parent = gethui or game:GetService("CoreGui")
 	Main.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 
 	MainScript.Name = "MainScript"
