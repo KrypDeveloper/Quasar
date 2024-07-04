@@ -130,12 +130,12 @@ function Module:MakeWindow(Properties)
 		local button = Instance.new("ImageButton")
 		button.Parent = gethui()
 		button.Image = Properties.Image
-		button.Size = UDim2.new(0,30,0,30)
-		button.Postion = UDim2.new(0,250,0,250)
+		button.Size = UDim2.new(0, 30, 0, 30)
+		button.Position = UDim2.new(0, 250, 0, 250)
 		button.Draggable = true
 		button.Selectable = true
 		button.Active = true
-		Instance.new("UICorner",button)
+		Instance.new("UICorner", button)
 		button.MouseButton1Click:Connect(function()
 			MainScript.Visible = not MainScript.Visible
 		end)
