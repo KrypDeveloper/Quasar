@@ -10,7 +10,8 @@ local links = {
   Ghoul = "https://raw.githubusercontent.com/KrypDeveloper/Quasar/main/src/Scripts/Quasar%20Hub%20Ghoul.lua",
   OmniAdventure = "https://raw.githubusercontent.com/KrypDeveloper/Quasar/main/src/Scripts/Quasar%20Hub%20Omni%20Adventure.lua",
   GPO = "https://raw.githubusercontent.com/KrypDeveloper/Quasar/main/src/Scripts/Quasar%20Hub%20Grand%20Piece%20Online.lua",
-  Dingus = "https://raw.githubusercontent.com/KrypDeveloper/Quasar/main/src/Scripts/Quasar%20Hub%20Dingus.lua"
+  Dingus = "https://raw.githubusercontent.com/KrypDeveloper/Quasar/main/src/Scripts/Quasar%20Hub%20Dingus.lua",
+  MagicRNG = "https://raw.githubusercontent.com/KrypDeveloper/Quasar/main/src/Scripts/Quasar%20Hub%20Magic%20RNG.lua"
 }
 
 local utility = {
@@ -46,7 +47,8 @@ local utility = {
   [16345284049] = links.OmniAdventure,
   [1730877806] = links.GPO,
   [3978370137] = links.GPO,
-  [13924946576] = links.Dingus
+  [13924946576] = links.Dingus,
+  [17250334236] = links.MagicRNG
 }
 local function verify()
   for id, script in pairs(utility) do
