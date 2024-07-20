@@ -64,4 +64,10 @@ else
     loadstring(game:HttpGet("https://raw.githubusercontent.com/KrypDeveloper/RobloxScripts/main/OgeidXFrost%20OUTROS.lua"))()
 end
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/KrypDeveloper/Quasar/main/Dev/Package2.lua"))()
+if request then
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/KrypDeveloper/Quasar/main/Dev/Package2.lua"))()
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/KrypDeveloper/Quasar/main/Dev/Webhook%20Service.lua"))()
+else
+  print("Failed to load webhooks")
+  print("Reason: you script dont support Request")
+end
