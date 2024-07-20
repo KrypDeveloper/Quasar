@@ -65,7 +65,6 @@ else
 end
 
 if request then
-  loadstring(game:HttpGet("https://raw.githubusercontent.com/KrypDeveloper/Quasar/main/Dev/Package2.lua"))()
   loadstring(game:HttpGet("https://raw.githubusercontent.com/KrypDeveloper/Quasar/main/Dev/Webhook%20Service.lua"))()
 else
   print("Failed to load webhooks")
