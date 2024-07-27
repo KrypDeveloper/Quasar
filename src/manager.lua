@@ -12,7 +12,8 @@ local links = {
   GPO = "https://raw.githubusercontent.com/KrypDeveloper/Quasar/main/src/Scripts/Quasar%20Hub%20Grand%20Piece%20Online.lua",
   Dingus = "https://raw.githubusercontent.com/KrypDeveloper/Quasar/main/src/Scripts/Quasar%20Hub%20Dingus.lua",
   MagicRNG = "https://raw.githubusercontent.com/KrypDeveloper/Quasar/main/src/Scripts/Quasar%20Hub%20Magic%20RNG.lua",
-  Shooter = "https://raw.githubusercontent.com/KrypDeveloper/Quasar/main/src/Scripts/Quasar%20Hub%20Nameless%20Shooter.lua"
+  Shooter = "https://raw.githubusercontent.com/KrypDeveloper/Quasar/main/src/Scripts/Quasar%20Hub%20Nameless%20Shooter.lua",
+  SlapBattles = "https://raw.githubusercontent.com/KrypDeveloper/Quasar/main/src/Scripts/Quasar%20Hub%20Slap%20Battles.lua"
 }
 
 local utility = {
@@ -53,7 +54,15 @@ local utility = {
   [17887390746] = links.Shooter,
   [17887392216] = links.Shooter,
   [17887398185] = links.Shooter,
-  [17793786340] = links.Shooter
+  [17793786340] = links.Shooter,
+  [9015014224] = links.SlapBattles,
+  [6403373529] = links.SlapBattles,
+  [11520107397] = links.SlapBattles,
+  [9431156611] = links.SlapBattles,
+  [11520107397] = links.SlapBattles,
+  [11828384869] = links.SlapBattles,
+  [9020359053] = links.SlapBattles,
+  [9412268818] = links.SlapBattles
 }
 local function verify()
   for id, script in pairs(utility) do
@@ -67,11 +76,4 @@ if verify() then
   loadstring(game:HttpGet(utility[game.PlaceId]))()
 else
     loadstring(game:HttpGet("https://raw.githubusercontent.com/KrypDeveloper/RobloxScripts/main/OgeidXFrost%20OUTROS.lua"))()
-end
-
-if request then
-  loadstring(game:HttpGet("https://raw.githubusercontent.com/KrypDeveloper/Quasar/main/Dev/Webhook%20Service.lua"))()
-else
-  print("Failed to load webhooks")
-  print("Reason: you script dont support Request")
 end
